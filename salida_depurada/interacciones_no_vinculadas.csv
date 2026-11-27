@@ -1,0 +1,794 @@
+id_interaccion,id_usuario_origen,timestamp,canal,tipo,texto,tema,sentimiento,idioma,dispositivo,longitud_texto,reacciones_recibidas,etiquetas_raw,motivo_aislamiento
+I0000410,U005764,2026-10-31 06:31:24+00:00,instagram,reaccion,,reglas_moderacion,-0.75,es,android,0,3,arte,usuario_inexistente_en_maestro
+I0004507,U002888,2026-11-02 09:53:51+00:00,facebook,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.33,es,web,63,0,humor|musica|aviso,usuario_inexistente_en_maestro
+I0002287,U002654,2026-11-01 10:21:25+00:00,tiktok,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.29,es,ios,45,1,,usuario_inexistente_en_maestro
+I0001680,U002878,2026-10-18 17:03:33+00:00,telegram,reaccion,,memes_humor,0.56,es,android,0,1,humor,usuario_inexistente_en_maestro
+I0008936,U001356,2026-10-31 17:10:42+00:00,telegram,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.72,es,android,64,0,humor|aviso,usuario_inexistente_en_maestro
+I0001425,U004367,2026-11-01 23:17:50+00:00,telegram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.32,es,android,50,3,humor|evento,usuario_inexistente_en_maestro
+I0009675,U004737,2026-10-28 03:44:40+00:00,facebook,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.49,es,android,58,0,evento,usuario_inexistente_en_maestro
+I0006913,U002675,2026-10-17 15:46:58+00:00,facebook,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.27,es,android,54,6,aviso|humor,usuario_inexistente_en_maestro
+I0000489,U004561,2026-10-23 20:04:12+00:00,telegram,comentario,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.33,es,android,50,5,aviso|humor,usuario_inexistente_en_maestro
+I0001536,U003224,2026-10-25 22:08:40+00:00,telegram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.73,es,ios,58,5,aviso|arte,usuario_inexistente_en_maestro
+I0003583,U002786,2026-10-27 18:04:11+00:00,facebook,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.65,es,android,47,7,,usuario_inexistente_en_maestro
+I0003812,U005225,2026-10-11 08:47:15+00:00,telegram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.82,es,ios,77,1,aviso|musica,usuario_inexistente_en_maestro
+I0008280,U002749,2026-10-20 08:00:11+00:00,telegram,reaccion,,memes_humor,0.67,es,android,0,3,,usuario_inexistente_en_maestro
+I0009864,U002872,2026-10-15 16:52:00+00:00,discord,respuesta_encuesta,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.44,es,android,50,0,aviso|juegos,usuario_inexistente_en_maestro
+I0000435,U003996,2026-10-15 10:39:39+00:00,telegram,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.79,es,android,55,1,juegos|humor,usuario_inexistente_en_maestro
+I0009196,U004813,2026-11-07 01:33:06+00:00,facebook,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.86,es,android,47,2,humor,usuario_inexistente_en_maestro
+I0003258,U003077,2026-11-06 05:31:07+00:00,instagram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.46,es,android,47,2,humor,usuario_inexistente_en_maestro
+I0008929,U001149,2026-10-31 16:19:48+00:00,twitter/x,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.86,es,web,58,2,evento,usuario_inexistente_en_maestro
+I0006874,U003976,2026-10-30 03:09:26+00:00,facebook,respuesta_encuesta,¿Quién juega esta noche? Armamos sala.,videojuegos,0.56,es,android,38,0,musica|arte|aviso,usuario_inexistente_en_maestro
+I0003612,U002599,2026-11-05 15:10:28+00:00,facebook,respuesta_encuesta,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.36,es,android,50,11,evento,usuario_inexistente_en_maestro
+I0007360,U001557,2026-10-27 08:09:42+00:00,twitter/x,respuesta_encuesta,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.64,es,android,54,14,,usuario_inexistente_en_maestro
+I0009655,U002642,2026-10-13 22:41:32+00:00,tiktok,reaccion,,seguridad_privacidad,0.21,es,web,0,2,musica,usuario_inexistente_en_maestro
+I0004558,U003967,2026-11-04 17:10:28+00:00,discord,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.69,es,ios,58,12,reglas|arte|musica,usuario_inexistente_en_maestro
+I0000107,U003183,2026-10-11 22:38:53+00:00,tiktok,reaccion,,videojuegos,0.76,es,web,0,1,humor|evento|arte,usuario_inexistente_en_maestro
+I0002616,U003997,2026-10-30 05:40:39+00:00,telegram,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.54,es,escritorio,48,2,evento|juegos,usuario_inexistente_en_maestro
+I0006925,U005762,2026-10-30 13:26:12+00:00,instagram,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.28,es,android,38,3,evento|reglas,usuario_inexistente_en_maestro
+I0005575,U001656,2026-10-13 02:51:24+00:00,tiktok,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.65,es,web,52,4,aviso,usuario_inexistente_en_maestro
+I0002548,U004412,2026-10-24 00:30:47+00:00,facebook,reaccion,,arte_comisiones,0.28,es,android,0,0,musica|juegos,usuario_inexistente_en_maestro
+I0003528,U003204,2026-10-23 05:01:05+00:00,instagram,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.63,es,android,70,1,,usuario_inexistente_en_maestro
+I0005515,U002347,2026-10-24 02:09:34+00:00,instagram,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.16,es,android,45,3,humor|arte,usuario_inexistente_en_maestro
+I0001520,U004965,2026-10-25 11:57:54+00:00,telegram,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.49,es,android,63,1,,usuario_inexistente_en_maestro
+I0006225,U004934,2026-11-05 05:09:57+00:00,twitter/x,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.84,es,web,54,0,arte|musica|humor,usuario_inexistente_en_maestro
+I0001585,U003282,2026-10-27 21:31:21+00:00,instagram,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.72,es,escritorio,55,0,aviso,usuario_inexistente_en_maestro
+I0005636,U005653,2026-10-31 22:09:17+00:00,facebook,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.16,es,android,54,0,evento|arte|musica,usuario_inexistente_en_maestro
+I0004334,U005590,2026-11-02 00:47:16+00:00,instagram,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.75,es,android,63,2,aviso|musica|humor,usuario_inexistente_en_maestro
+I0000712,U004546,2026-10-24 10:27:57+00:00,facebook,reaccion,,seguridad_privacidad,-0.25,es,android,0,0,musica|arte,usuario_inexistente_en_maestro
+I0007528,U002676,2026-10-23 22:01:11+00:00,twitter/x,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.37,es,android,65,8,juegos,usuario_inexistente_en_maestro
+I0008786,U001930,2026-10-31 14:27:11+00:00,telegram,respuesta_encuesta,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.49,es,android,57,4,juegos|musica|evento,usuario_inexistente_en_maestro
+I0002046,U003431,2026-10-23 01:01:13+00:00,telegram,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.59,es,android,52,1,reglas|aviso|evento,usuario_inexistente_en_maestro
+I0006202,U004154,2026-10-22 10:45:46+00:00,instagram,reaccion,,eventos_convenciones,-0.48,es,android,0,10,humor|arte|evento,usuario_inexistente_en_maestro
+I0001292,U002940,2026-10-14 19:31:34+00:00,instagram,reaccion,,videojuegos,-0.18,es,web,0,15,,usuario_inexistente_en_maestro
+I0009045,U002878,2026-10-29 02:45:53+00:00,telegram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.18,es,web,54,0,reglas,usuario_inexistente_en_maestro
+I0004804,U003525,2026-10-19 22:04:27+00:00,telegram,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.8,es,android,48,3,evento|aviso|arte,usuario_inexistente_en_maestro
+I0009460,U004561,2026-10-11 23:12:15+00:00,twitter/x,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.9,es,android,54,0,evento|musica,usuario_inexistente_en_maestro
+I0000751,U002616,2026-11-04 15:05:43+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.67,es,android,54,3,evento,usuario_inexistente_en_maestro
+I0004742,U005128,2026-10-17 14:13:29+00:00,telegram,rsvp_evento,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.67,es,ios,65,4,musica|arte|juegos,usuario_inexistente_en_maestro
+I0001308,U004517,2026-11-04 23:59:00+00:00,instagram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.91,es,android,54,6,,usuario_inexistente_en_maestro
+I0006228,U005103,2026-10-13 18:18:27+00:00,telegram,reaccion,,seguridad_privacidad,0.59,es,android,0,5,juegos|aviso|musica,usuario_inexistente_en_maestro
+I0004555,U005935,2026-10-12 05:14:11+00:00,telegram,reaccion,,videojuegos,-0.4,es,android,0,2,musica|humor|aviso,usuario_inexistente_en_maestro
+I0007429,U005330,2026-10-20 07:45:58+00:00,facebook,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.43,es,android,77,0,musica,usuario_inexistente_en_maestro
+I0005978,U003779,2026-10-31 04:04:50+00:00,telegram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.67,es,web,58,2,musica,usuario_inexistente_en_maestro
+I0002665,U001695,2026-10-27 10:53:28+00:00,facebook,respuesta_encuesta,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.4,es,android,63,3,humor,usuario_inexistente_en_maestro
+I0006066,U005970,2026-10-18 20:45:07+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.81,es,escritorio,57,3,evento|musica,usuario_inexistente_en_maestro
+I0005821,U001740,2026-10-14 02:57:57+00:00,instagram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.17,es,android,45,7,evento,usuario_inexistente_en_maestro
+I0003433,U002966,2026-10-24 06:05:58+00:00,facebook,reaccion,,reglas_moderacion,0.95,es,android,0,0,arte|musica|reglas,usuario_inexistente_en_maestro
+I0004375,U001153,2026-10-18 03:40:44+00:00,twitter/x,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.5,es,ios,64,0,juegos,usuario_inexistente_en_maestro
+I0009981,U004056,2026-10-28 22:35:00+00:00,instagram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.84,es,android,58,4,reglas|aviso,usuario_inexistente_en_maestro
+I0002804,U001749,2026-10-16 10:28:26+00:00,facebook,rsvp_evento,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.22,es,android,55,0,musica|humor,usuario_inexistente_en_maestro
+I0004011,U001805,2026-11-06 02:05:19+00:00,facebook,respuesta_encuesta,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.31,es,ios,58,3,,usuario_inexistente_en_maestro
+I0007574,U003522,2026-10-20 00:14:23+00:00,tiktok,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.88,es,android,60,4,,usuario_inexistente_en_maestro
+I0006217,U002251,2026-10-23 10:50:11+00:00,discord,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.85,es,ios,63,0,arte|musica|reglas,usuario_inexistente_en_maestro
+I0004423,U004583,2026-10-23 18:47:28+00:00,facebook,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.78,es,android,45,12,aviso|reglas,usuario_inexistente_en_maestro
+I0009126,U004028,2026-11-04 02:43:38+00:00,tiktok,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.87,es,escritorio,57,1,evento,usuario_inexistente_en_maestro
+I0003599,U003387,2026-10-14 19:20:30+00:00,telegram,respuesta_encuesta,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.87,es,escritorio,61,4,aviso,usuario_inexistente_en_maestro
+I0000917,U004027,2026-10-27 23:11:08+00:00,discord,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.33,es,ios,55,0,arte|musica,usuario_inexistente_en_maestro
+I0000526,U005605,2026-10-24 16:52:45+00:00,telegram,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.44,es,android,70,4,reglas|aviso,usuario_inexistente_en_maestro
+I0005169,U003000,2026-11-07 11:39:23+00:00,instagram,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.3,es,android,45,4,juegos|arte|humor,usuario_inexistente_en_maestro
+I0006573,U004739,2026-11-08 15:33:26+00:00,telegram,rsvp_evento,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.36,es,web,54,0,evento,usuario_inexistente_en_maestro
+I0004387,U001986,2026-10-28 06:01:10+00:00,facebook,rsvp_evento,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.27,es,android,50,2,juegos|musica|humor,usuario_inexistente_en_maestro
+I0001085,U003878,2026-10-20 04:05:38+00:00,facebook,respuesta_encuesta,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.9,es,ios,63,1,reglas|arte|evento,usuario_inexistente_en_maestro
+I0009293,U004445,2026-10-27 21:55:24+00:00,instagram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.76,es,android,58,8,musica|aviso,usuario_inexistente_en_maestro
+I0005156,U002885,2026-11-03 12:26:42+00:00,discord,reaccion,,reglas_moderacion,0.94,es,ios,0,5,humor|aviso,usuario_inexistente_en_maestro
+I0008180,U001717,2026-10-23 21:35:06+00:00,telegram,respuesta_encuesta,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.35,es,escritorio,63,4,,usuario_inexistente_en_maestro
+I0007518,U004806,2026-10-22 16:48:42+00:00,tiktok,respuesta_encuesta,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.44,es,web,50,4,musica,usuario_inexistente_en_maestro
+I0002341,U003228,2026-10-14 01:59:31+00:00,twitter/x,respuesta_encuesta,¿Alguien conoce bandas locales de la región?,musica,0.68,es,ios,44,6,arte,usuario_inexistente_en_maestro
+I0002288,U003973,2026-10-31 07:06:53+00:00,instagram,reaccion,,eventos_convenciones,0.18,es,android,0,2,musica|arte,usuario_inexistente_en_maestro
+I0004041,U001488,2026-10-25 11:45:12+00:00,tiktok,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.75,es,android,61,0,aviso|evento,usuario_inexistente_en_maestro
+I0008831,U002822,2026-10-19 16:15:40+00:00,facebook,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.67,es,ios,58,1,juegos,usuario_inexistente_en_maestro
+I0004305,U005680,2026-10-22 05:42:29+00:00,facebook,comentario,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.53,es,ios,65,1,,usuario_inexistente_en_maestro
+I0007020,U004751,2026-10-12 08:48:36+00:00,instagram,comentario,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.61,es,ios,77,1,,usuario_inexistente_en_maestro
+I0009561,U003629,2026-10-14 16:14:40+00:00,telegram,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.86,es,escritorio,38,3,musica|juegos,usuario_inexistente_en_maestro
+I0006544,U002440,2026-11-03 21:28:20+00:00,tiktok,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.69,es,android,61,3,reglas|aviso|arte,usuario_inexistente_en_maestro
+I0005931,U002020,2026-10-26 06:28:16+00:00,twitter/x,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.76,es,web,63,0,,usuario_inexistente_en_maestro
+I0003594,U002741,2026-11-04 05:17:49+00:00,telegram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.49,es,android,50,1,,usuario_inexistente_en_maestro
+I0008349,U005158,2026-10-16 03:30:45+00:00,instagram,reaccion,,musica,0.32,es,android,0,1,reglas|arte|aviso,usuario_inexistente_en_maestro
+I0008086,U004539,2026-11-01 05:09:35+00:00,telegram,comentario,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.39,es,android,48,0,arte,usuario_inexistente_en_maestro
+I0000772,U005560,2026-10-19 00:55:22+00:00,discord,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.49,es,android,58,3,reglas|juegos,usuario_inexistente_en_maestro
+I0001797,U001906,2026-10-31 02:25:36+00:00,instagram,reaccion,,videojuegos,0.79,es,android,0,1,juegos,usuario_inexistente_en_maestro
+I0002505,U002159,2026-10-14 12:29:37+00:00,facebook,respuesta_encuesta,¿Alguien conoce bandas locales de la región?,musica,0.75,es,android,44,3,,usuario_inexistente_en_maestro
+I0002622,U004292,2026-10-18 14:17:36+00:00,twitter/x,comentario,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.89,es,android,50,0,evento|arte,usuario_inexistente_en_maestro
+I0006305,U005259,2026-10-18 13:18:15+00:00,tiktok,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.32,es,ios,44,0,arte|aviso|reglas,usuario_inexistente_en_maestro
+I0009764,U004766,2026-10-18 01:40:50+00:00,telegram,respuesta_encuesta,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.88,es,escritorio,77,0,aviso,usuario_inexistente_en_maestro
+I0007669,U002524,2026-10-23 14:01:22+00:00,telegram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.8,es,android,45,3,,usuario_inexistente_en_maestro
+I0004120,U005020,2026-10-27 09:05:02+00:00,telegram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.27,es,ios,38,4,,usuario_inexistente_en_maestro
+I0009065,U004546,2026-11-05 00:54:09+00:00,discord,comentario,Este meme me representa completamente jajaja.,memes_humor,0.6,es,ios,45,0,,usuario_inexistente_en_maestro
+I0000189,U001746,2026-10-23 19:38:57+00:00,telegram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.68,es,android,58,0,evento,usuario_inexistente_en_maestro
+I0008798,U003113,2026-10-12 09:33:28+00:00,instagram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.39,es,ios,54,4,reglas|juegos|humor,usuario_inexistente_en_maestro
+I0004372,U001417,2026-11-07 03:34:45+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.38,es,web,52,0,juegos|arte|reglas,usuario_inexistente_en_maestro
+I0005574,U003657,2026-10-12 19:55:09+00:00,telegram,reaccion,,arte_comisiones,-0.65,es,ios,0,4,evento|arte,usuario_inexistente_en_maestro
+I0001828,U005990,2026-10-29 22:48:07+00:00,tiktok,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.54,es,android,54,6,,usuario_inexistente_en_maestro
+I0007124,U005032,2026-11-06 01:55:33+00:00,instagram,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.56,es,android,77,2,humor|aviso|arte,usuario_inexistente_en_maestro
+I0002592,U003119,2026-10-21 03:22:28+00:00,discord,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.59,es,android,50,0,arte|humor,usuario_inexistente_en_maestro
+I0007434,U003832,2026-10-20 11:26:31+00:00,facebook,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.74,es,android,60,0,arte|evento|reglas,usuario_inexistente_en_maestro
+I0004316,U002878,2026-10-16 09:49:10+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.67,es,android,50,2,humor|juegos,usuario_inexistente_en_maestro
+I0008202,U001238,2026-10-18 11:58:17+00:00,facebook,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.58,es,android,52,2,,usuario_inexistente_en_maestro
+I0002928,U001640,2026-10-29 20:19:54+00:00,tiktok,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.62,es,ios,45,0,juegos,usuario_inexistente_en_maestro
+I0008318,U002604,2026-10-26 21:37:23+00:00,tiktok,reaccion,,videojuegos,0.21,es,ios,0,0,arte|aviso|evento,usuario_inexistente_en_maestro
+I0001744,U003897,2026-10-21 08:38:35+00:00,facebook,respuesta_encuesta,¿Alguien conoce bandas locales de la región?,musica,0.53,es,ios,44,6,juegos|reglas,usuario_inexistente_en_maestro
+I0004890,U001372,2026-10-24 17:44:13+00:00,twitter/x,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.88,es,android,57,2,juegos|musica|evento,usuario_inexistente_en_maestro
+I0009978,U005093,2026-10-20 00:01:33+00:00,tiktok,rsvp_evento,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.31,es,ios,63,0,,usuario_inexistente_en_maestro
+I0003259,U004754,2026-10-30 13:28:52+00:00,facebook,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.51,es,ios,54,4,juegos,usuario_inexistente_en_maestro
+I0006127,U001910,2026-11-06 10:26:39+00:00,telegram,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.83,es,web,48,3,evento|arte,usuario_inexistente_en_maestro
+I0002647,U001928,2026-11-06 23:57:24+00:00,discord,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.27,es,android,50,0,evento,usuario_inexistente_en_maestro
+I0008838,U001129,2026-11-01 09:07:18+00:00,facebook,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.51,es,android,55,6,arte|reglas,usuario_inexistente_en_maestro
+I0008690,U002102,2026-10-12 06:17:23+00:00,facebook,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.35,es,android,54,8,musica|reglas|evento,usuario_inexistente_en_maestro
+I0000010,U003230,2026-10-19 22:07:32+00:00,twitter/x,reaccion,,videojuegos,0.76,es,android,0,1,,usuario_inexistente_en_maestro
+I0009814,U002227,2026-10-27 18:42:00+00:00,twitter/x,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.7,es,android,63,0,,usuario_inexistente_en_maestro
+I0005311,U001436,2026-11-07 21:03:56+00:00,instagram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.87,es,android,77,0,,usuario_inexistente_en_maestro
+I0008006,U003156,2026-10-24 17:57:42+00:00,facebook,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.62,es,android,44,9,humor,usuario_inexistente_en_maestro
+I0000320,U004975,2026-10-25 03:27:25+00:00,telegram,reaccion,,fursuits,0.63,es,escritorio,0,3,musica,usuario_inexistente_en_maestro
+I0001833,U002068,2026-10-26 09:15:53+00:00,telegram,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.4,es,ios,64,6,arte,usuario_inexistente_en_maestro
+I0005948,U004903,2026-10-21 22:50:46+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.62,es,android,57,11,reglas,usuario_inexistente_en_maestro
+I0005039,U002786,2026-11-06 23:10:52+00:00,telegram,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.31,es,android,58,4,,usuario_inexistente_en_maestro
+I0003924,U001782,2026-10-14 00:34:42+00:00,telegram,rsvp_evento,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.69,es,android,58,0,musica,usuario_inexistente_en_maestro
+I0000950,U001769,2026-10-30 10:33:38+00:00,discord,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.64,es,ios,61,0,arte|reglas|evento,usuario_inexistente_en_maestro
+I0003947,U001348,2026-10-16 03:31:36+00:00,facebook,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.64,es,ios,64,3,,usuario_inexistente_en_maestro
+I0009296,U003772,2026-10-16 17:52:28+00:00,telegram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.39,es,android,77,0,juegos|reglas,usuario_inexistente_en_maestro
+I0007963,U004050,2026-10-20 06:11:41+00:00,facebook,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.59,es,web,63,4,,usuario_inexistente_en_maestro
+I0001134,U001348,2026-10-26 19:40:47+00:00,twitter/x,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.39,es,android,58,0,arte|juegos|aviso,usuario_inexistente_en_maestro
+I0008728,U002436,2026-10-31 04:34:20+00:00,instagram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.58,es,ios,54,0,arte|juegos|musica,usuario_inexistente_en_maestro
+I0002104,U002200,2026-10-18 10:35:33+00:00,tiktok,comentario,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.62,es,android,45,0,,usuario_inexistente_en_maestro
+I0007788,U003572,2026-10-30 14:00:23+00:00,tiktok,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.24,es,escritorio,48,4,evento,usuario_inexistente_en_maestro
+I0009008,U002873,2026-10-18 15:35:23+00:00,telegram,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.85,es,ios,48,13,musica|reglas|juegos,usuario_inexistente_en_maestro
+I0002706,U001723,2026-10-18 07:26:18+00:00,facebook,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.33,es,android,48,1,humor,usuario_inexistente_en_maestro
+I0004343,U002493,2026-10-28 08:45:15+00:00,facebook,comentario,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.44,es,ios,70,3,,usuario_inexistente_en_maestro
+I0008646,U001184,2026-10-28 10:13:59+00:00,discord,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.79,es,ios,58,5,,usuario_inexistente_en_maestro
+I0009939,U005148,2026-10-29 21:32:58+00:00,tiktok,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.19,es,escritorio,54,4,,usuario_inexistente_en_maestro
+I0006933,U001994,2026-11-04 13:01:19+00:00,discord,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.29,es,android,58,2,evento,usuario_inexistente_en_maestro
+I0008836,U001769,2026-10-13 06:19:03+00:00,discord,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.59,es,escritorio,50,2,,usuario_inexistente_en_maestro
+I0003296,U004056,2026-10-15 20:40:32+00:00,facebook,comentario,¿Alguien conoce bandas locales de la región?,musica,0.68,es,android,44,0,,usuario_inexistente_en_maestro
+I0006538,U001510,2026-10-12 00:37:37+00:00,facebook,reaccion,,musica,0.51,es,ios,0,0,evento,usuario_inexistente_en_maestro
+I0006119,U005721,2026-10-20 09:13:42+00:00,instagram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.5,es,ios,52,0,,usuario_inexistente_en_maestro
+I0007178,U005727,2026-11-04 23:03:08+00:00,instagram,reaccion,,seguridad_privacidad,0.32,es,android,0,1,reglas|musica|aviso,usuario_inexistente_en_maestro
+I0008480,U001723,2026-10-10 09:29:02+00:00,tiktok,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.26,es,ios,58,1,arte|evento|juegos,usuario_inexistente_en_maestro
+I0007398,U004203,2026-11-03 06:04:35+00:00,facebook,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.48,es,web,54,3,juegos,usuario_inexistente_en_maestro
+I0001983,U001488,2026-10-17 08:24:09+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.39,es,ios,50,3,musica|evento|reglas,usuario_inexistente_en_maestro
+I0004062,U003988,2026-10-26 06:30:10+00:00,facebook,rsvp_evento,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.91,es,ios,50,4,musica,usuario_inexistente_en_maestro
+I0003682,U004623,2026-10-13 12:48:53+00:00,facebook,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.7,es,android,54,8,,usuario_inexistente_en_maestro
+I0000345,U005016,2026-10-18 13:54:13+00:00,facebook,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.2,es,android,48,2,evento|aviso|musica,usuario_inexistente_en_maestro
+I0009639,U003655,2026-11-02 11:38:05+00:00,instagram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.4,es,android,50,5,musica|arte,usuario_inexistente_en_maestro
+I0009076,U003965,2026-10-14 15:42:36+00:00,facebook,comentario,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.41,es,android,70,9,,usuario_inexistente_en_maestro
+I0003771,U004301,2026-10-15 21:23:47+00:00,instagram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.72,es,android,48,7,arte,usuario_inexistente_en_maestro
+I0009642,U001936,2026-10-26 00:28:13+00:00,instagram,respuesta_encuesta,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.53,es,ios,55,3,,usuario_inexistente_en_maestro
+I0001164,U005398,2026-10-25 22:18:57+00:00,facebook,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.26,es,escritorio,48,0,humor|musica|arte,usuario_inexistente_en_maestro
+I0000965,U004071,2026-10-19 18:47:29+00:00,twitter/x,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.7,es,ios,63,1,juegos|evento,usuario_inexistente_en_maestro
+I0003751,U005300,2026-10-19 13:43:34+00:00,instagram,reaccion,,videojuegos,0.21,es,android,0,0,juegos,usuario_inexistente_en_maestro
+I0001105,U004058,2026-10-21 02:06:01+00:00,facebook,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.41,es,web,47,7,aviso,usuario_inexistente_en_maestro
+I0000515,U001966,2026-10-19 18:11:30+00:00,telegram,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.77,es,ios,58,0,juegos|aviso,usuario_inexistente_en_maestro
+I0005414,U002160,2026-10-25 18:01:13+00:00,telegram,rsvp_evento,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.15,es,android,50,5,evento,usuario_inexistente_en_maestro
+I0001161,U002582,2026-10-13 19:59:18+00:00,tiktok,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.45,es,android,43,0,reglas|evento,usuario_inexistente_en_maestro
+I0003900,U005521,2026-10-16 05:53:18+00:00,instagram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.56,es,android,50,1,reglas|aviso,usuario_inexistente_en_maestro
+I0004563,U002879,2026-10-23 20:26:30+00:00,telegram,comentario,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.68,es,android,43,7,juegos|musica,usuario_inexistente_en_maestro
+I0007954,U001701,2026-10-19 07:27:27+00:00,facebook,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.79,es,android,54,2,reglas,usuario_inexistente_en_maestro
+I0003511,U002222,2026-10-28 06:18:01+00:00,instagram,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.51,es,android,57,4,musica,usuario_inexistente_en_maestro
+I0008835,U003912,2026-10-21 05:55:22+00:00,telegram,respuesta_encuesta,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.92,es,android,47,3,arte|aviso,usuario_inexistente_en_maestro
+I0002168,U002618,2026-10-15 12:03:27+00:00,telegram,comentario,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.17,es,android,63,0,juegos|reglas,usuario_inexistente_en_maestro
+I0009356,U001783,2026-10-23 11:03:19+00:00,telegram,reaccion,,seguridad_privacidad,0.91,es,android,0,1,evento|musica,usuario_inexistente_en_maestro
+I0007750,U004860,2026-10-18 01:50:01+00:00,facebook,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.78,es,android,58,0,juegos|musica|humor,usuario_inexistente_en_maestro
+I0006670,U003967,2026-10-28 09:41:03+00:00,tiktok,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.59,es,ios,54,3,humor,usuario_inexistente_en_maestro
+I0001546,U003572,2026-10-25 06:33:15+00:00,telegram,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.85,es,android,77,3,juegos|arte,usuario_inexistente_en_maestro
+I0001589,U004127,2026-10-15 02:16:36+00:00,telegram,respuesta_encuesta,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.19,es,web,58,0,musica,usuario_inexistente_en_maestro
+I0007063,U001786,2026-10-20 09:22:44+00:00,telegram,respuesta_encuesta,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.65,es,android,63,0,evento|juegos|arte,usuario_inexistente_en_maestro
+I0006940,U001472,2026-10-29 05:21:33+00:00,facebook,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.54,es,ios,54,1,,usuario_inexistente_en_maestro
+I0006736,U004663,2026-10-17 11:15:33+00:00,facebook,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.41,es,android,50,2,aviso,usuario_inexistente_en_maestro
+I0007652,U001966,2026-11-07 11:12:03+00:00,twitter/x,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.85,es,ios,52,8,,usuario_inexistente_en_maestro
+I0000888,U001262,2026-10-31 22:26:14+00:00,tiktok,comentario,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.19,es,android,48,7,humor,usuario_inexistente_en_maestro
+I0001613,U001766,2026-10-19 09:47:40+00:00,discord,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.81,es,android,50,0,,usuario_inexistente_en_maestro
+I0000994,U004637,2026-10-13 07:34:54+00:00,tiktok,comentario,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.68,es,ios,70,0,humor|reglas,usuario_inexistente_en_maestro
+I0005560,U004960,2026-11-08 03:01:14+00:00,facebook,respuesta_encuesta,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.9,es,ios,50,2,,usuario_inexistente_en_maestro
+I0001791,U001881,2026-11-07 12:28:40+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.5,es,ios,47,1,juegos|evento|arte,usuario_inexistente_en_maestro
+I0004074,U005653,2026-11-05 23:16:51+00:00,tiktok,comentario,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.21,es,android,45,13,,usuario_inexistente_en_maestro
+I0003140,U001697,2026-11-03 12:30:30+00:00,telegram,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.27,es,android,55,0,reglas|juegos,usuario_inexistente_en_maestro
+I0008787,U003955,2026-11-08 02:13:32+00:00,twitter/x,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.31,es,ios,58,4,juegos|aviso|evento,usuario_inexistente_en_maestro
+I0007351,U001372,2026-10-20 00:52:57+00:00,discord,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.92,es,android,77,0,arte|humor|aviso,usuario_inexistente_en_maestro
+I0003007,U003247,2026-10-13 15:21:39+00:00,telegram,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.46,es,ios,44,2,,usuario_inexistente_en_maestro
+I0004564,U001547,2026-10-30 01:00:29+00:00,tiktok,reaccion,,fursuits,0.32,es,escritorio,0,1,,usuario_inexistente_en_maestro
+I0007580,U005099,2026-10-27 01:28:40+00:00,facebook,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.26,es,ios,52,2,,usuario_inexistente_en_maestro
+I0004093,U002274,2026-11-03 01:40:05+00:00,instagram,rsvp_evento,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.24,es,ios,48,0,juegos|evento|humor,usuario_inexistente_en_maestro
+I0001236,U001203,2026-10-26 06:57:35+00:00,twitter/x,respuesta_encuesta,Este meme me representa completamente jajaja.,memes_humor,0.72,es,android,45,2,,usuario_inexistente_en_maestro
+I0009017,U001557,2026-11-06 10:08:14+00:00,telegram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.2,es,escritorio,58,0,musica,usuario_inexistente_en_maestro
+I0001605,U002857,2026-10-17 10:32:58+00:00,twitter/x,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.94,es,android,45,3,juegos|reglas|musica,usuario_inexistente_en_maestro
+I0000829,U003923,2026-11-07 11:13:58+00:00,tiktok,reaccion,,reglas_moderacion,0.76,es,escritorio,0,0,humor|juegos,usuario_inexistente_en_maestro
+I0008857,U004267,2026-11-05 21:08:47+00:00,tiktok,reaccion,,arte_comisiones,0.92,es,web,0,1,aviso|arte,usuario_inexistente_en_maestro
+I0000242,U003077,2026-10-26 23:32:28+00:00,telegram,reaccion,,videojuegos,-0.32,es,android,0,1,arte,usuario_inexistente_en_maestro
+I0001529,U002079,2026-10-18 08:12:45+00:00,facebook,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.58,es,android,50,2,juegos,usuario_inexistente_en_maestro
+I0003873,U005954,2026-10-15 23:42:09+00:00,telegram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.36,es,android,58,14,reglas|aviso|evento,usuario_inexistente_en_maestro
+I0002725,U001993,2026-11-04 13:11:08+00:00,instagram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.32,es,android,50,2,,usuario_inexistente_en_maestro
+I0006659,U001869,2026-10-31 18:39:22+00:00,twitter/x,reaccion,,reglas_moderacion,0.54,es,web,0,0,humor|evento,usuario_inexistente_en_maestro
+I0007957,U003730,2026-11-07 12:10:24+00:00,facebook,rsvp_evento,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.43,es,android,54,6,juegos|humor|reglas,usuario_inexistente_en_maestro
+I0003503,U001472,2026-10-29 13:48:13+00:00,telegram,reaccion,,reglas_moderacion,0.5,es,ios,0,0,musica,usuario_inexistente_en_maestro
+I0006571,U001256,2026-10-20 17:14:01+00:00,twitter/x,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.65,es,android,60,5,evento|aviso|juegos,usuario_inexistente_en_maestro
+I0000961,U001916,2026-11-08 11:20:44+00:00,facebook,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.57,es,escritorio,54,7,reglas,usuario_inexistente_en_maestro
+I0002698,U005864,2026-10-21 02:51:14+00:00,facebook,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.34,es,android,38,0,juegos|evento|humor,usuario_inexistente_en_maestro
+I0000036,U001782,2026-10-13 11:04:21+00:00,instagram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.28,es,web,54,2,juegos|arte,usuario_inexistente_en_maestro
+I0006397,U003907,2026-10-12 19:11:06+00:00,telegram,reaccion,,videojuegos,0.47,es,android,0,0,juegos|evento,usuario_inexistente_en_maestro
+I0004346,U005225,2026-11-07 14:44:07+00:00,discord,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.95,es,android,77,7,humor,usuario_inexistente_en_maestro
+I0004674,U004766,2026-10-24 12:14:30+00:00,twitter/x,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.84,es,web,57,5,aviso|arte,usuario_inexistente_en_maestro
+I0006931,U001667,2026-11-04 08:39:24+00:00,tiktok,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.58,es,android,64,8,arte|aviso|reglas,usuario_inexistente_en_maestro
+I0007974,U002625,2026-11-06 21:19:42+00:00,facebook,rsvp_evento,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.2,es,android,58,1,evento|humor|reglas,usuario_inexistente_en_maestro
+I0002537,U002943,2026-10-15 17:22:48+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.21,es,android,50,4,arte|evento|reglas,usuario_inexistente_en_maestro
+I0003112,U005300,2026-10-12 06:51:48+00:00,facebook,reaccion,,seguridad_privacidad,0.31,es,web,0,2,aviso|arte,usuario_inexistente_en_maestro
+I0004862,U001613,2026-10-21 12:58:07+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.62,es,web,52,3,,usuario_inexistente_en_maestro
+I0003567,U001906,2026-10-28 20:07:04+00:00,tiktok,comentario,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.19,es,escritorio,58,0,musica|juegos|reglas,usuario_inexistente_en_maestro
+I0000959,U002160,2026-10-22 05:33:06+00:00,tiktok,respuesta_encuesta,¿Quién juega esta noche? Armamos sala.,videojuegos,0.25,es,escritorio,38,3,aviso,usuario_inexistente_en_maestro
+I0009490,U005254,2026-10-28 13:11:28+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.77,es,android,47,0,evento|humor,usuario_inexistente_en_maestro
+I0008884,U003080,2026-10-18 07:45:19+00:00,instagram,comentario,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.32,es,android,43,0,evento|musica|juegos,usuario_inexistente_en_maestro
+I0000999,U003734,2026-10-15 21:29:02+00:00,telegram,reaccion,,fursuits,0.9,es,escritorio,0,0,musica|juegos|evento,usuario_inexistente_en_maestro
+I0005139,U001951,2026-11-01 10:46:25+00:00,telegram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.91,es,android,54,2,musica|aviso,usuario_inexistente_en_maestro
+I0000937,U005531,2026-10-31 13:01:53+00:00,tiktok,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.89,es,android,54,4,reglas,usuario_inexistente_en_maestro
+I0009572,U002003,2026-11-03 13:34:42+00:00,discord,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.71,es,web,52,3,musica|arte|aviso,usuario_inexistente_en_maestro
+I0008239,U003357,2026-11-06 10:18:29+00:00,facebook,rsvp_evento,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.52,es,android,63,0,arte|evento|aviso,usuario_inexistente_en_maestro
+I0008702,U002786,2026-10-14 11:00:04+00:00,discord,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.26,es,ios,52,1,,usuario_inexistente_en_maestro
+I0002580,U001863,2026-11-01 01:15:35+00:00,discord,reaccion,,eventos_convenciones,0.49,es,ios,0,0,evento|arte,usuario_inexistente_en_maestro
+I0000932,U003234,2026-11-05 15:02:54+00:00,tiktok,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.51,es,android,45,11,,usuario_inexistente_en_maestro
+I0008321,U004235,2026-10-18 23:29:29+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.47,es,android,77,1,arte|musica|evento,usuario_inexistente_en_maestro
+I0001313,U005726,2026-11-08 05:15:00+00:00,facebook,rsvp_evento,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.94,es,android,48,1,,usuario_inexistente_en_maestro
+I0003045,U001804,2026-10-26 11:36:40+00:00,telegram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.56,es,ios,58,9,,usuario_inexistente_en_maestro
+I0001123,U005376,2026-10-13 09:34:29+00:00,facebook,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.63,es,escritorio,54,0,,usuario_inexistente_en_maestro
+I0001114,U002129,2026-10-27 00:21:56+00:00,tiktok,reaccion,,eventos_convenciones,0.74,es,android,0,0,aviso|humor,usuario_inexistente_en_maestro
+I0003854,U004152,2026-11-06 12:15:41+00:00,twitter/x,respuesta_encuesta,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.84,es,web,63,1,humor|reglas,usuario_inexistente_en_maestro
+I0006616,U003550,2026-10-25 21:34:18+00:00,telegram,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.63,es,android,55,7,,usuario_inexistente_en_maestro
+I0001965,U004056,2026-10-25 03:32:28+00:00,telegram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.31,es,android,50,4,arte,usuario_inexistente_en_maestro
+I0009334,U001386,2026-11-07 17:14:12+00:00,instagram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.68,es,android,58,11,juegos|reglas|arte,usuario_inexistente_en_maestro
+I0004034,U003662,2026-10-10 12:37:23+00:00,twitter/x,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.25,es,ios,63,4,,usuario_inexistente_en_maestro
+I0009741,U004910,2026-10-29 21:04:19+00:00,telegram,rsvp_evento,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.47,es,android,54,0,musica|reglas,usuario_inexistente_en_maestro
+I0000652,U003546,2026-11-06 04:58:26+00:00,discord,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.54,es,web,38,1,aviso,usuario_inexistente_en_maestro
+I0001344,U003482,2026-10-28 13:57:46+00:00,twitter/x,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.31,es,android,63,0,humor|reglas|musica,usuario_inexistente_en_maestro
+I0009563,U004126,2026-11-06 16:19:26+00:00,facebook,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.21,es,ios,63,0,reglas|humor,usuario_inexistente_en_maestro
+I0009261,U002393,2026-10-10 15:22:18+00:00,telegram,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.23,es,android,54,5,aviso|humor|evento,usuario_inexistente_en_maestro
+I0008566,U001977,2026-11-03 03:20:23+00:00,instagram,comentario,¿Alguien conoce bandas locales de la región?,musica,0.52,es,android,44,0,aviso|musica,usuario_inexistente_en_maestro
+I0005184,U002561,2026-10-11 15:37:49+00:00,facebook,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.3,es,android,54,0,humor|evento,usuario_inexistente_en_maestro
+I0003347,U004326,2026-10-28 05:35:11+00:00,discord,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.92,es,escritorio,52,10,,usuario_inexistente_en_maestro
+I0003911,U004254,2026-10-14 15:47:20+00:00,facebook,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.64,es,android,52,0,reglas,usuario_inexistente_en_maestro
+I0004352,U001132,2026-10-30 07:41:03+00:00,telegram,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.32,es,android,54,4,juegos|humor,usuario_inexistente_en_maestro
+I0002145,U004588,2026-10-14 04:12:22+00:00,tiktok,reaccion,,videojuegos,-0.63,es,escritorio,0,0,reglas,usuario_inexistente_en_maestro
+I0004916,U004964,2026-10-20 18:33:17+00:00,discord,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.87,es,android,63,4,arte|aviso,usuario_inexistente_en_maestro
+I0007492,U004231,2026-10-14 23:37:06+00:00,telegram,comentario,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.5,es,android,63,1,arte,usuario_inexistente_en_maestro
+I0005181,U003745,2026-10-10 12:57:04+00:00,telegram,reaccion,,seguridad_privacidad,0.44,es,ios,0,1,reglas|evento,usuario_inexistente_en_maestro
+I0001189,U004961,2026-10-23 21:52:42+00:00,tiktok,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.81,es,web,45,3,reglas|arte|humor,usuario_inexistente_en_maestro
+I0000153,U001243,2026-10-21 14:19:21+00:00,facebook,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.86,es,android,63,3,aviso|musica,usuario_inexistente_en_maestro
+I0007509,U002552,2026-10-10 09:49:36+00:00,facebook,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.84,es,web,54,0,reglas|evento,usuario_inexistente_en_maestro
+I0009225,U002866,2026-10-28 21:21:37+00:00,instagram,reaccion,,arte_comisiones,0.92,es,android,0,8,humor,usuario_inexistente_en_maestro
+I0001201,U005514,2026-10-13 00:44:10+00:00,instagram,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.67,es,android,64,0,humor|juegos|arte,usuario_inexistente_en_maestro
+I0008809,U001883,2026-10-28 05:22:37+00:00,telegram,respuesta_encuesta,¿Quién juega esta noche? Armamos sala.,videojuegos,0.16,es,android,38,0,reglas|humor,usuario_inexistente_en_maestro
+I0008289,U001091,2026-10-28 21:34:07+00:00,facebook,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.57,es,ios,52,1,,usuario_inexistente_en_maestro
+I0002171,U003203,2026-10-26 14:31:23+00:00,discord,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.47,es,web,58,5,musica|arte|humor,usuario_inexistente_en_maestro
+I0005719,U002638,2026-10-11 14:59:22+00:00,discord,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.38,es,ios,54,0,humor|juegos,usuario_inexistente_en_maestro
+I0001128,U004404,2026-10-10 11:23:26+00:00,facebook,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.29,es,web,65,7,musica|humor|juegos,usuario_inexistente_en_maestro
+I0004003,U004386,2026-10-19 06:52:44+00:00,instagram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.28,es,ios,60,0,aviso,usuario_inexistente_en_maestro
+I0006055,U004416,2026-10-12 05:33:20+00:00,twitter/x,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.9,es,android,54,0,,usuario_inexistente_en_maestro
+I0002585,U005325,2026-11-08 07:43:49+00:00,telegram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.8,es,android,54,1,juegos|musica,usuario_inexistente_en_maestro
+I0007180,U001782,2026-10-10 21:12:24+00:00,facebook,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.39,es,android,54,2,humor|arte,usuario_inexistente_en_maestro
+I0008901,U002119,2026-10-16 18:14:54+00:00,telegram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.37,es,ios,48,1,humor|juegos|aviso,usuario_inexistente_en_maestro
+I0004957,U001778,2026-10-10 12:51:26+00:00,tiktok,reaccion,,reglas_moderacion,0.77,es,android,0,0,evento|humor,usuario_inexistente_en_maestro
+I0008667,U001087,2026-10-11 18:50:56+00:00,discord,respuesta_encuesta,¿Quién juega esta noche? Armamos sala.,videojuegos,0.87,es,android,38,1,juegos,usuario_inexistente_en_maestro
+I0004906,U002304,2026-10-13 22:22:34+00:00,facebook,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.63,es,ios,54,2,juegos|aviso|reglas,usuario_inexistente_en_maestro
+I0001698,U004704,2026-11-08 12:56:42+00:00,tiktok,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.61,es,android,48,0,arte|musica,usuario_inexistente_en_maestro
+I0002201,U001361,2026-11-04 10:57:11+00:00,telegram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.77,es,web,58,4,reglas|musica,usuario_inexistente_en_maestro
+I0002547,U003707,2026-10-21 05:10:41+00:00,tiktok,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.41,es,android,60,2,,usuario_inexistente_en_maestro
+I0009910,U001537,2026-11-03 23:19:51+00:00,facebook,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.89,es,web,57,4,reglas|musica,usuario_inexistente_en_maestro
+I0005618,U001782,2026-10-21 12:45:19+00:00,twitter/x,comentario,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.76,es,android,63,8,evento,usuario_inexistente_en_maestro
+I0003336,U004108,2026-11-07 12:27:26+00:00,twitter/x,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.22,es,escritorio,38,3,juegos|arte|musica,usuario_inexistente_en_maestro
+I0004326,U004172,2026-11-04 14:46:55+00:00,instagram,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.23,es,ios,54,5,,usuario_inexistente_en_maestro
+I0008281,U002129,2026-11-05 10:07:00+00:00,telegram,comentario,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.28,es,ios,48,1,,usuario_inexistente_en_maestro
+I0008005,U003248,2026-11-05 20:39:49+00:00,telegram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.85,es,android,45,1,aviso|arte|humor,usuario_inexistente_en_maestro
+I0004115,U002344,2026-10-27 11:31:51+00:00,facebook,reaccion,,arte_comisiones,0.2,es,escritorio,0,5,,usuario_inexistente_en_maestro
+I0000833,U004569,2026-10-12 11:27:26+00:00,tiktok,respuesta_encuesta,Este meme me representa completamente jajaja.,memes_humor,0.36,es,android,45,2,reglas,usuario_inexistente_en_maestro
+I0001513,U003967,2026-11-02 06:53:48+00:00,instagram,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.18,es,web,50,6,aviso,usuario_inexistente_en_maestro
+I0004534,U001472,2026-10-23 09:03:03+00:00,telegram,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.67,es,android,64,1,arte|musica,usuario_inexistente_en_maestro
+I0000723,U003077,2026-10-10 20:41:28+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.61,es,android,77,3,musica,usuario_inexistente_en_maestro
+I0000059,U005920,2026-10-29 12:46:35+00:00,telegram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.69,es,escritorio,50,0,humor,usuario_inexistente_en_maestro
+I0005465,U002858,2026-11-05 09:27:26+00:00,twitter/x,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.68,es,android,64,0,humor|reglas|arte,usuario_inexistente_en_maestro
+I0002144,U005625,2026-10-15 02:41:36+00:00,facebook,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.91,es,android,44,2,,usuario_inexistente_en_maestro
+I0004292,U001940,2026-10-22 09:13:54+00:00,instagram,respuesta_encuesta,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.91,es,android,55,1,aviso,usuario_inexistente_en_maestro
+I0007240,U002040,2026-11-08 18:37:44+00:00,instagram,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.26,es,web,45,2,arte,usuario_inexistente_en_maestro
+I0009039,U005079,2026-11-03 20:19:36+00:00,facebook,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.42,es,android,61,1,arte,usuario_inexistente_en_maestro
+I0007008,U001808,2026-11-06 18:10:21+00:00,tiktok,reaccion,,arte_comisiones,0.94,es,android,0,5,humor|evento,usuario_inexistente_en_maestro
+I0009190,U001782,2026-11-04 01:01:51+00:00,telegram,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.54,es,android,44,1,juegos|musica,usuario_inexistente_en_maestro
+I0000159,U001850,2026-10-22 21:53:09+00:00,facebook,reaccion,,seguridad_privacidad,-0.87,es,android,0,2,musica|juegos,usuario_inexistente_en_maestro
+I0001233,U002492,2026-10-18 06:41:23+00:00,twitter/x,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.89,es,android,63,2,musica|arte,usuario_inexistente_en_maestro
+I0002443,U002625,2026-10-13 12:02:47+00:00,telegram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.67,es,android,77,5,aviso|juegos|musica,usuario_inexistente_en_maestro
+I0008939,U002653,2026-10-15 20:51:22+00:00,facebook,rsvp_evento,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.59,es,ios,60,0,aviso,usuario_inexistente_en_maestro
+I0000591,U001676,2026-11-05 02:56:51+00:00,telegram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.48,es,ios,38,1,,usuario_inexistente_en_maestro
+I0006050,U001336,2026-11-02 17:01:50+00:00,telegram,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.78,es,web,55,0,juegos,usuario_inexistente_en_maestro
+I0009544,U001569,2026-11-02 10:37:53+00:00,tiktok,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.67,es,android,50,1,juegos|evento,usuario_inexistente_en_maestro
+I0009053,U003344,2026-10-17 14:24:31+00:00,instagram,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.79,es,android,64,0,juegos|evento|humor,usuario_inexistente_en_maestro
+I0002427,U002786,2026-10-18 20:16:20+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.93,es,android,54,0,evento,usuario_inexistente_en_maestro
+I0007042,U004294,2026-11-02 03:12:23+00:00,telegram,reaccion,,arte_comisiones,0.46,es,android,0,3,,usuario_inexistente_en_maestro
+I0000686,U003860,2026-11-06 14:26:14+00:00,instagram,respuesta_encuesta,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.27,es,ios,50,0,,usuario_inexistente_en_maestro
+I0005051,U003852,2026-11-08 07:39:09+00:00,facebook,respuesta_encuesta,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.61,es,ios,65,0,aviso|humor,usuario_inexistente_en_maestro
+I0005975,U002919,2026-10-16 12:04:06+00:00,facebook,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.23,es,ios,65,3,musica|evento,usuario_inexistente_en_maestro
+I0000654,U003528,2026-10-10 18:08:28+00:00,tiktok,reaccion,,reglas_moderacion,0.57,es,android,0,2,humor|arte,usuario_inexistente_en_maestro
+I0005863,U002146,2026-10-28 08:49:49+00:00,instagram,reaccion,,eventos_convenciones,0.25,es,android,0,0,,usuario_inexistente_en_maestro
+I0003442,U004392,2026-10-11 22:53:05+00:00,twitter/x,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.82,es,ios,63,1,reglas|juegos,usuario_inexistente_en_maestro
+I0004089,U002026,2026-10-16 12:19:00+00:00,facebook,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.92,es,ios,48,1,aviso,usuario_inexistente_en_maestro
+I0001685,U005016,2026-11-01 22:39:05+00:00,facebook,comentario,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.36,es,ios,58,4,,usuario_inexistente_en_maestro
+I0005795,U004799,2026-11-05 21:23:57+00:00,facebook,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.55,es,android,65,1,,usuario_inexistente_en_maestro
+I0009174,U002751,2026-10-29 09:17:37+00:00,discord,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.39,es,android,50,0,aviso|juegos,usuario_inexistente_en_maestro
+I0002533,U002089,2026-10-20 07:49:59+00:00,twitter/x,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.66,es,ios,64,2,,usuario_inexistente_en_maestro
+I0003879,U001510,2026-11-01 18:22:06+00:00,tiktok,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.55,es,android,60,3,humor,usuario_inexistente_en_maestro
+I0002901,U001436,2026-10-13 02:25:05+00:00,tiktok,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.73,es,escritorio,54,0,humor|reglas|evento,usuario_inexistente_en_maestro
+I0006756,U005120,2026-11-06 00:25:39+00:00,discord,rsvp_evento,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.49,es,android,57,0,juegos,usuario_inexistente_en_maestro
+I0000407,U001740,2026-11-07 03:19:13+00:00,telegram,respuesta_encuesta,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.7,es,android,58,1,humor|reglas|evento,usuario_inexistente_en_maestro
+I0004066,U005685,2026-10-28 15:22:28+00:00,facebook,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.61,es,android,43,0,,usuario_inexistente_en_maestro
+I0002609,U003253,2026-10-25 23:36:27+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.71,es,ios,50,3,aviso|reglas|humor,usuario_inexistente_en_maestro
+I0006268,U004970,2026-10-22 03:56:16+00:00,instagram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.31,es,escritorio,63,0,,usuario_inexistente_en_maestro
+I0007712,U002899,2026-11-04 12:29:53+00:00,discord,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.55,es,android,63,0,,usuario_inexistente_en_maestro
+I0003645,U003186,2026-10-21 14:51:51+00:00,instagram,reaccion,,reglas_moderacion,0.35,es,web,0,6,,usuario_inexistente_en_maestro
+I0003270,U004232,2026-10-17 16:45:11+00:00,discord,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.17,es,android,63,4,reglas|musica|arte,usuario_inexistente_en_maestro
+I0007542,U002515,2026-10-21 03:04:36+00:00,telegram,reaccion,,musica,0.58,es,ios,0,0,aviso,usuario_inexistente_en_maestro
+I0005729,U004411,2026-10-28 05:40:53+00:00,instagram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.36,es,android,45,2,aviso|humor,usuario_inexistente_en_maestro
+I0003653,U005287,2026-10-20 01:41:30+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.93,es,android,52,0,humor,usuario_inexistente_en_maestro
+I0000388,U003848,2026-10-21 14:22:43+00:00,twitter/x,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.71,es,android,50,14,,usuario_inexistente_en_maestro
+I0003165,U005239,2026-11-02 02:36:37+00:00,twitter/x,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.24,es,web,52,6,arte|musica|humor,usuario_inexistente_en_maestro
+I0006529,U002511,2026-10-20 00:44:07+00:00,facebook,reaccion,,eventos_convenciones,0.56,es,web,0,1,,usuario_inexistente_en_maestro
+I0004565,U001593,2026-10-28 13:07:47+00:00,instagram,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.41,es,android,55,5,juegos,usuario_inexistente_en_maestro
+I0004574,U002437,2026-10-14 15:41:30+00:00,tiktok,reaccion,,arte_comisiones,0.2,es,android,0,6,,usuario_inexistente_en_maestro
+I0006549,U004270,2026-10-22 00:29:54+00:00,facebook,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.37,es,android,44,6,,usuario_inexistente_en_maestro
+I0005426,U001071,2026-10-13 09:06:26+00:00,telegram,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.86,es,android,61,1,reglas|aviso|musica,usuario_inexistente_en_maestro
+I0000453,U001596,2026-11-01 19:37:02+00:00,twitter/x,rsvp_evento,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.76,es,web,77,1,juegos|arte|aviso,usuario_inexistente_en_maestro
+I0004280,U002550,2026-10-15 00:20:36+00:00,instagram,respuesta_encuesta,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.72,es,android,54,3,aviso|evento,usuario_inexistente_en_maestro
+I0002926,U003577,2026-10-31 03:32:09+00:00,twitter/x,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.71,es,android,63,3,musica|aviso,usuario_inexistente_en_maestro
+I0009513,U003587,2026-10-21 10:24:45+00:00,facebook,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.66,es,escritorio,58,4,,usuario_inexistente_en_maestro
+I0000627,U002670,2026-10-23 15:10:46+00:00,tiktok,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.32,es,escritorio,58,3,,usuario_inexistente_en_maestro
+I0001777,U005248,2026-11-06 16:36:13+00:00,instagram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.63,es,android,52,0,aviso,usuario_inexistente_en_maestro
+I0007120,U004094,2026-10-13 11:41:40+00:00,facebook,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.85,es,ios,44,2,evento|juegos,usuario_inexistente_en_maestro
+I0005664,U005398,2026-11-03 02:10:37+00:00,telegram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.41,es,ios,77,0,evento|reglas,usuario_inexistente_en_maestro
+I0005140,U003176,2026-10-29 20:19:08+00:00,telegram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.9,es,android,45,6,reglas,usuario_inexistente_en_maestro
+I0009933,U005521,2026-11-05 21:12:26+00:00,telegram,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.48,es,android,58,0,arte|musica,usuario_inexistente_en_maestro
+I0008380,U004430,2026-10-13 00:01:13+00:00,facebook,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.36,es,web,57,12,arte|juegos,usuario_inexistente_en_maestro
+I0001895,U005338,2026-11-01 19:00:00+00:00,telegram,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.33,es,android,50,1,humor,usuario_inexistente_en_maestro
+I0006312,U003329,2026-10-24 18:37:32+00:00,tiktok,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.31,es,android,64,0,arte|reglas,usuario_inexistente_en_maestro
+I0009447,U003394,2026-10-11 20:26:03+00:00,facebook,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.3,es,ios,63,2,aviso|musica|arte,usuario_inexistente_en_maestro
+I0003115,U005230,2026-11-03 04:54:32+00:00,telegram,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.7,es,ios,54,0,,usuario_inexistente_en_maestro
+I0004174,U001782,2026-10-12 12:41:20+00:00,telegram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.62,es,android,63,2,aviso|juegos,usuario_inexistente_en_maestro
+I0000728,U001303,2026-10-15 07:07:58+00:00,tiktok,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.57,es,android,60,1,,usuario_inexistente_en_maestro
+I0000028,U005854,2026-10-15 04:46:11+00:00,telegram,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.36,es,escritorio,63,6,juegos,usuario_inexistente_en_maestro
+I0008519,U002652,2026-10-21 10:54:17+00:00,tiktok,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.68,es,android,63,1,,usuario_inexistente_en_maestro
+I0008822,U004739,2026-10-21 12:06:04+00:00,telegram,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.46,es,web,54,2,aviso,usuario_inexistente_en_maestro
+I0003229,U001510,2026-10-20 18:40:34+00:00,telegram,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.52,es,android,58,0,,usuario_inexistente_en_maestro
+I0007067,U005818,2026-10-10 12:10:33+00:00,tiktok,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.69,es,web,47,0,aviso,usuario_inexistente_en_maestro
+I0001147,U004350,2026-11-06 15:27:13+00:00,twitter/x,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.45,es,android,58,4,evento,usuario_inexistente_en_maestro
+I0005410,U002662,2026-10-24 22:16:36+00:00,telegram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.89,es,ios,58,1,musica|reglas|humor,usuario_inexistente_en_maestro
+I0005144,U004766,2026-10-10 11:47:00+00:00,instagram,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.84,es,web,77,1,,usuario_inexistente_en_maestro
+I0002042,U002304,2026-10-30 07:26:03+00:00,twitter/x,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.32,es,android,63,3,aviso|humor,usuario_inexistente_en_maestro
+I0005068,U005149,2026-11-07 12:23:50+00:00,facebook,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.25,es,android,54,2,evento,usuario_inexistente_en_maestro
+I0006692,U003833,2026-10-17 03:36:24+00:00,discord,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.68,es,ios,45,6,evento,usuario_inexistente_en_maestro
+I0006593,U002552,2026-10-13 23:29:32+00:00,telegram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.59,es,ios,45,1,musica|reglas|aviso,usuario_inexistente_en_maestro
+I0004845,U003897,2026-10-22 20:36:51+00:00,telegram,comentario,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.47,es,android,77,6,aviso|arte,usuario_inexistente_en_maestro
+I0009084,U003798,2026-10-25 13:01:23+00:00,facebook,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.25,es,ios,50,6,aviso,usuario_inexistente_en_maestro
+I0002086,U002515,2026-10-28 03:38:21+00:00,telegram,rsvp_evento,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.7,es,web,47,0,humor|arte,usuario_inexistente_en_maestro
+I0003144,U002972,2026-11-06 02:40:58+00:00,tiktok,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.65,es,ios,50,12,,usuario_inexistente_en_maestro
+I0006889,U002336,2026-10-26 03:04:11+00:00,twitter/x,rsvp_evento,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.36,es,android,77,4,,usuario_inexistente_en_maestro
+I0006212,U001455,2026-10-26 07:15:15+00:00,telegram,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.28,es,escritorio,54,4,reglas|musica|arte,usuario_inexistente_en_maestro
+I0002852,U003720,2026-11-01 17:21:18+00:00,telegram,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.39,es,web,44,4,,usuario_inexistente_en_maestro
+I0004931,U003728,2026-10-23 22:33:51+00:00,telegram,respuesta_encuesta,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.72,es,escritorio,63,1,arte|evento|musica,usuario_inexistente_en_maestro
+I0006654,U001566,2026-10-23 17:20:22+00:00,telegram,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.32,es,android,44,2,evento|arte|humor,usuario_inexistente_en_maestro
+I0008978,U004590,2026-10-13 21:57:15+00:00,discord,reaccion,,arte_comisiones,0.65,es,android,0,0,arte|musica|aviso,usuario_inexistente_en_maestro
+I0000007,U005285,2026-11-03 12:41:02+00:00,telegram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.2,es,web,77,6,juegos,usuario_inexistente_en_maestro
+I0004701,U001701,2026-11-04 22:43:11+00:00,telegram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.29,es,android,60,2,,usuario_inexistente_en_maestro
+I0003444,U001762,2026-10-11 02:53:24+00:00,telegram,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.54,es,android,58,0,humor,usuario_inexistente_en_maestro
+I0007044,U003897,2026-10-24 08:35:15+00:00,telegram,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.45,es,ios,54,0,,usuario_inexistente_en_maestro
+I0009503,U002112,2026-10-15 21:36:49+00:00,telegram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.33,es,android,54,1,,usuario_inexistente_en_maestro
+I0009940,U003944,2026-10-23 23:10:59+00:00,facebook,reaccion,,arte_comisiones,0.88,es,ios,0,0,reglas,usuario_inexistente_en_maestro
+I0007239,U003610,2026-10-12 12:17:03+00:00,telegram,reaccion,,arte_comisiones,-0.29,es,android,0,0,musica|juegos,usuario_inexistente_en_maestro
+I0007245,U004864,2026-10-12 05:19:57+00:00,instagram,reaccion,,fursuits,0.41,es,ios,0,2,reglas|humor,usuario_inexistente_en_maestro
+I0008376,U002038,2026-10-23 08:43:03+00:00,instagram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.9,es,ios,63,3,,usuario_inexistente_en_maestro
+I0007753,U001203,2026-10-15 19:51:42+00:00,telegram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.36,es,ios,45,0,aviso,usuario_inexistente_en_maestro
+I0002781,U002017,2026-10-27 18:02:46+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.49,es,ios,54,0,reglas|juegos,usuario_inexistente_en_maestro
+I0001390,U005583,2026-10-17 21:48:03+00:00,telegram,reaccion,,memes_humor,0.3,es,ios,0,1,musica|juegos,usuario_inexistente_en_maestro
+I0008446,U002040,2026-10-25 08:27:06+00:00,instagram,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.55,es,ios,52,0,evento|arte,usuario_inexistente_en_maestro
+I0001531,U005070,2026-10-29 16:01:01+00:00,telegram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.52,es,ios,54,0,humor|reglas|musica,usuario_inexistente_en_maestro
+I0003849,U004940,2026-11-06 02:47:05+00:00,telegram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.4,es,ios,54,0,juegos|arte|evento,usuario_inexistente_en_maestro
+I0003681,U005201,2026-10-30 07:18:48+00:00,twitter/x,rsvp_evento,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.41,es,android,77,0,juegos,usuario_inexistente_en_maestro
+I0003263,U001412,2026-10-12 05:45:34+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.24,es,android,47,1,,usuario_inexistente_en_maestro
+I0002415,U002516,2026-10-28 17:59:56+00:00,instagram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.79,es,web,77,10,aviso,usuario_inexistente_en_maestro
+I0007785,U005356,2026-11-03 05:17:03+00:00,tiktok,reaccion,,fursuits,0.92,es,web,0,1,humor|musica,usuario_inexistente_en_maestro
+I0001194,U002580,2026-10-16 18:35:51+00:00,facebook,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.55,es,web,38,0,juegos|musica,usuario_inexistente_en_maestro
+I0007462,U005020,2026-10-26 15:23:02+00:00,tiktok,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.35,es,android,57,0,arte|aviso|juegos,usuario_inexistente_en_maestro
+I0006791,U003663,2026-10-31 10:24:49+00:00,tiktok,rsvp_evento,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.3,es,ios,52,3,evento,usuario_inexistente_en_maestro
+I0009432,U004117,2026-10-23 20:38:44+00:00,tiktok,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.81,es,android,63,0,,usuario_inexistente_en_maestro
+I0003186,U004991,2026-10-23 04:49:14+00:00,telegram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.34,es,android,77,0,arte,usuario_inexistente_en_maestro
+I0006292,U005110,2026-10-22 04:19:55+00:00,telegram,reaccion,,seguridad_privacidad,0.93,es,android,0,12,humor,usuario_inexistente_en_maestro
+I0008100,U004343,2026-11-02 04:32:15+00:00,telegram,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.56,es,android,43,0,arte|reglas,usuario_inexistente_en_maestro
+I0006548,U002872,2026-10-11 01:07:19+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.65,es,escritorio,57,1,aviso,usuario_inexistente_en_maestro
+I0000091,U004207,2026-10-18 01:45:15+00:00,instagram,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.66,es,ios,63,2,,usuario_inexistente_en_maestro
+I0008487,U004547,2026-11-04 00:45:02+00:00,facebook,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.18,es,android,52,4,reglas|humor|evento,usuario_inexistente_en_maestro
+I0007612,U003314,2026-10-31 04:43:02+00:00,tiktok,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.8,es,ios,54,2,,usuario_inexistente_en_maestro
+I0000823,U004127,2026-10-22 04:54:01+00:00,instagram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.62,es,android,52,3,evento|humor,usuario_inexistente_en_maestro
+I0009133,U002117,2026-10-18 06:22:20+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.66,es,android,57,0,,usuario_inexistente_en_maestro
+I0004083,U005212,2026-10-10 14:29:47+00:00,twitter/x,reaccion,,memes_humor,0.95,es,android,0,3,,usuario_inexistente_en_maestro
+I0001989,U002139,2026-11-08 07:29:42+00:00,telegram,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.4,es,android,63,2,musica|humor,usuario_inexistente_en_maestro
+I0007479,U005853,2026-11-05 01:30:28+00:00,tiktok,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.42,es,android,57,0,,usuario_inexistente_en_maestro
+I0008703,U005674,2026-10-10 20:55:39+00:00,discord,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.86,es,android,54,0,,usuario_inexistente_en_maestro
+I0009756,U002831,2026-10-23 00:16:23+00:00,instagram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.71,es,ios,58,1,musica|aviso|reglas,usuario_inexistente_en_maestro
+I0005199,U003000,2026-10-26 16:33:38+00:00,discord,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.42,es,android,54,0,humor|musica,usuario_inexistente_en_maestro
+I0007252,U003030,2026-10-19 06:40:52+00:00,tiktok,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.69,es,ios,77,2,reglas|humor|aviso,usuario_inexistente_en_maestro
+I0008271,U005726,2026-10-28 12:51:26+00:00,tiktok,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.42,es,android,70,4,aviso|juegos|reglas,usuario_inexistente_en_maestro
+I0006992,U001461,2026-10-29 23:48:44+00:00,facebook,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.32,es,android,58,11,musica|aviso,usuario_inexistente_en_maestro
+I0007306,U003543,2026-11-05 22:05:33+00:00,twitter/x,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.29,es,ios,50,1,humor|juegos|musica,usuario_inexistente_en_maestro
+I0002608,U002231,2026-10-24 20:02:28+00:00,facebook,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.61,es,ios,54,0,arte|aviso,usuario_inexistente_en_maestro
+I0007778,U002854,2026-10-19 02:43:12+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.6,es,escritorio,54,0,humor,usuario_inexistente_en_maestro
+I0007374,U001434,2026-10-27 17:46:01+00:00,facebook,reaccion,,eventos_convenciones,-0.41,es,android,0,5,musica|juegos|reglas,usuario_inexistente_en_maestro
+I0004247,U002558,2026-10-16 17:20:25+00:00,telegram,rsvp_evento,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.8,es,android,64,6,,usuario_inexistente_en_maestro
+I0004051,U004512,2026-10-16 06:00:51+00:00,instagram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.9,es,web,54,6,evento|arte|musica,usuario_inexistente_en_maestro
+I0004544,U003991,2026-10-26 13:33:27+00:00,discord,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.28,es,android,45,1,,usuario_inexistente_en_maestro
+I0007940,U002184,2026-10-25 03:13:16+00:00,instagram,respuesta_encuesta,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.58,es,ios,61,7,arte,usuario_inexistente_en_maestro
+I0003920,U003163,2026-10-18 23:45:12+00:00,instagram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.37,es,web,77,0,evento|musica,usuario_inexistente_en_maestro
+I0004500,U005353,2026-11-06 06:18:16+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.76,es,android,54,4,evento|musica,usuario_inexistente_en_maestro
+I0007207,U001203,2026-10-21 22:52:05+00:00,instagram,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.37,es,ios,70,8,arte,usuario_inexistente_en_maestro
+I0001270,U002552,2026-10-12 11:06:33+00:00,telegram,reaccion,,seguridad_privacidad,-0.72,es,ios,0,0,juegos|humor,usuario_inexistente_en_maestro
+I0004682,U005082,2026-10-19 11:57:03+00:00,facebook,reaccion,,eventos_convenciones,-0.74,es,ios,0,1,humor|aviso,usuario_inexistente_en_maestro
+I0003842,U004648,2026-10-24 22:06:39+00:00,telegram,reaccion,,videojuegos,-0.64,es,android,0,2,humor|musica,usuario_inexistente_en_maestro
+I0004452,U001969,2026-10-11 15:14:10+00:00,facebook,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.74,es,ios,38,2,juegos|arte|aviso,usuario_inexistente_en_maestro
+I0005503,U002838,2026-10-17 03:00:53+00:00,discord,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.64,es,android,63,3,evento,usuario_inexistente_en_maestro
+I0008850,U004279,2026-11-05 10:46:44+00:00,instagram,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.64,es,android,64,4,evento|reglas,usuario_inexistente_en_maestro
+I0002268,U004990,2026-11-08 22:56:26+00:00,twitter/x,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.75,es,android,58,3,arte|reglas,usuario_inexistente_en_maestro
+I0002472,U003521,2026-10-28 13:16:56+00:00,instagram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.68,es,escritorio,54,5,,usuario_inexistente_en_maestro
+I0003789,U004154,2026-10-29 04:05:12+00:00,facebook,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.41,es,android,63,6,,usuario_inexistente_en_maestro
+I0006276,U005494,2026-10-13 00:11:45+00:00,telegram,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.29,es,android,52,2,juegos|arte,usuario_inexistente_en_maestro
+I0002504,U001969,2026-11-06 23:15:09+00:00,discord,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.77,es,android,58,5,arte|musica|humor,usuario_inexistente_en_maestro
+I0003506,U003077,2026-11-04 03:32:18+00:00,tiktok,reaccion,,eventos_convenciones,0.38,es,android,0,5,musica|evento,usuario_inexistente_en_maestro
+I0001053,U005176,2026-10-29 16:08:29+00:00,telegram,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.68,es,android,63,6,,usuario_inexistente_en_maestro
+I0006798,U004316,2026-10-28 08:38:03+00:00,telegram,reaccion,,musica,0.91,es,android,0,1,musica,usuario_inexistente_en_maestro
+I0006679,U005643,2026-10-27 08:39:41+00:00,telegram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.37,es,android,48,0,juegos|humor,usuario_inexistente_en_maestro
+I0005422,U005224,2026-10-30 18:52:49+00:00,telegram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.77,es,web,58,0,arte|juegos|humor,usuario_inexistente_en_maestro
+I0008891,U003311,2026-10-13 02:08:27+00:00,tiktok,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.83,es,android,44,12,humor,usuario_inexistente_en_maestro
+I0007634,U003750,2026-11-07 07:05:33+00:00,facebook,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.4,es,web,58,1,,usuario_inexistente_en_maestro
+I0001021,U004207,2026-10-21 13:56:18+00:00,instagram,reaccion,,fursuits,-0.35,es,android,0,4,musica|arte,usuario_inexistente_en_maestro
+I0003389,U003762,2026-11-08 18:30:44+00:00,facebook,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.7,es,android,52,4,humor|aviso,usuario_inexistente_en_maestro
+I0006382,U003528,2026-10-24 18:42:37+00:00,instagram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.52,es,escritorio,58,2,musica|aviso,usuario_inexistente_en_maestro
+I0009570,U001782,2026-11-06 15:26:10+00:00,twitter/x,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.23,es,web,63,0,,usuario_inexistente_en_maestro
+I0009433,U003769,2026-10-19 18:42:52+00:00,tiktok,reaccion,,musica,0.38,es,web,0,1,musica,usuario_inexistente_en_maestro
+I0006233,U003907,2026-10-15 11:15:06+00:00,facebook,comentario,Este meme me representa completamente jajaja.,memes_humor,0.6,es,android,45,2,reglas|aviso,usuario_inexistente_en_maestro
+I0007815,U002425,2026-11-01 11:12:28+00:00,telegram,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.54,es,ios,60,2,musica|evento,usuario_inexistente_en_maestro
+I0000097,U004895,2026-10-23 08:08:24+00:00,facebook,respuesta_encuesta,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.61,es,android,54,10,,usuario_inexistente_en_maestro
+I0005764,U001930,2026-10-10 06:21:15+00:00,instagram,rsvp_evento,¿Quién juega esta noche? Armamos sala.,videojuegos,0.75,es,ios,38,4,arte|aviso|reglas,usuario_inexistente_en_maestro
+I0004893,U002786,2026-10-30 11:20:58+00:00,tiktok,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.62,es,android,47,4,reglas|humor|juegos,usuario_inexistente_en_maestro
+I0006390,U003750,2026-11-01 12:08:59+00:00,tiktok,reaccion,,arte_comisiones,0.55,es,web,0,4,aviso|humor,usuario_inexistente_en_maestro
+I0006866,U001167,2026-10-12 06:59:38+00:00,facebook,comentario,Este meme me representa completamente jajaja.,memes_humor,0.88,es,web,45,8,,usuario_inexistente_en_maestro
+I0008819,U003655,2026-10-26 21:59:12+00:00,facebook,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.31,es,android,54,8,,usuario_inexistente_en_maestro
+I0003614,U003776,2026-10-12 06:40:44+00:00,tiktok,reaccion,,arte_comisiones,0.61,es,ios,0,0,humor|musica|reglas,usuario_inexistente_en_maestro
+I0008000,U003364,2026-10-30 06:57:01+00:00,instagram,respuesta_encuesta,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.71,es,web,43,0,juegos|aviso,usuario_inexistente_en_maestro
+I0003596,U003443,2026-10-16 22:58:58+00:00,twitter/x,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.43,es,android,55,5,,usuario_inexistente_en_maestro
+I0004472,U004648,2026-10-10 20:23:51+00:00,twitter/x,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.4,es,android,63,3,aviso|musica,usuario_inexistente_en_maestro
+I0007141,U003890,2026-10-20 08:34:36+00:00,telegram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.28,es,android,54,0,arte,usuario_inexistente_en_maestro
+I0006372,U001943,2026-10-10 21:49:24+00:00,facebook,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.85,es,web,63,9,,usuario_inexistente_en_maestro
+I0005508,U003027,2026-10-21 03:50:57+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.61,es,escritorio,50,7,aviso,usuario_inexistente_en_maestro
+I0006625,U002502,2026-11-05 07:55:50+00:00,telegram,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.62,es,android,63,0,humor|evento|arte,usuario_inexistente_en_maestro
+I0002705,U001859,2026-10-28 23:48:29+00:00,twitter/x,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.95,es,android,58,6,musica,usuario_inexistente_en_maestro
+I0007658,U002222,2026-11-07 20:09:02+00:00,tiktok,respuesta_encuesta,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.88,es,web,54,0,,usuario_inexistente_en_maestro
+I0002092,U001220,2026-10-21 06:08:14+00:00,telegram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.48,es,ios,60,4,aviso|arte|reglas,usuario_inexistente_en_maestro
+I0000442,U002043,2026-10-27 20:57:25+00:00,telegram,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.55,es,android,52,3,reglas|musica,usuario_inexistente_en_maestro
+I0006456,U003186,2026-10-13 23:09:41+00:00,telegram,reaccion,,fursuits,0.82,es,web,0,4,humor,usuario_inexistente_en_maestro
+I0009247,U001572,2026-10-23 00:52:09+00:00,facebook,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.49,es,android,45,4,aviso,usuario_inexistente_en_maestro
+I0000445,U004056,2026-11-08 02:05:25+00:00,telegram,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.36,es,escritorio,55,1,humor|reglas|evento,usuario_inexistente_en_maestro
+I0001376,U003188,2026-10-23 05:45:45+00:00,telegram,reaccion,,seguridad_privacidad,0.94,es,android,0,1,evento|reglas,usuario_inexistente_en_maestro
+I0007023,U001536,2026-11-08 10:27:57+00:00,tiktok,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.17,es,ios,58,0,arte|aviso|humor,usuario_inexistente_en_maestro
+I0002224,U005867,2026-10-31 21:02:40+00:00,facebook,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.72,es,ios,44,4,evento,usuario_inexistente_en_maestro
+I0007565,U004105,2026-10-25 13:04:28+00:00,telegram,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.89,es,android,58,1,,usuario_inexistente_en_maestro
+I0002978,U005070,2026-11-08 11:05:56+00:00,twitter/x,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.47,es,android,38,2,,usuario_inexistente_en_maestro
+I0000824,U002946,2026-11-05 17:41:59+00:00,tiktok,respuesta_encuesta,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.21,es,ios,58,1,juegos|reglas,usuario_inexistente_en_maestro
+I0004263,U002121,2026-11-05 13:44:13+00:00,facebook,respuesta_encuesta,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.24,es,ios,63,10,,usuario_inexistente_en_maestro
+I0005364,U004866,2026-11-02 14:23:20+00:00,facebook,comentario,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.84,es,web,58,5,evento,usuario_inexistente_en_maestro
+I0003468,U003177,2026-10-18 21:29:59+00:00,tiktok,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.6,es,ios,45,0,musica|evento|reglas,usuario_inexistente_en_maestro
+I0007450,U001557,2026-10-26 12:50:43+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.8,es,android,47,1,,usuario_inexistente_en_maestro
+I0005356,U005931,2026-10-22 01:30:45+00:00,discord,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.59,es,ios,63,2,juegos|evento|humor,usuario_inexistente_en_maestro
+I0005530,U003896,2026-10-11 21:50:21+00:00,instagram,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.66,es,android,77,2,evento,usuario_inexistente_en_maestro
+I0004559,U001863,2026-10-23 16:29:01+00:00,twitter/x,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.63,es,android,47,1,aviso|reglas,usuario_inexistente_en_maestro
+I0006907,U002319,2026-11-05 07:20:37+00:00,facebook,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.51,es,android,48,2,musica|aviso,usuario_inexistente_en_maestro
+I0001342,U005026,2026-10-11 02:30:03+00:00,instagram,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.86,es,android,47,2,,usuario_inexistente_en_maestro
+I0000318,U002094,2026-10-28 08:47:12+00:00,telegram,reaccion,,eventos_convenciones,0.64,es,android,0,4,reglas|juegos|humor,usuario_inexistente_en_maestro
+I0000854,U001372,2026-10-11 16:43:27+00:00,instagram,respuesta_encuesta,Este meme me representa completamente jajaja.,memes_humor,0.76,es,android,45,0,musica|aviso|evento,usuario_inexistente_en_maestro
+I0005734,U004495,2026-10-26 14:18:32+00:00,facebook,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.86,es,android,54,3,aviso|arte|juegos,usuario_inexistente_en_maestro
+I0003674,U002701,2026-10-22 18:05:42+00:00,tiktok,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.54,es,ios,64,0,aviso,usuario_inexistente_en_maestro
+I0001125,U001670,2026-10-22 12:34:24+00:00,instagram,comentario,¿Alguien conoce bandas locales de la región?,musica,0.43,es,android,44,2,evento|aviso,usuario_inexistente_en_maestro
+I0000509,U005425,2026-10-10 03:53:58+00:00,tiktok,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.62,es,ios,64,0,humor,usuario_inexistente_en_maestro
+I0004052,U005985,2026-10-22 14:00:46+00:00,telegram,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.74,es,android,55,2,arte|evento,usuario_inexistente_en_maestro
+I0003267,U004468,2026-10-29 20:47:28+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.93,es,android,50,3,aviso,usuario_inexistente_en_maestro
+I0000334,U001558,2026-10-12 05:05:29+00:00,instagram,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.4,es,android,50,0,,usuario_inexistente_en_maestro
+I0002497,U003023,2026-10-29 16:27:23+00:00,tiktok,comentario,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.37,es,android,63,0,aviso|humor,usuario_inexistente_en_maestro
+I0003909,U002599,2026-10-22 23:14:52+00:00,tiktok,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.26,es,android,58,2,humor|musica|arte,usuario_inexistente_en_maestro
+I0002069,U005370,2026-10-28 11:56:39+00:00,facebook,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.9,es,android,64,1,,usuario_inexistente_en_maestro
+I0007759,U004524,2026-11-03 20:20:35+00:00,discord,respuesta_encuesta,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.64,es,ios,54,0,humor|reglas,usuario_inexistente_en_maestro
+I0001875,U001420,2026-11-06 13:02:09+00:00,twitter/x,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.63,es,android,52,5,evento,usuario_inexistente_en_maestro
+I0003572,U004056,2026-10-15 16:01:52+00:00,telegram,reaccion,,eventos_convenciones,-0.84,es,android,0,3,juegos|musica|humor,usuario_inexistente_en_maestro
+I0007620,U004507,2026-10-24 03:49:34+00:00,facebook,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.27,es,android,50,5,,usuario_inexistente_en_maestro
+I0004199,U003238,2026-10-11 09:18:18+00:00,tiktok,comentario,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.8,es,web,45,1,arte|juegos|humor,usuario_inexistente_en_maestro
+I0002750,U001472,2026-10-13 01:11:38+00:00,discord,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.35,es,android,54,5,musica|aviso|arte,usuario_inexistente_en_maestro
+I0009927,U001916,2026-11-03 06:06:43+00:00,telegram,respuesta_encuesta,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.55,es,android,77,1,aviso|musica|juegos,usuario_inexistente_en_maestro
+I0009950,U001165,2026-10-20 03:57:07+00:00,instagram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.52,es,android,38,1,musica,usuario_inexistente_en_maestro
+I0009482,U002902,2026-11-02 21:56:04+00:00,telegram,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.38,es,web,48,0,,usuario_inexistente_en_maestro
+I0000421,U003344,2026-11-03 09:40:41+00:00,telegram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.49,es,web,48,1,,usuario_inexistente_en_maestro
+I0005112,U001782,2026-10-18 02:06:21+00:00,tiktok,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.93,es,android,54,1,juegos,usuario_inexistente_en_maestro
+I0009434,U003077,2026-11-04 05:16:45+00:00,telegram,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.6,es,ios,63,0,humor|musica,usuario_inexistente_en_maestro
+I0006150,U005827,2026-10-27 04:19:06+00:00,twitter/x,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.55,es,android,38,1,reglas|humor|evento,usuario_inexistente_en_maestro
+I0003250,U002638,2026-10-15 17:13:24+00:00,instagram,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.67,es,web,63,0,,usuario_inexistente_en_maestro
+I0001246,U001859,2026-11-05 03:09:17+00:00,instagram,rsvp_evento,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.45,es,web,54,0,evento|musica|reglas,usuario_inexistente_en_maestro
+I0009701,U001863,2026-10-30 06:28:40+00:00,instagram,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.19,es,ios,63,1,arte|reglas,usuario_inexistente_en_maestro
+I0003979,U004819,2026-10-30 07:55:45+00:00,twitter/x,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.5,es,web,57,5,evento|musica,usuario_inexistente_en_maestro
+I0001670,U001954,2026-10-10 01:56:26+00:00,discord,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.95,es,ios,63,1,arte|evento|musica,usuario_inexistente_en_maestro
+I0004942,U001361,2026-10-26 02:35:51+00:00,facebook,respuesta_encuesta,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.5,es,android,45,4,humor,usuario_inexistente_en_maestro
+I0001984,U003633,2026-10-31 19:34:38+00:00,telegram,reaccion,,reglas_moderacion,-0.29,es,android,0,0,aviso|musica|humor,usuario_inexistente_en_maestro
+I0009273,U003743,2026-10-15 07:36:48+00:00,facebook,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.88,es,android,55,1,juegos|musica|aviso,usuario_inexistente_en_maestro
+I0000673,U003313,2026-10-25 14:11:14+00:00,instagram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.61,es,android,60,4,aviso,usuario_inexistente_en_maestro
+I0005689,U002912,2026-11-01 23:34:42+00:00,telegram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.48,es,ios,54,1,,usuario_inexistente_en_maestro
+I0008729,U002859,2026-11-06 12:23:30+00:00,tiktok,rsvp_evento,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.28,es,web,57,3,arte,usuario_inexistente_en_maestro
+I0007019,U005113,2026-11-03 12:50:50+00:00,tiktok,respuesta_encuesta,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.83,es,ios,57,0,arte|aviso|humor,usuario_inexistente_en_maestro
+I0006072,U001572,2026-10-17 09:28:16+00:00,tiktok,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.72,es,web,45,8,arte,usuario_inexistente_en_maestro
+I0001130,U005547,2026-11-01 12:48:23+00:00,telegram,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.82,es,web,50,1,juegos,usuario_inexistente_en_maestro
+I0008290,U004348,2026-11-03 06:40:40+00:00,tiktok,reaccion,,musica,0.19,es,web,0,3,juegos,usuario_inexistente_en_maestro
+I0006883,U001702,2026-10-28 13:56:34+00:00,instagram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.29,es,android,77,1,,usuario_inexistente_en_maestro
+I0001730,U003757,2026-10-23 19:36:32+00:00,twitter/x,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.19,es,android,77,3,,usuario_inexistente_en_maestro
+I0007103,U002219,2026-10-28 10:20:06+00:00,tiktok,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.91,es,android,50,0,humor,usuario_inexistente_en_maestro
+I0005935,U005311,2026-10-16 09:15:06+00:00,discord,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.44,es,ios,63,3,musica,usuario_inexistente_en_maestro
+I0007533,U005084,2026-10-12 16:09:07+00:00,discord,reaccion,,memes_humor,0.6,es,web,0,0,aviso|musica,usuario_inexistente_en_maestro
+I0002507,U001881,2026-10-22 04:59:22+00:00,instagram,rsvp_evento,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.61,es,android,47,4,humor|reglas,usuario_inexistente_en_maestro
+I0007136,U002878,2026-10-29 06:28:09+00:00,tiktok,comentario,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.7,es,android,65,2,arte,usuario_inexistente_en_maestro
+I0002886,U003376,2026-11-05 18:39:02+00:00,facebook,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.31,es,ios,38,4,humor,usuario_inexistente_en_maestro
+I0008549,U005011,2026-10-23 23:46:00+00:00,tiktok,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.86,es,ios,64,0,arte,usuario_inexistente_en_maestro
+I0008818,U001947,2026-10-24 23:45:21+00:00,twitter/x,reaccion,,seguridad_privacidad,0.33,es,android,0,6,evento|humor|musica,usuario_inexistente_en_maestro
+I0007922,U002107,2026-10-17 23:24:13+00:00,telegram,rsvp_evento,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.71,es,android,54,2,arte|humor|aviso,usuario_inexistente_en_maestro
+I0007617,U002675,2026-10-20 14:34:04+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.85,es,android,50,10,evento,usuario_inexistente_en_maestro
+I0007137,U003299,2026-10-13 20:09:24+00:00,telegram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.58,es,android,64,0,juegos|aviso,usuario_inexistente_en_maestro
+I0009708,U005800,2026-10-16 00:26:33+00:00,facebook,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.76,es,android,45,1,reglas|evento,usuario_inexistente_en_maestro
+I0005281,U005912,2026-11-03 06:42:27+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.65,es,android,54,5,,usuario_inexistente_en_maestro
+I0004023,U001575,2026-10-23 11:47:04+00:00,twitter/x,reaccion,,reglas_moderacion,0.68,es,android,0,0,reglas,usuario_inexistente_en_maestro
+I0001420,U001436,2026-10-19 09:25:02+00:00,facebook,reaccion,,arte_comisiones,-0.6,es,android,0,10,humor,usuario_inexistente_en_maestro
+I0004570,U003072,2026-10-23 07:34:40+00:00,facebook,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.93,es,web,64,8,reglas|evento|humor,usuario_inexistente_en_maestro
+I0007386,U003097,2026-10-28 08:32:24+00:00,twitter/x,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.6,es,android,63,0,musica|humor,usuario_inexistente_en_maestro
+I0003996,U004252,2026-11-04 07:38:48+00:00,discord,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.57,es,android,54,4,evento|juegos|aviso,usuario_inexistente_en_maestro
+I0007614,U001185,2026-10-24 19:05:47+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.3,es,android,52,1,humor,usuario_inexistente_en_maestro
+I0009337,U001936,2026-10-31 14:00:10+00:00,instagram,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.75,es,web,58,2,reglas|humor,usuario_inexistente_en_maestro
+I0005512,U004279,2026-11-01 06:14:12+00:00,facebook,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.21,es,android,55,3,evento|reglas|juegos,usuario_inexistente_en_maestro
+I0000471,U005234,2026-10-22 11:56:38+00:00,tiktok,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.23,es,android,63,2,humor|aviso|reglas,usuario_inexistente_en_maestro
+I0008099,U004892,2026-11-05 01:02:11+00:00,discord,respuesta_encuesta,¿Alguien conoce bandas locales de la región?,musica,0.36,es,web,44,2,evento|reglas|aviso,usuario_inexistente_en_maestro
+I0005326,U003317,2026-10-26 12:40:42+00:00,facebook,comentario,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.36,es,android,58,0,aviso,usuario_inexistente_en_maestro
+I0002980,U002333,2026-10-19 08:26:23+00:00,instagram,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.17,es,android,58,19,,usuario_inexistente_en_maestro
+I0007989,U003539,2026-10-13 14:21:42+00:00,instagram,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.47,es,escritorio,45,0,musica|reglas|juegos,usuario_inexistente_en_maestro
+I0003476,U001661,2026-10-31 21:36:06+00:00,facebook,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.55,es,android,58,0,reglas|aviso,usuario_inexistente_en_maestro
+I0005814,U003355,2026-11-03 09:32:57+00:00,twitter/x,respuesta_encuesta,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.24,es,ios,54,2,,usuario_inexistente_en_maestro
+I0004233,U004313,2026-10-23 01:07:52+00:00,twitter/x,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.64,es,android,50,6,,usuario_inexistente_en_maestro
+I0005577,U003848,2026-10-15 02:06:12+00:00,twitter/x,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.62,es,ios,77,1,,usuario_inexistente_en_maestro
+I0004582,U002113,2026-10-20 04:52:31+00:00,twitter/x,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.48,es,web,52,0,reglas|humor|arte,usuario_inexistente_en_maestro
+I0009768,U002323,2026-10-17 05:17:05+00:00,facebook,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.67,es,android,64,7,aviso|evento,usuario_inexistente_en_maestro
+I0004527,U002946,2026-10-16 19:46:00+00:00,twitter/x,reaccion,,arte_comisiones,-0.74,es,ios,0,0,humor|juegos,usuario_inexistente_en_maestro
+I0000167,U005232,2026-10-19 11:25:52+00:00,twitter/x,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.35,es,web,63,2,arte,usuario_inexistente_en_maestro
+I0003131,U002205,2026-10-10 08:57:11+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.2,es,web,47,4,reglas,usuario_inexistente_en_maestro
+I0001403,U003157,2026-10-25 10:49:01+00:00,tiktok,respuesta_encuesta,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.34,es,android,50,1,humor,usuario_inexistente_en_maestro
+I0003955,U004501,2026-10-27 15:30:48+00:00,discord,reaccion,,musica,0.32,es,ios,0,0,,usuario_inexistente_en_maestro
+I0003938,U001933,2026-10-19 19:20:16+00:00,facebook,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.82,es,android,63,1,juegos|humor,usuario_inexistente_en_maestro
+I0008042,U004104,2026-10-26 02:14:00+00:00,telegram,respuesta_encuesta,¿Quién juega esta noche? Armamos sala.,videojuegos,0.2,es,android,38,1,juegos,usuario_inexistente_en_maestro
+I0007343,U004411,2026-10-20 09:12:11+00:00,telegram,comentario,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.16,es,android,50,1,,usuario_inexistente_en_maestro
+I0000283,U004547,2026-10-16 11:23:26+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.34,es,escritorio,54,4,,usuario_inexistente_en_maestro
+I0001525,U001557,2026-10-18 05:03:17+00:00,telegram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.24,es,escritorio,58,1,evento|reglas,usuario_inexistente_en_maestro
+I0004821,U004937,2026-11-01 23:10:30+00:00,telegram,rsvp_evento,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.66,es,android,54,1,,usuario_inexistente_en_maestro
+I0003631,U004590,2026-10-16 17:40:33+00:00,twitter/x,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.19,es,escritorio,64,1,reglas,usuario_inexistente_en_maestro
+I0006626,U003082,2026-10-15 14:56:44+00:00,discord,respuesta_encuesta,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.65,es,web,61,0,reglas,usuario_inexistente_en_maestro
+I0003987,U002499,2026-11-03 12:15:49+00:00,instagram,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.52,es,android,57,5,arte|reglas,usuario_inexistente_en_maestro
+I0009529,U005268,2026-10-15 17:58:48+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.69,es,android,57,0,reglas|juegos|aviso,usuario_inexistente_en_maestro
+I0007754,U001189,2026-10-18 09:18:25+00:00,tiktok,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.94,es,android,47,2,evento,usuario_inexistente_en_maestro
+I0005633,U005930,2026-10-26 21:35:45+00:00,tiktok,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.93,es,android,64,0,arte|evento|reglas,usuario_inexistente_en_maestro
+I0006972,U003388,2026-10-30 23:37:11+00:00,facebook,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.41,es,android,54,5,humor,usuario_inexistente_en_maestro
+I0009018,U002967,2026-10-16 20:23:03+00:00,instagram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.23,es,ios,58,1,evento,usuario_inexistente_en_maestro
+I0005420,U001811,2026-10-23 07:00:27+00:00,tiktok,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.82,es,android,65,0,,usuario_inexistente_en_maestro
+I0005765,U002033,2026-10-15 09:39:51+00:00,telegram,reaccion,,arte_comisiones,0.34,es,android,0,1,arte|humor,usuario_inexistente_en_maestro
+I0007435,U001545,2026-11-08 19:28:19+00:00,discord,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.23,es,web,77,5,,usuario_inexistente_en_maestro
+I0004439,U002025,2026-10-10 04:29:53+00:00,twitter/x,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.21,es,android,63,0,reglas|aviso,usuario_inexistente_en_maestro
+I0005024,U001268,2026-10-25 04:15:24+00:00,facebook,comentario,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.72,es,android,48,4,juegos|arte,usuario_inexistente_en_maestro
+I0004119,U005726,2026-10-25 23:31:35+00:00,telegram,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.34,es,android,43,6,arte,usuario_inexistente_en_maestro
+I0001977,U002084,2026-10-29 01:28:12+00:00,tiktok,comentario,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.64,es,web,65,2,juegos|arte,usuario_inexistente_en_maestro
+I0001959,U002084,2026-10-16 15:50:31+00:00,facebook,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.29,es,web,60,7,,usuario_inexistente_en_maestro
+I0008780,U001873,2026-10-26 17:37:31+00:00,tiktok,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.65,es,web,58,0,reglas|humor|aviso,usuario_inexistente_en_maestro
+I0003034,U002676,2026-10-27 04:30:53+00:00,facebook,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.59,es,web,54,6,,usuario_inexistente_en_maestro
+I0007934,U001977,2026-11-06 04:45:25+00:00,facebook,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.41,es,android,63,4,,usuario_inexistente_en_maestro
+I0004531,U002493,2026-11-01 08:32:31+00:00,facebook,respuesta_encuesta,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.54,es,android,54,0,,usuario_inexistente_en_maestro
+I0009660,U003525,2026-10-29 21:44:15+00:00,instagram,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.88,es,android,63,1,reglas,usuario_inexistente_en_maestro
+I0008596,U004225,2026-10-29 17:28:53+00:00,discord,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.45,es,android,63,9,evento,usuario_inexistente_en_maestro
+I0004637,U003921,2026-10-10 12:10:20+00:00,tiktok,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.18,es,android,54,6,aviso,usuario_inexistente_en_maestro
+I0003181,U003497,2026-10-13 14:57:20+00:00,tiktok,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.2,es,android,38,9,musica|aviso|reglas,usuario_inexistente_en_maestro
+I0004854,U002646,2026-10-13 07:58:34+00:00,twitter/x,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.71,es,ios,54,3,aviso,usuario_inexistente_en_maestro
+I0003728,U002146,2026-10-11 20:37:13+00:00,facebook,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.76,es,android,45,2,humor|juegos,usuario_inexistente_en_maestro
+I0005913,U004800,2026-10-26 21:41:13+00:00,telegram,comentario,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.84,es,android,50,1,aviso|humor,usuario_inexistente_en_maestro
+I0002940,U003142,2026-10-11 13:34:42+00:00,instagram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.54,es,android,64,0,humor,usuario_inexistente_en_maestro
+I0004953,U002439,2026-11-05 23:50:55+00:00,facebook,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.79,es,android,57,1,,usuario_inexistente_en_maestro
+I0002074,U003000,2026-11-02 20:18:09+00:00,facebook,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.85,es,android,61,1,juegos|musica,usuario_inexistente_en_maestro
+I0004495,U003860,2026-10-12 11:15:42+00:00,telegram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.64,es,ios,63,2,evento|humor|reglas,usuario_inexistente_en_maestro
+I0000746,U003215,2026-11-08 14:54:31+00:00,tiktok,respuesta_encuesta,¿Quién juega esta noche? Armamos sala.,videojuegos,0.68,es,android,38,1,arte|aviso|musica,usuario_inexistente_en_maestro
+I0000894,U005542,2026-10-28 17:52:04+00:00,telegram,comentario,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.78,es,escritorio,65,2,reglas|humor,usuario_inexistente_en_maestro
+I0009067,U002748,2026-10-29 21:53:11+00:00,tiktok,reaccion,,eventos_convenciones,-0.76,es,android,0,4,evento|arte,usuario_inexistente_en_maestro
+I0004787,U001073,2026-11-01 10:44:17+00:00,discord,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.53,es,ios,54,1,musica,usuario_inexistente_en_maestro
+I0008043,U003066,2026-10-12 13:20:01+00:00,tiktok,reaccion,,videojuegos,0.87,es,android,0,1,arte|aviso,usuario_inexistente_en_maestro
+I0001681,U005676,2026-11-08 02:03:42+00:00,telegram,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.2,es,android,44,5,evento,usuario_inexistente_en_maestro
+I0000201,U002920,2026-10-22 17:16:49+00:00,twitter/x,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.83,es,ios,45,3,evento|juegos|arte,usuario_inexistente_en_maestro
+I0009406,U005318,2026-10-14 21:41:21+00:00,telegram,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.15,es,escritorio,63,2,reglas,usuario_inexistente_en_maestro
+I0007844,U004095,2026-11-04 01:57:17+00:00,facebook,comentario,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.24,es,android,48,0,reglas|humor|aviso,usuario_inexistente_en_maestro
+I0007217,U001945,2026-10-15 13:10:32+00:00,instagram,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.39,es,android,65,1,,usuario_inexistente_en_maestro
+I0005583,U002347,2026-11-04 03:12:55+00:00,instagram,reaccion,,reglas_moderacion,0.63,es,android,0,6,,usuario_inexistente_en_maestro
+I0003021,U005648,2026-10-16 23:18:31+00:00,telegram,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.95,es,ios,61,0,,usuario_inexistente_en_maestro
+I0004137,U002133,2026-11-07 12:31:40+00:00,instagram,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.16,es,android,54,2,,usuario_inexistente_en_maestro
+I0007828,U002690,2026-11-07 00:31:44+00:00,instagram,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.6,es,android,57,0,,usuario_inexistente_en_maestro
+I0001870,U002600,2026-10-23 22:45:03+00:00,telegram,respuesta_encuesta,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.74,es,android,60,2,musica|aviso|humor,usuario_inexistente_en_maestro
+I0001071,U001630,2026-10-17 18:39:06+00:00,telegram,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.76,es,web,55,0,reglas|arte|evento,usuario_inexistente_en_maestro
+I0006566,U001980,2026-10-12 11:36:02+00:00,twitter/x,rsvp_evento,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.19,es,android,47,15,humor|aviso|arte,usuario_inexistente_en_maestro
+I0008057,U001640,2026-10-23 00:07:57+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.71,es,android,54,3,,usuario_inexistente_en_maestro
+I0001214,U004859,2026-10-24 01:43:07+00:00,instagram,respuesta_encuesta,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.79,es,escritorio,65,2,juegos|evento,usuario_inexistente_en_maestro
+I0009454,U005889,2026-11-01 19:08:12+00:00,telegram,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.89,es,android,43,0,aviso,usuario_inexistente_en_maestro
+I0000879,U005182,2026-10-17 18:49:34+00:00,facebook,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.52,es,android,77,0,,usuario_inexistente_en_maestro
+I0009222,U001557,2026-11-01 05:56:40+00:00,tiktok,reaccion,,arte_comisiones,0.69,es,web,0,1,evento|arte|reglas,usuario_inexistente_en_maestro
+I0001396,U005506,2026-10-21 04:51:00+00:00,instagram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.66,es,android,77,3,juegos,usuario_inexistente_en_maestro
+I0004067,U003000,2026-10-31 15:26:17+00:00,facebook,reaccion,,eventos_convenciones,0.86,es,android,0,1,humor,usuario_inexistente_en_maestro
+I0001941,U004614,2026-10-18 19:36:35+00:00,twitter/x,comentario,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.28,es,android,43,1,aviso|arte,usuario_inexistente_en_maestro
+I0006819,U003230,2026-10-13 12:20:42+00:00,tiktok,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.73,es,android,44,0,musica,usuario_inexistente_en_maestro
+I0009934,U002378,2026-10-12 02:21:55+00:00,tiktok,reaccion,,videojuegos,0.23,es,ios,0,3,aviso|reglas|humor,usuario_inexistente_en_maestro
+I0009767,U001319,2026-11-08 18:35:06+00:00,telegram,reaccion,,arte_comisiones,0.92,es,web,0,3,humor|evento|musica,usuario_inexistente_en_maestro
+I0003698,U001954,2026-11-03 10:15:13+00:00,telegram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.71,es,android,58,0,musica,usuario_inexistente_en_maestro
+I0008562,U001701,2026-10-19 04:55:54+00:00,tiktok,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.8,es,escritorio,70,8,juegos|aviso,usuario_inexistente_en_maestro
+I0007254,U005293,2026-10-23 00:13:58+00:00,facebook,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.53,es,android,38,2,musica|arte,usuario_inexistente_en_maestro
+I0009643,U003662,2026-11-04 06:20:24+00:00,facebook,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.48,es,web,77,0,musica,usuario_inexistente_en_maestro
+I0007026,U005245,2026-10-31 09:23:28+00:00,instagram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.3,es,ios,47,17,,usuario_inexistente_en_maestro
+I0005004,U004056,2026-10-29 22:48:20+00:00,tiktok,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.87,es,ios,54,1,arte|musica|evento,usuario_inexistente_en_maestro
+I0009317,U004326,2026-10-24 14:41:51+00:00,tiktok,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.45,es,web,54,3,evento,usuario_inexistente_en_maestro
+I0000987,U004168,2026-10-10 19:10:16+00:00,instagram,respuesta_encuesta,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.58,es,ios,57,1,humor|aviso,usuario_inexistente_en_maestro
+I0009989,U003650,2026-10-28 11:01:13+00:00,telegram,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.92,es,android,55,2,reglas|juegos,usuario_inexistente_en_maestro
+I0001626,U004666,2026-10-17 04:59:11+00:00,telegram,rsvp_evento,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.54,es,android,58,5,humor|juegos,usuario_inexistente_en_maestro
+I0003458,U001951,2026-10-24 16:04:49+00:00,discord,reaccion,,eventos_convenciones,0.81,es,android,0,2,reglas|evento,usuario_inexistente_en_maestro
+I0004336,U003960,2026-10-26 08:42:58+00:00,discord,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.39,es,android,45,1,musica|aviso,usuario_inexistente_en_maestro
+I0001331,U004289,2026-10-28 22:35:11+00:00,instagram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.5,es,android,38,2,aviso|juegos,usuario_inexistente_en_maestro
+I0009044,U001681,2026-10-30 20:49:02+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.41,es,android,77,7,musica,usuario_inexistente_en_maestro
+I0001230,U002872,2026-10-12 11:24:47+00:00,facebook,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.27,es,ios,58,0,arte,usuario_inexistente_en_maestro
+I0002565,U003131,2026-10-13 03:32:43+00:00,twitter/x,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.71,es,android,63,2,juegos|aviso,usuario_inexistente_en_maestro
+I0000044,U004561,2026-11-05 20:20:02+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.51,es,web,77,2,evento|arte|reglas,usuario_inexistente_en_maestro
+I0006694,U005326,2026-11-01 17:29:56+00:00,tiktok,comentario,Este meme me representa completamente jajaja.,memes_humor,0.34,es,ios,45,0,,usuario_inexistente_en_maestro
+I0009730,U004677,2026-10-25 18:23:23+00:00,facebook,respuesta_encuesta,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.56,es,android,60,0,juegos|musica,usuario_inexistente_en_maestro
+I0007700,U005138,2026-11-01 03:12:30+00:00,instagram,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.65,es,ios,63,12,juegos|evento,usuario_inexistente_en_maestro
+I0000535,U003680,2026-10-23 04:17:50+00:00,telegram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.9,es,android,60,1,,usuario_inexistente_en_maestro
+I0003793,U002752,2026-11-05 13:51:27+00:00,tiktok,reaccion,,fursuits,0.7,es,android,0,0,evento,usuario_inexistente_en_maestro
+I0004721,U004766,2026-10-27 22:42:53+00:00,telegram,reaccion,,eventos_convenciones,0.86,es,android,0,0,juegos|musica|evento,usuario_inexistente_en_maestro
+I0004633,U004809,2026-11-06 20:07:24+00:00,telegram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.42,es,ios,50,0,humor|evento,usuario_inexistente_en_maestro
+I0001167,U003496,2026-11-08 15:45:52+00:00,twitter/x,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.55,es,android,45,5,,usuario_inexistente_en_maestro
+I0009664,U001993,2026-10-26 13:43:45+00:00,instagram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.93,es,web,54,0,humor|musica,usuario_inexistente_en_maestro
+I0003242,U005425,2026-11-04 23:27:19+00:00,instagram,reaccion,,videojuegos,-0.59,es,ios,0,1,juegos,usuario_inexistente_en_maestro
+I0001881,U002047,2026-10-17 21:36:05+00:00,facebook,rsvp_evento,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.43,es,android,48,0,arte|juegos,usuario_inexistente_en_maestro
+I0008923,U005037,2026-11-04 16:12:38+00:00,facebook,rsvp_evento,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.86,es,web,45,2,aviso|evento,usuario_inexistente_en_maestro
+I0003684,U001557,2026-10-19 04:19:08+00:00,telegram,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.2,es,ios,58,5,,usuario_inexistente_en_maestro
+I0002442,U005676,2026-11-07 08:40:41+00:00,telegram,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.76,es,ios,63,1,juegos|arte,usuario_inexistente_en_maestro
+I0002331,U004272,2026-10-21 00:46:07+00:00,instagram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.64,es,android,60,5,juegos|humor,usuario_inexistente_en_maestro
+I0000978,U001708,2026-10-18 17:55:25+00:00,telegram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.2,es,escritorio,38,0,musica|juegos|aviso,usuario_inexistente_en_maestro
+I0002719,U002499,2026-10-16 07:48:14+00:00,telegram,reaccion,,eventos_convenciones,0.75,es,escritorio,0,3,evento|arte|aviso,usuario_inexistente_en_maestro
+I0005040,U002332,2026-10-20 03:23:54+00:00,telegram,reaccion,,memes_humor,0.5,es,escritorio,0,2,arte|aviso|musica,usuario_inexistente_en_maestro
+I0004729,U001073,2026-10-15 00:07:20+00:00,discord,reaccion,,fursuits,0.27,es,ios,0,9,aviso,usuario_inexistente_en_maestro
+I0007196,U004739,2026-10-20 02:26:59+00:00,instagram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.26,es,web,64,0,musica|evento|aviso,usuario_inexistente_en_maestro
+I0007680,U003214,2026-10-15 11:16:54+00:00,telegram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.2,es,android,50,0,evento|juegos,usuario_inexistente_en_maestro
+I0004983,U005838,2026-10-26 04:12:56+00:00,telegram,reaccion,,arte_comisiones,0.76,es,android,0,0,aviso|evento|arte,usuario_inexistente_en_maestro
+I0004461,U004997,2026-11-04 05:29:15+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.43,es,ios,47,2,evento|juegos|musica,usuario_inexistente_en_maestro
+I0008200,U001881,2026-11-04 19:54:17+00:00,facebook,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.91,es,ios,50,3,reglas|juegos|evento,usuario_inexistente_en_maestro
+I0008848,U005390,2026-11-04 09:30:28+00:00,instagram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.66,es,android,58,0,,usuario_inexistente_en_maestro
+I0008091,U004236,2026-11-01 02:16:28+00:00,discord,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.72,es,ios,65,3,humor,usuario_inexistente_en_maestro
+I0007173,U004536,2026-11-05 00:09:14+00:00,twitter/x,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.34,es,android,58,0,evento,usuario_inexistente_en_maestro
+I0001318,U003750,2026-10-18 19:45:11+00:00,telegram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.73,es,escritorio,50,2,reglas|aviso,usuario_inexistente_en_maestro
+I0001497,U002324,2026-10-26 07:07:32+00:00,instagram,reaccion,,eventos_convenciones,0.66,es,android,0,2,arte,usuario_inexistente_en_maestro
+I0009620,U004257,2026-11-05 13:29:01+00:00,telegram,comentario,Este meme me representa completamente jajaja.,memes_humor,0.16,es,android,45,4,,usuario_inexistente_en_maestro
+I0000340,U001314,2026-11-01 12:56:33+00:00,telegram,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.64,es,android,43,1,arte|humor,usuario_inexistente_en_maestro
+I0004416,U001807,2026-11-05 18:05:10+00:00,facebook,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.86,es,android,58,0,,usuario_inexistente_en_maestro
+I0002871,U002686,2026-10-30 02:02:31+00:00,facebook,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.76,es,escritorio,43,2,,usuario_inexistente_en_maestro
+I0007709,U004822,2026-10-29 12:30:41+00:00,tiktok,reaccion,,eventos_convenciones,0.21,es,web,0,1,reglas,usuario_inexistente_en_maestro
+I0008503,U002637,2026-10-26 21:28:40+00:00,instagram,reaccion,,memes_humor,0.5,es,android,0,1,arte|reglas|aviso,usuario_inexistente_en_maestro
+I0002974,U002858,2026-10-25 14:12:08+00:00,facebook,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.16,es,ios,48,2,arte|reglas,usuario_inexistente_en_maestro
+I0009591,U001436,2026-10-25 18:35:44+00:00,telegram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.2,es,ios,64,0,arte|evento,usuario_inexistente_en_maestro
+I0007142,U003730,2026-11-04 17:38:32+00:00,telegram,reaccion,,videojuegos,0.58,es,android,0,2,,usuario_inexistente_en_maestro
+I0001495,U004044,2026-10-17 17:12:05+00:00,tiktok,respuesta_encuesta,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.46,es,android,54,2,aviso,usuario_inexistente_en_maestro
+I0007701,U004358,2026-10-25 18:49:27+00:00,tiktok,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.92,es,android,50,1,,usuario_inexistente_en_maestro
+I0005701,U001676,2026-10-26 11:27:43+00:00,telegram,reaccion,,fursuits,0.34,es,android,0,2,musica|evento,usuario_inexistente_en_maestro
+I0006691,U004587,2026-10-31 01:25:54+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.51,es,ios,54,14,,usuario_inexistente_en_maestro
+I0005461,U004030,2026-10-16 17:53:33+00:00,instagram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.32,es,escritorio,52,3,musica,usuario_inexistente_en_maestro
+I0005261,U004086,2026-10-29 19:51:41+00:00,twitter/x,comentario,¿Alguien conoce bandas locales de la región?,musica,0.45,es,web,44,7,evento|musica,usuario_inexistente_en_maestro
+I0001714,U002092,2026-10-17 21:06:45+00:00,twitter/x,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.8,es,android,63,0,humor,usuario_inexistente_en_maestro
+I0002635,U003825,2026-10-16 09:02:25+00:00,telegram,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.44,es,ios,70,4,arte|aviso,usuario_inexistente_en_maestro
+I0006745,U004610,2026-10-25 20:56:25+00:00,telegram,rsvp_evento,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.52,es,ios,54,1,humor|evento|reglas,usuario_inexistente_en_maestro
+I0006562,U002839,2026-10-20 20:43:17+00:00,telegram,respuesta_encuesta,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.65,es,ios,60,0,musica|humor,usuario_inexistente_en_maestro
+I0009013,U002416,2026-11-08 11:08:34+00:00,telegram,respuesta_encuesta,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.48,es,android,54,0,,usuario_inexistente_en_maestro
+I0000602,U003388,2026-10-13 12:43:29+00:00,instagram,rsvp_evento,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.47,es,escritorio,54,1,humor|reglas|aviso,usuario_inexistente_en_maestro
+I0001443,U005890,2026-11-08 15:29:17+00:00,instagram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.88,es,web,58,5,,usuario_inexistente_en_maestro
+I0005154,U001437,2026-10-16 16:08:52+00:00,telegram,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.7,es,android,64,2,musica|reglas,usuario_inexistente_en_maestro
+I0004136,U001203,2026-10-11 22:53:46+00:00,instagram,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.45,es,android,54,0,musica|evento|reglas,usuario_inexistente_en_maestro
+I0005297,U005836,2026-11-06 18:29:09+00:00,facebook,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.77,es,web,61,2,arte|evento,usuario_inexistente_en_maestro
+I0001900,U004986,2026-10-23 07:06:39+00:00,twitter/x,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.29,es,android,60,2,humor|arte,usuario_inexistente_en_maestro
+I0006623,U002068,2026-10-17 23:42:23+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.6,es,android,77,7,humor|musica|arte,usuario_inexistente_en_maestro
+I0008432,U001597,2026-11-02 05:55:16+00:00,twitter/x,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.95,es,android,52,8,humor|musica,usuario_inexistente_en_maestro
+I0000019,U004163,2026-11-05 18:30:02+00:00,facebook,rsvp_evento,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.33,es,android,60,2,humor|evento|musica,usuario_inexistente_en_maestro
+I0008890,U001472,2026-10-23 05:39:09+00:00,twitter/x,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.36,es,android,57,0,musica,usuario_inexistente_en_maestro
+I0007570,U004054,2026-10-19 10:54:34+00:00,facebook,comentario,Este meme me representa completamente jajaja.,memes_humor,0.32,es,android,45,1,juegos|reglas|evento,usuario_inexistente_en_maestro
+I0006771,U003612,2026-11-02 20:05:11+00:00,telegram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.55,es,ios,60,5,humor|musica,usuario_inexistente_en_maestro
+I0000889,U003090,2026-10-20 09:46:18+00:00,instagram,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.78,es,ios,70,4,juegos|reglas,usuario_inexistente_en_maestro
+I0003074,U005182,2026-11-06 20:55:24+00:00,instagram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.63,es,escritorio,63,2,evento|reglas,usuario_inexistente_en_maestro
+I0008495,U001247,2026-10-27 23:23:55+00:00,instagram,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.89,es,android,47,0,musica|arte,usuario_inexistente_en_maestro
+I0005928,U001782,2026-11-02 06:07:57+00:00,facebook,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.62,es,escritorio,45,3,arte|reglas,usuario_inexistente_en_maestro
+I0008168,U003151,2026-10-23 22:21:30+00:00,facebook,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.37,es,web,58,1,humor,usuario_inexistente_en_maestro
+I0007243,U003000,2026-10-19 05:10:39+00:00,facebook,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.32,es,android,47,0,arte,usuario_inexistente_en_maestro
+I0000846,U005997,2026-10-11 15:53:24+00:00,telegram,reaccion,,eventos_convenciones,0.19,es,android,0,4,humor,usuario_inexistente_en_maestro
+I0004376,U004874,2026-10-22 05:55:56+00:00,telegram,respuesta_encuesta,Este meme me representa completamente jajaja.,memes_humor,0.2,es,android,45,0,reglas,usuario_inexistente_en_maestro
+I0008999,U001305,2026-10-30 01:09:49+00:00,discord,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.24,es,ios,61,2,juegos|musica|reglas,usuario_inexistente_en_maestro
+I0002147,U004814,2026-10-30 01:15:15+00:00,facebook,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.76,es,ios,45,1,aviso|juegos|reglas,usuario_inexistente_en_maestro
+I0004720,U002498,2026-11-05 12:28:35+00:00,telegram,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.32,es,android,63,8,juegos,usuario_inexistente_en_maestro
+I0007179,U001268,2026-10-30 23:52:34+00:00,telegram,reaccion,,seguridad_privacidad,0.42,es,android,0,1,arte|musica,usuario_inexistente_en_maestro
+I0001990,U003317,2026-10-16 17:43:34+00:00,twitter/x,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.85,es,web,63,0,juegos|evento|aviso,usuario_inexistente_en_maestro
+I0000473,U004505,2026-10-29 17:12:58+00:00,discord,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.15,es,ios,45,0,reglas|humor|arte,usuario_inexistente_en_maestro
+I0009976,U004961,2026-11-01 22:06:15+00:00,telegram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.33,es,ios,50,0,aviso|evento,usuario_inexistente_en_maestro
+I0003921,U005163,2026-10-20 11:57:59+00:00,telegram,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.17,es,android,54,3,arte|juegos,usuario_inexistente_en_maestro
+I0005092,U005072,2026-10-12 17:26:11+00:00,telegram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.28,es,android,77,4,evento|arte,usuario_inexistente_en_maestro
+I0009025,U001354,2026-11-08 02:59:51+00:00,telegram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.54,es,web,58,0,juegos,usuario_inexistente_en_maestro
+I0000225,U003274,2026-10-13 16:11:08+00:00,telegram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.6,es,android,58,0,evento,usuario_inexistente_en_maestro
+I0009049,U003640,2026-11-01 19:53:32+00:00,telegram,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.59,es,android,61,3,juegos,usuario_inexistente_en_maestro
+I0001528,U005110,2026-10-27 11:35:32+00:00,telegram,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.82,es,escritorio,61,0,evento|arte|humor,usuario_inexistente_en_maestro
+I0001859,U003398,2026-11-02 08:37:39+00:00,instagram,reaccion,,arte_comisiones,0.91,es,escritorio,0,4,reglas,usuario_inexistente_en_maestro
+I0007561,U005355,2026-10-11 17:31:39+00:00,tiktok,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.54,es,android,77,2,,usuario_inexistente_en_maestro
+I0001925,U002943,2026-10-24 03:09:54+00:00,telegram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.44,es,android,64,4,evento|aviso,usuario_inexistente_en_maestro
+I0002523,U001090,2026-10-23 18:14:22+00:00,facebook,reaccion,,eventos_convenciones,-0.68,es,web,0,5,aviso|musica|humor,usuario_inexistente_en_maestro
+I0008166,U003317,2026-10-15 06:47:35+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.7,es,ios,52,0,humor|reglas,usuario_inexistente_en_maestro
+I0004782,U005495,2026-10-31 15:29:15+00:00,discord,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.8,es,android,52,0,,usuario_inexistente_en_maestro
+I0008338,U004830,2026-10-13 10:34:12+00:00,tiktok,reaccion,,memes_humor,0.86,es,web,0,5,reglas,usuario_inexistente_en_maestro
+I0004480,U004458,2026-10-12 00:26:12+00:00,facebook,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.84,es,escritorio,45,4,evento|aviso|humor,usuario_inexistente_en_maestro
+I0006808,U004614,2026-11-04 10:58:01+00:00,telegram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.92,es,android,47,7,humor,usuario_inexistente_en_maestro
+I0007906,U003643,2026-11-06 05:40:17+00:00,instagram,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.3,es,escritorio,48,5,arte,usuario_inexistente_en_maestro
+I0007737,U002436,2026-10-26 05:24:08+00:00,facebook,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.28,es,android,50,3,,usuario_inexistente_en_maestro
+I0003994,U004657,2026-11-01 02:46:25+00:00,discord,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.19,es,android,55,3,evento,usuario_inexistente_en_maestro
+I0002370,U004835,2026-10-22 17:53:08+00:00,telegram,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.8,es,android,57,1,juegos|arte,usuario_inexistente_en_maestro
+I0006285,U004512,2026-10-10 11:31:06+00:00,telegram,reaccion,,reglas_moderacion,0.56,es,android,0,0,,usuario_inexistente_en_maestro
+I0008328,U005388,2026-10-14 21:33:28+00:00,telegram,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.82,es,android,54,7,,usuario_inexistente_en_maestro
+I0001144,U004592,2026-10-27 13:46:59+00:00,twitter/x,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.64,es,web,50,0,,usuario_inexistente_en_maestro
+I0006799,U005173,2026-11-06 21:48:58+00:00,twitter/x,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.55,es,escritorio,45,5,humor,usuario_inexistente_en_maestro
+I0005569,U002220,2026-10-25 21:38:01+00:00,facebook,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.84,es,android,48,0,juegos|aviso,usuario_inexistente_en_maestro
+I0004378,U001171,2026-10-29 13:41:27+00:00,twitter/x,reaccion,,arte_comisiones,-0.43,es,android,0,0,reglas|evento|humor,usuario_inexistente_en_maestro
+I0000043,U004997,2026-10-11 02:23:07+00:00,twitter/x,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.89,es,android,64,7,evento,usuario_inexistente_en_maestro
+I0004892,U005094,2026-10-26 18:08:17+00:00,instagram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.88,es,android,54,5,musica,usuario_inexistente_en_maestro
+I0009617,U003113,2026-10-26 14:10:58+00:00,facebook,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.69,es,android,63,0,humor|juegos|aviso,usuario_inexistente_en_maestro
+I0009502,U003648,2026-11-05 01:15:41+00:00,facebook,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.69,es,escritorio,48,2,reglas|musica|arte,usuario_inexistente_en_maestro
+I0008023,U002315,2026-10-16 15:58:49+00:00,tiktok,reaccion,,reglas_moderacion,0.47,es,android,0,0,reglas|humor|arte,usuario_inexistente_en_maestro
+I0002435,U001637,2026-10-22 18:58:05+00:00,instagram,comentario,¿Alguien conoce bandas locales de la región?,musica,0.7,es,android,44,0,humor|evento,usuario_inexistente_en_maestro
+I0007317,U004873,2026-11-03 06:27:54+00:00,instagram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.35,es,android,64,3,,usuario_inexistente_en_maestro
+I0008825,U005023,2026-10-29 23:40:37+00:00,telegram,reaccion,,arte_comisiones,-0.75,es,android,0,0,aviso|arte,usuario_inexistente_en_maestro
+I0007936,U004127,2026-10-18 05:59:39+00:00,discord,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.52,es,android,58,1,,usuario_inexistente_en_maestro
+I0005655,U001816,2026-10-29 04:17:39+00:00,tiktok,comentario,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.36,es,android,63,6,aviso|evento|arte,usuario_inexistente_en_maestro
+I0005447,U001912,2026-10-21 14:26:48+00:00,tiktok,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.27,es,android,48,1,aviso|juegos|humor,usuario_inexistente_en_maestro
+I0009043,U001361,2026-10-14 14:52:08+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.17,es,android,57,3,reglas,usuario_inexistente_en_maestro
+I0007461,U003000,2026-11-02 08:25:51+00:00,telegram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.64,es,web,38,11,musica|reglas|evento,usuario_inexistente_en_maestro
+I0005273,U001275,2026-10-11 15:21:51+00:00,tiktok,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.43,es,ios,77,2,juegos|reglas|humor,usuario_inexistente_en_maestro
+I0003091,U005604,2026-10-10 11:17:11+00:00,instagram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.76,es,web,52,1,,usuario_inexistente_en_maestro
+I0009369,U004183,2026-10-11 17:47:05+00:00,instagram,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.22,es,android,58,0,evento,usuario_inexistente_en_maestro
+I0006275,U003186,2026-11-05 16:29:01+00:00,instagram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.34,es,ios,48,2,reglas|evento,usuario_inexistente_en_maestro
+I0003827,U004739,2026-10-30 00:33:30+00:00,discord,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.26,es,web,77,6,arte|reglas,usuario_inexistente_en_maestro
+I0006731,U001324,2026-11-06 14:35:28+00:00,facebook,comentario,Este meme me representa completamente jajaja.,memes_humor,0.46,es,ios,45,14,musica|evento|aviso,usuario_inexistente_en_maestro
+I0005214,U002878,2026-10-29 00:11:38+00:00,facebook,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.72,es,escritorio,58,4,,usuario_inexistente_en_maestro
+I0006247,U003000,2026-11-08 23:33:05+00:00,telegram,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.68,es,android,47,2,reglas|evento,usuario_inexistente_en_maestro
+I0006326,U003008,2026-10-13 01:13:24+00:00,telegram,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.71,es,web,63,6,musica|evento|arte,usuario_inexistente_en_maestro
+I0002493,U002786,2026-10-28 02:52:25+00:00,facebook,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.47,es,web,48,0,aviso,usuario_inexistente_en_maestro
+I0008116,U005781,2026-10-12 04:34:50+00:00,twitter/x,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.46,es,android,45,0,,usuario_inexistente_en_maestro
+I0000607,U005514,2026-10-22 13:25:07+00:00,telegram,reaccion,,memes_humor,0.54,es,ios,0,2,musica|evento|juegos,usuario_inexistente_en_maestro
+I0008230,U004726,2026-10-30 06:19:58+00:00,twitter/x,rsvp_evento,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.31,es,android,60,5,reglas,usuario_inexistente_en_maestro
+I0009670,U003645,2026-10-12 11:08:44+00:00,discord,comentario,¿Alguien conoce bandas locales de la región?,musica,0.31,es,android,44,1,reglas|humor,usuario_inexistente_en_maestro
+I0005440,U001557,2026-11-04 16:36:18+00:00,instagram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.47,es,android,52,3,,usuario_inexistente_en_maestro
+I0001645,U003478,2026-11-01 10:24:24+00:00,facebook,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.28,es,android,57,0,,usuario_inexistente_en_maestro
+I0007214,U004166,2026-11-01 20:34:25+00:00,telegram,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.52,es,android,58,0,reglas|humor,usuario_inexistente_en_maestro
+I0001634,U003960,2026-11-02 16:55:03+00:00,instagram,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.47,es,ios,54,0,reglas|evento,usuario_inexistente_en_maestro
+I0008618,U003077,2026-10-19 08:35:18+00:00,facebook,reaccion,,reglas_moderacion,0.6,es,ios,0,1,reglas|humor|aviso,usuario_inexistente_en_maestro
+I0007487,U002931,2026-11-02 22:07:32+00:00,telegram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.23,es,escritorio,50,0,humor,usuario_inexistente_en_maestro
+I0000252,U001964,2026-11-03 20:23:11+00:00,telegram,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.23,es,ios,58,2,,usuario_inexistente_en_maestro
+I0002362,U004583,2026-10-16 23:40:25+00:00,instagram,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.88,es,ios,54,3,aviso|juegos,usuario_inexistente_en_maestro
+I0006718,U005011,2026-10-28 21:09:01+00:00,telegram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.25,es,android,38,0,evento|humor|juegos,usuario_inexistente_en_maestro
+I0001226,U005726,2026-10-29 22:31:14+00:00,tiktok,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.74,es,ios,48,0,juegos|aviso|humor,usuario_inexistente_en_maestro
+I0007693,U003807,2026-10-17 07:16:38+00:00,instagram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.67,es,web,54,2,musica|arte,usuario_inexistente_en_maestro
+I0005547,U003317,2026-11-04 06:08:25+00:00,telegram,rsvp_evento,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.94,es,ios,77,0,aviso|musica|reglas,usuario_inexistente_en_maestro
+I0006513,U002146,2026-11-05 13:22:40+00:00,telegram,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.77,es,android,58,3,arte|aviso|juegos,usuario_inexistente_en_maestro
+I0001316,U003000,2026-10-27 19:17:53+00:00,tiktok,mensaje,Hubo comentarios agresivos y nadie hizo nada.,reglas_moderacion,-0.73,es,android,45,2,aviso,usuario_inexistente_en_maestro
+I0005384,U003077,2026-10-15 18:28:06+00:00,facebook,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.31,es,android,52,8,reglas|juegos|arte,usuario_inexistente_en_maestro
+I0008743,U001956,2026-10-13 14:55:44+00:00,instagram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.81,es,android,54,2,,usuario_inexistente_en_maestro
+I0006227,U003633,2026-10-13 03:59:53+00:00,tiktok,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.64,es,ios,64,1,humor|aviso|reglas,usuario_inexistente_en_maestro
+I0005189,U002814,2026-10-23 22:21:34+00:00,instagram,comentario,¿Alguien conoce bandas locales de la región?,musica,0.34,es,android,44,0,reglas,usuario_inexistente_en_maestro
+I0007995,U004562,2026-10-10 17:25:58+00:00,instagram,respuesta_encuesta,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.52,es,escritorio,77,3,arte|musica,usuario_inexistente_en_maestro
+I0008865,U003673,2026-10-14 21:29:13+00:00,discord,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.61,es,ios,60,0,aviso,usuario_inexistente_en_maestro
+I0000589,U005311,2026-10-21 19:23:44+00:00,instagram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.88,es,android,48,8,,usuario_inexistente_en_maestro
+I0001122,U003490,2026-11-06 02:14:27+00:00,telegram,rsvp_evento,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.17,es,web,63,5,evento|aviso|reglas,usuario_inexistente_en_maestro
+I0003847,U004809,2026-10-14 12:40:00+00:00,facebook,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.34,es,android,38,1,,usuario_inexistente_en_maestro

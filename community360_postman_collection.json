@@ -1,0 +1,204 @@
+{
+  "info": {
+    "_postman_id": "c360-realtime-api-collection",
+    "name": "COMMUNITY 360 - API REST & WebSockets Demo",
+    "description": "Colección de pruebas automatizadas y demostración para la Unidad III: Persistencia en la nube, arquitectura de datos y consumo reactivo (Aiven PostgreSQL).",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "1. Autenticación (Fase 3)",
+      "item": [
+        {
+          "name": "POST Iniciar Sesión (Obtener JWT)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"username\": \"admin@community360.com\",\n  \"password\": \"Admin360*\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/api/auth/login",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "auth", "login"]
+            },
+            "description": "Valida las credenciales contra PostgreSQL en Aiven y devuelve un token JWT con expiración de 24 horas."
+          }
+        },
+        {
+          "name": "GET Perfil Usuario Protegido",
+          "request": {
+            "method": "GET",
+            "header": [
+              {
+                "key": "Authorization",
+                "value": "Bearer {{token}}"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:8000/api/auth/me",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "auth", "me"]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "2. Consultas Analíticas e Históricas (Fase 4)",
+      "item": [
+        {
+          "name": "GET Resumen de Métricas Globales",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/api/stats/summary",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "stats", "summary"]
+            }
+          }
+        },
+        {
+          "name": "GET Estadísticas por Canal",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/api/stats/channels",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "stats", "channels"]
+            }
+          }
+        },
+        {
+          "name": "GET Listar Interacciones Recientes",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/api/interacciones?limit=20",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "interacciones"],
+              "query": [
+                {
+                  "key": "limit",
+                  "value": "20"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "3. Demostración en Tiempo Real - WebSockets (Fase 5)",
+      "description": "Ejecute estas peticiones para ver cómo el Dashboard web actualiza los gráficos y el feed instantáneamente sin recargar la página.",
+      "item": [
+        {
+          "name": "POST Crear Interacción (Dispara WebSocket en Vivo)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id_interaccion\": \"I0009999\",\n  \"id_usuario\": \"U000001\",\n  \"canal\": \"discord\",\n  \"tipo\": \"mensaje\",\n  \"texto\": \"¡Demostración en vivo en clase! Probando consumo reactivo con WebSockets.\",\n  \"tema\": \"arte\",\n  \"sentimiento\": 0.95,\n  \"idioma\": \"es\",\n  \"dispositivo\": \"escritorio\",\n  \"reacciones_recibidas\": 10\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/api/interacciones",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "interacciones"]
+            },
+            "description": "Inserta en Aiven y emite el evento 'INTERACTION_CREATED' hacia todos los navegadores conectados por WebSocket."
+          }
+        },
+        {
+          "name": "PUT Modificar Interacción (Dispara WebSocket en Vivo)",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"texto\": \"Texto actualizado desde Postman: Sentimiento recalculado.\",\n  \"sentimiento\": -0.80,\n  \"reacciones_recibidas\": 25\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/api/interacciones/I0009999",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "interacciones", "I0009999"]
+            },
+            "description": "Actualiza la interacción y notifica por WebSocket recalculando los indicadores dinámicos."
+          }
+        },
+        {
+          "name": "DELETE Eliminar Interacción (Dispara WebSocket en Vivo)",
+          "request": {
+            "method": "DELETE",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/api/interacciones/I0009999",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "interacciones", "I0009999"]
+            },
+            "description": "Elimina la interacción y emite 'INTERACTION_DELETED' para actualizar las gráficas en tiempo real."
+          }
+        },
+        {
+          "name": "POST Prueba Negativa (Usuario Inexistente - Integridad Referencial)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"id_interaccion\": \"I0008888\",\n  \"id_usuario\": \"U999999\",\n  \"canal\": \"telegram\",\n  \"tipo\": \"mensaje\",\n  \"texto\": \"Este usuario no existe en la base de datos.\",\n  \"tema\": \"gaming\",\n  \"sentimiento\": 0.50\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/api/interacciones",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["api", "interacciones"]
+            },
+            "description": "Demuestra la validación de integridad referencial: Debe rechazar la petición con código HTTP 400 Bad Request."
+          }
+        }
+      ]
+    }
+  ]
+}

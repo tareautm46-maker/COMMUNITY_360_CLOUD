@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar Sesión - COMMUNITY 360</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body class="bg-slate-900 text-slate-100 min-h-screen flex items-center justify-center p-4">
+    <div class="max-w-md w-full bg-slate-800/90 backdrop-blur-md rounded-2xl shadow-2xl border border-slate-700/80 p-8 space-y-6">
+        <!-- Encabezado -->
+        <div class="text-center space-y-2">
+            <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-indigo-600/20 text-indigo-400 mb-2 border border-indigo-500/30">
+                <i class="fa-solid fa-chart-line text-2xl"></i>
+            </div>
+            <h1 class="text-2xl font-bold tracking-tight text-white">COMMUNITY 360</h1>
+            <p class="text-sm text-slate-400">Panel Analítico en Tiempo Real & Gobernanza de Datos</p>
+        </div>
+
+        <!-- Banner de Autenticación Segura -->
+        <div class="bg-indigo-950/40 border border-indigo-500/30 rounded-xl p-3 text-xs text-indigo-300 flex items-start gap-2">
+            <i class="fa-solid fa-shield-halved mt-0.5 text-indigo-400"></i>
+            <div>
+                <span class="font-semibold">Acceso Protegido:</span> Autenticación con hash <b>bcrypt</b> y tokens criptográficos <b>JWT (HS256)</b> sobre Aiven Cloud.
+            </div>
+        </div>
+
+        <!-- Formulario -->
+        <form id="loginForm" class="space-y-4">
+            <div>
+                <label class="block text-xs font-semibold text-slate-300 uppercase tracking-wider mb-1.5" for="username">
+                    Usuario o Correo
+                </label>
+                <div class="relative">
+                    <span class="absolute inset-y-0 left-0 flex items-center pl-3.5 text-slate-500 pointer-events-none">
+                        <i class="fa-regular fa-envelope"></i>
+                    </span>
+                    <input 
+                        type="text" 
+                        id="username" 
+                        required 
+                        value="admin@community360.com"
+                        class="w-full pl-10 pr-4 py-2.5 bg-slate-900/80 border border-slate-700 rounded-xl text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent text-sm transition-all"
+                        placeholder="admin@community360.com"
+                    >
+                </div>
+            </div>
+
+            <div>
+                <label class="block text-xs font-semibold text-slate-300 uppercase tracking-wider mb-1.5" for="password">
+                    Contraseña
+                </label>
+                <div class="relative">
+                    <span class="absolute inset-y-0 left-0 flex items-center pl-3.5 text-slate-500 pointer-events-none">
+                        <i class="fa-solid fa-lock"></i>
+                    </span>
+                    <input 
+                        type="password" 
+                        id="password" 
+                        required 
+                        value="Admin360*"
+                        class="w-full pl-10 pr-4 py-2.5 bg-slate-900/80 border border-slate-700 rounded-xl text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent text-sm transition-all"
+                        placeholder="••••••••"
+                    >
+                </div>
+            </div>
+
+            <div id="errorAlert" class="hidden p-3 rounded-xl bg-red-950/50 border border-red-500/40 text-red-300 text-xs flex items-center gap-2">
+                <i class="fa-solid fa-circle-exclamation text-red-400"></i>
+                <span id="errorMessage">Error al iniciar sesión.</span>
+            </div>
+
+            <button 
+                type="submit" 
+                id="submitBtn"
+                class="w-full py-3 px-4 bg-gradient-to-r from-indigo-600 to-blue-600 hover:from-indigo-500 hover:to-blue-500 text-white font-medium rounded-xl shadow-lg shadow-indigo-600/30 transition-all duration-200 flex items-center justify-center gap-2 cursor-pointer"
+            >
+                <span>Acceder al Dashboard</span>
+                <i class="fa-solid fa-arrow-right text-xs"></i>
+            </button>
+        </form>
+
+        <!-- Pestaña de Credenciales Rápidas para Demostración -->
+        <div class="pt-4 border-t border-slate-700/60 text-center">
+            <p class="text-xs text-slate-400 mb-2">Credenciales de prueba preconfiguradas:</p>
+            <div class="inline-flex items-center gap-2 px-3 py-1.5 bg-slate-900/70 rounded-lg border border-slate-700 text-xs text-slate-300 font-mono">
+                <span>admin@community360.com</span> | <span class="text-indigo-400">Admin360*</span>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('loginForm');
+        const submitBtn = document.getElementById('submitBtn');
+        const errorAlert = document.getElementById('errorAlert');
+        const errorMessage = document.getElementById('errorMessage');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            errorAlert.classList.add('hidden');
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Validando credenciales...';
+
+            const username = document.getElementById('username').value.trim();
+            const password = document.getElementById('password').value;
+
+            try {
+                const response = await fetch('/api/auth/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ username, password })
+                });
+
+                const data = await response.json();
+
+                if (!response.ok) {
+                    throw new Error(data.detail || 'Credenciales inválidas');
+                }
+
+                // Guardar token JWT y datos de sesión
+                localStorage.setItem('token', data.access_token);
+                localStorage.setItem('user', JSON.stringify(data.user));
+
+                // Redirigir al dashboard
+                window.location.href = '/static/dashboard.html';
+            } catch (err) {
+                errorMessage.textContent = err.message;
+                errorAlert.classList.remove('hidden');
+            } finally {
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = '<span>Acceder al Dashboard</span> <i class="fa-solid fa-arrow-right text-xs"></i>';
+            }
+        });
+    </script>
+</body>
+</html>

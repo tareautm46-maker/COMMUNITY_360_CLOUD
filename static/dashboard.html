@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COMMUNITY 360 - Dashboard Analítico en Tiempo Real</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.7; transform: scale(1.05); }
+        }
+        .animate-glow {
+            animation: pulse-glow 2s infinite ease-in-out;
+        }
+        .highlight-row {
+            animation: highlight-anim 3s ease-out;
+        }
+        @keyframes highlight-anim {
+            0% { background-color: rgba(99, 102, 241, 0.4); }
+            100% { background-color: transparent; }
+        }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen flex flex-col font-sans antialiased">
+
+    <!-- BARRA SUPERIOR DE NAVEGACIÓN -->
+    <header class="bg-slate-900/90 border-b border-slate-800 sticky top-0 z-50 backdrop-blur-md">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-3">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-indigo-600 to-blue-500 flex items-center justify-center text-white shadow-lg shadow-indigo-500/20">
+                    <i class="fa-solid fa-chart-pie"></i>
+                </div>
+                <div>
+                    <span class="font-bold text-lg text-white tracking-tight">COMMUNITY 360</span>
+                    <span class="hidden sm:inline-block ml-2 px-2 py-0.5 text-xs rounded-full bg-indigo-900/50 text-indigo-300 border border-indigo-700/50">Unidad III</span>
+                </div>
+            </div>
+
+            <!-- Estado de Conexión WebSocket & Usuario -->
+            <div class="flex items-center gap-4">
+                <!-- Indicador de WebSocket -->
+                <div id="wsBadge" class="flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-medium bg-amber-950/40 text-amber-300 border border-amber-600/40">
+                    <span id="wsDot" class="w-2 h-2 rounded-full bg-amber-400 animate-ping"></span>
+                    <span id="wsStatusText">Conectando WebSocket...</span>
+                </div>
+
+                <!-- Perfil y Cierre de Sesión -->
+                <div class="flex items-center gap-3 pl-3 border-l border-slate-800">
+                    <div class="hidden sm:block text-right">
+                        <div id="userName" class="text-xs font-semibold text-white">Administrador</div>
+                        <div class="text-[10px] text-slate-400">PostgreSQL (Aiven Cloud)</div>
+                    </div>
+                    <button 
+                        id="logoutBtn"
+                        title="Cerrar sesión"
+                        class="p-2 text-slate-400 hover:text-red-400 hover:bg-slate-800 rounded-lg transition-colors cursor-pointer"
+                    >
+                        <i class="fa-solid fa-arrow-right-from-bracket"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- BANNER DE RESTRICCIÓN DOCENTE (POSTMAN DEMO) -->
+    <div class="bg-gradient-to-r from-blue-950/60 via-indigo-950/40 to-slate-900 border-b border-indigo-900/40 py-2.5 px-4 text-xs">
+        <div class="max-w-7xl mx-auto flex items-center justify-between flex-wrap gap-2">
+            <div class="flex items-center gap-2 text-indigo-200">
+                <i class="fa-solid fa-bolt text-indigo-400"></i>
+                <span><b>Consigna Docente:</b> Envíe peticiones <b>POST, PUT o DELETE</b> desde <b>Postman</b> hacia <code>/api/interacciones</code> para observar cómo este dashboard actualiza sus indicadores reactivamente por WebSockets sin recargar.</span>
+            </div>
+            <a href="/docs" target="_blank" class="text-indigo-400 hover:text-indigo-300 font-medium underline flex items-center gap-1">
+                Swagger Docs <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+            </a>
+        </div>
+    </div>
+
+    <!-- CONTENIDO PRINCIPAL -->
+    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 space-y-6 flex-1 w-full">
+
+        <!-- TARJETAS DE INDICADORES CLAVE (KPIs) -->
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <!-- Total Interacciones -->
+            <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm relative overflow-hidden">
+                <div class="flex justify-between items-start">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Interacciones Activas</p>
+                        <h3 id="kpiInteracciones" class="text-3xl font-extrabold text-white mt-1 transition-all">--</h3>
+                    </div>
+                    <div class="w-10 h-10 rounded-xl bg-blue-500/10 text-blue-400 flex items-center justify-center border border-blue-500/20">
+                        <i class="fa-regular fa-comments text-lg"></i>
+                    </div>
+                </div>
+                <div class="mt-3 flex items-center gap-1.5 text-xs text-emerald-400 font-medium">
+                    <i class="fa-solid fa-check"></i>
+                    <span>Integradas en Aiven Cloud</span>
+                </div>
+            </div>
+
+            <!-- Sentimiento Promedio -->
+            <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm relative overflow-hidden">
+                <div class="flex justify-between items-start">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Sentimiento Promedio</p>
+                        <h3 id="kpiSentimiento" class="text-3xl font-extrabold text-white mt-1 transition-all">--</h3>
+                    </div>
+                    <div id="kpiSentimientoIcon" class="w-10 h-10 rounded-xl bg-emerald-500/10 text-emerald-400 flex items-center justify-center border border-emerald-500/20">
+                        <i class="fa-regular fa-face-smile text-lg"></i>
+                    </div>
+                </div>
+                <div class="mt-3 text-xs text-slate-400">
+                    Escala analítica: <span class="text-slate-300 font-mono">[-1.0 a +1.0]</span>
+                </div>
+            </div>
+
+            <!-- Privacy by Design: Consentimiento -->
+            <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm relative overflow-hidden">
+                <div class="flex justify-between items-start">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Privacy by Design (RGPD)</p>
+                        <h3 id="kpiConsentimiento" class="text-3xl font-extrabold text-white mt-1">897 / 1,068</h3>
+                    </div>
+                    <div class="w-10 h-10 rounded-xl bg-emerald-500/10 text-emerald-400 flex items-center justify-center border border-emerald-500/20">
+                        <i class="fa-solid fa-user-shield text-lg"></i>
+                    </div>
+                </div>
+                <div class="mt-3 text-xs text-emerald-400 flex items-center gap-1">
+                    <i class="fa-solid fa-lock"></i>
+                    <span>171 sin consentimiento protegidos</span>
+                </div>
+            </div>
+
+            <!-- Huérfanos Aislados -->
+            <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm relative overflow-hidden">
+                <div class="flex justify-between items-start">
+                    <div>
+                        <p class="text-xs font-medium text-slate-400 uppercase tracking-wider">Cuarentena de Huérfanos</p>
+                        <h3 id="kpiHuerfanos" class="text-3xl font-extrabold text-amber-400 mt-1">793</h3>
+                    </div>
+                    <div class="w-10 h-10 rounded-xl bg-amber-500/10 text-amber-400 flex items-center justify-center border border-amber-500/20">
+                        <i class="fa-solid fa-triangle-exclamation text-lg"></i>
+                    </div>
+                </div>
+                <div class="mt-3 text-xs text-slate-400">
+                    Aislados con motivo de integridad
+                </div>
+            </div>
+        </section>
+
+        <!-- GRÁFICAS DINÁMICAS (EN TIEMPO REAL MEDIANTE WEBSOCKETS) -->
+        <section class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <!-- Gráfica de Barras: Actividad por Canal -->
+            <div class="lg:col-span-2 bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-4">
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Distribución de Interacciones por Canal</h4>
+                        <p class="text-xs text-slate-400">Actualización reactiva por WebSockets</p>
+                    </div>
+                    <span class="px-2.5 py-1 text-[11px] rounded-lg bg-indigo-900/40 text-indigo-300 border border-indigo-700/50 flex items-center gap-1.5">
+                        <span class="w-1.5 h-1.5 rounded-full bg-indigo-400 animate-pulse"></span> Dinámico
+                    </span>
+                </div>
+                <div class="h-64 relative">
+                    <canvas id="channelsChart"></canvas>
+                </div>
+            </div>
+
+            <!-- Gráfica de Dona: Distribución de Sentimientos -->
+            <div class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm flex flex-col justify-between">
+                <div class="flex items-center justify-between mb-4">
+                    <div>
+                        <h4 class="font-bold text-white text-sm">Polaridad de Sentimientos</h4>
+                        <p class="text-xs text-slate-400">Clasificación en tiempo real</p>
+                    </div>
+                    <span class="px-2.5 py-1 text-[11px] rounded-lg bg-indigo-900/40 text-indigo-300 border border-indigo-700/50">
+                        3FN
+                    </span>
+                </div>
+                <div class="h-64 relative flex items-center justify-center">
+                    <canvas id="sentimentChart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- TABLA DE FLUJO REACTIVO EN TIEMPO REAL -->
+        <section class="bg-slate-900/80 border border-slate-800 rounded-2xl p-5 shadow-sm space-y-4">
+            <div class="flex items-center justify-between flex-wrap gap-2">
+                <div>
+                    <h4 class="font-bold text-white text-sm flex items-center gap-2">
+                        <i class="fa-solid fa-satellite-dish text-indigo-400"></i>
+                        <span>Flujo de Interacciones en Vivo (Consumo Reactivo)</span>
+                    </h4>
+                    <p class="text-xs text-slate-400">Los registros enviados desde Postman aparecen aquí instantáneamente.</p>
+                </div>
+                <button 
+                    onclick="recargarInteraccionesREST()" 
+                    class="px-3 py-1.5 rounded-xl bg-slate-800 hover:bg-slate-700 text-xs text-slate-300 font-medium transition-colors flex items-center gap-1.5 border border-slate-700 cursor-pointer"
+                >
+                    <i class="fa-solid fa-rotate text-[11px]"></i> Refrescar REST
+                </button>
+            </div>
+
+            <div class="overflow-x-auto rounded-xl border border-slate-800">
+                <table class="w-full text-left text-xs">
+                    <thead class="bg-slate-800/80 text-slate-400 uppercase font-semibold border-b border-slate-700/80">
+                        <tr>
+                            <th class="py-3 px-4">ID</th>
+                            <th class="py-3 px-4">Usuario</th>
+                            <th class="py-3 px-4">Canal</th>
+                            <th class="py-3 px-4">Tema</th>
+                            <th class="py-3 px-4">Texto / Mensaje</th>
+                            <th class="py-3 px-4 text-center">Sentimiento</th>
+                            <th class="py-3 px-4">Fecha / Hora</th>
+                        </tr>
+                    </thead>
+                    <tbody id="interaccionesBody" class="divide-y divide-slate-800/60 font-mono text-slate-300">
+                        <tr>
+                            <td colspan="7" class="py-8 text-center text-slate-500">
+                                <i class="fa-solid fa-spinner fa-spin mr-2"></i> Cargando interacciones desde Aiven Cloud...
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- CONTENEDOR FLOTANTE DE NOTIFICACIONES TOAST (WEBSOCKETS) -->
+    <div id="toastContainer" class="fixed bottom-5 right-5 z-50 flex flex-col gap-2 max-w-sm pointer-events-none"></div>
+
+    <!-- SCRIPTS CLIENTE: AUTENTICACIÓN, WEBSOCKETS Y CHART.JS -->
+    <script>
+        // 1. Verificación de Autenticación
+        const token = localStorage.getItem('token');
+        if (!token) {
+            window.location.href = '/static/login.html';
+        }
+
+        const user = JSON.parse(localStorage.getItem('user') || '{}');
+        if (user.nombre) {
+            document.getElementById('userName').textContent = user.nombre;
+        }
+
+        document.getElementById('logoutBtn').addEventListener('click', () => {
+            localStorage.removeItem('token');
+            localStorage.removeItem('user');
+            window.location.href = '/static/login.html';
+        });
+
+        // 2. Variables de Gráficas
+        let channelsChart = null;
+        let sentimentChart = null;
+
+        function inicializarGraficas() {
+            const ctxChannels = document.getElementById('channelsChart').getContext('2d');
+            channelsChart = new Chart(ctxChannels, {
+                type: 'bar',
+                data: {
+                    labels: ['Discord', 'Telegram', 'TikTok', 'Instagram', 'Facebook'],
+                    datasets: [{
+                        label: 'Interacciones',
+                        data: [0, 0, 0, 0, 0],
+                        backgroundColor: [
+                            'rgba(99, 102, 241, 0.7)',
+                            'rgba(59, 130, 246, 0.7)',
+                            'rgba(236, 72, 153, 0.7)',
+                            'rgba(168, 85, 247, 0.7)',
+                            'rgba(14, 165, 233, 0.7)'
+                        ],
+                        borderColor: [
+                            'rgb(99, 102, 241)',
+                            'rgb(59, 130, 246)',
+                            'rgb(236, 72, 153)',
+                            'rgb(168, 85, 247)',
+                            'rgb(14, 165, 233)'
+                        ],
+                        borderWidth: 1.5,
+                        borderRadius: 8
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        y: { 
+                            beginAtZero: true, 
+                            grid: { color: 'rgba(51, 65, 85, 0.3)' },
+                            ticks: { color: '#94a3b8' }
+                        },
+                        x: { 
+                            grid: { display: false },
+                            ticks: { color: '#94a3b8' }
+                        }
+                    }
+                }
+            });
+
+            const ctxSentiment = document.getElementById('sentimentChart').getContext('2d');
+            sentimentChart = new Chart(ctxSentiment, {
+                type: 'doughnut',
+                data: {
+                    labels: ['Positivo', 'Neutro', 'Negativo'],
+                    datasets: [{
+                        data: [0, 0, 0],
+                        backgroundColor: [
+                            'rgba(16, 185, 129, 0.8)',
+                            'rgba(100, 116, 139, 0.8)',
+                            'rgba(239, 68, 68, 0.8)'
+                        ],
+                        borderColor: '#0f172a',
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: { color: '#94a3b8', font: { size: 11 } }
+                        }
+                    },
+                    cutout: '65%'
+                }
+            });
+        }
+
+        // 3. Actualizar KPIs y Gráficas
+        function actualizarMetricasVisuales(stats) {
+            if (!stats) return;
+
+            // KPIs
+            document.getElementById('kpiInteracciones').textContent = stats.total_interacciones.toLocaleString();
+            
+            const sent = stats.sentimiento_promedio;
+            const sentEl = document.getElementById('kpiSentimiento');
+            sentEl.textContent = sent > 0 ? `+${sent}` : `${sent}`;
+            
+            if (stats.usuarios_con_consentimiento) {
+                document.getElementById('kpiConsentimiento').textContent = `${stats.usuarios_con_consentimiento} / ${stats.total_usuarios}`;
+            }
+            if (stats.interacciones_huerfanas_aisladas) {
+                document.getElementById('kpiHuerfanos').textContent = stats.interacciones_huerfanas_aisladas.toLocaleString();
+            }
+
+            // Actualizar Gráfica Canales
+            if (stats.canales && channelsChart) {
+                channelsChart.data.labels = stats.canales.map(c => c.canal);
+                channelsChart.data.datasets[0].data = stats.canales.map(c => c.total);
+                channelsChart.update();
+            }
+
+            // Actualizar Gráfica Sentimientos
+            if (stats.sentimientos && sentimentChart) {
+                sentimentChart.data.datasets[0].data = [
+                    stats.sentimientos.positivo,
+                    stats.sentimientos.neutro,
+                    stats.sentimientos.negativo
+                ];
+                sentimentChart.update();
+            }
+        }
+
+        // 4. Cargar lista de interacciones mediante API REST
+        async function recargarInteraccionesREST() {
+            try {
+                const res = await fetch('/api/interacciones?limit=25');
+                const data = await res.json();
+                renderizarTablaInteracciones(data);
+            } catch (err) {
+                console.error("Error al cargar interacciones:", err);
+            }
+        }
+
+        function renderizarTablaInteracciones(lista) {
+            const tbody = document.getElementById('interaccionesBody');
+            if (!lista || lista.length === 0) {
+                tbody.innerHTML = '<tr><td colspan="7" class="py-4 text-center text-slate-500">No hay interacciones registradas.</td></tr>';
+                return;
+            }
+
+            tbody.innerHTML = lista.map(it => `
+                <tr class="hover:bg-slate-800/40 transition-colors" id="row-${it.id_interaccion}">
+                    <td class="py-2.5 px-4 font-bold text-indigo-400">${it.id_interaccion}</td>
+                    <td class="py-2.5 px-4 text-slate-200">${it.alias || it.id_usuario}</td>
+                    <td class="py-2.5 px-4"><span class="px-2 py-0.5 rounded-md bg-slate-800 text-[11px] text-slate-300 font-sans uppercase">${it.canal}</span></td>
+                    <td class="py-2.5 px-4 text-slate-300 font-sans">${it.tema}</td>
+                    <td class="py-2.5 px-4 max-w-xs truncate font-sans text-slate-300" title="${it.texto || ''}">${it.texto || '-'}</td>
+                    <td class="py-2.5 px-4 text-center">
+                        <span class="px-2 py-0.5 rounded-full text-[11px] font-sans font-semibold ${
+                            it.sentimiento > 0.05 ? 'bg-emerald-950 text-emerald-400 border border-emerald-800' :
+                            it.sentimiento < -0.05 ? 'bg-red-950 text-red-400 border border-red-800' :
+                            'bg-slate-800 text-slate-400 border border-slate-700'
+                        }">
+                            ${it.sentimiento > 0 ? '+' : ''}${it.sentimiento}
+                        </span>
+                    </td>
+                    <td class="py-2.5 px-4 text-slate-400 text-[11px]">${it.timestamp.split('.')[0]}</td>
+                </tr>
+            `).join('');
+        }
+
+        function agregarFilaEnVivo(interaccion) {
+            const tbody = document.getElementById('interaccionesBody');
+            const tr = document.createElement('tr');
+            tr.className = 'highlight-row hover:bg-slate-800/40 transition-colors';
+            tr.id = `row-${interaccion.id_interaccion}`;
+            tr.innerHTML = `
+                <td class="py-2.5 px-4 font-bold text-indigo-400">
+                    ${interaccion.id_interaccion}
+                    <span class="ml-1.5 px-1.5 py-0.2 rounded bg-indigo-500 text-white text-[9px] font-sans animate-pulse">NUEVO</span>
+                </td>
+                <td class="py-2.5 px-4 text-slate-200">${interaccion.id_usuario}</td>
+                <td class="py-2.5 px-4"><span class="px-2 py-0.5 rounded-md bg-slate-800 text-[11px] text-slate-300 font-sans uppercase">${interaccion.canal}</span></td>
+                <td class="py-2.5 px-4 text-slate-300 font-sans">${interaccion.tema}</td>
+                <td class="py-2.5 px-4 max-w-xs truncate font-sans text-slate-300" title="${interaccion.texto || ''}">${interaccion.texto || '-'}</td>
+                <td class="py-2.5 px-4 text-center">
+                    <span class="px-2 py-0.5 rounded-full text-[11px] font-sans font-semibold ${
+                        interaccion.sentimiento > 0.05 ? 'bg-emerald-950 text-emerald-400 border border-emerald-800' :
+                        interaccion.sentimiento < -0.05 ? 'bg-red-950 text-red-400 border border-red-800' :
+                        'bg-slate-800 text-slate-400 border border-slate-700'
+                    }">
+                        ${interaccion.sentimiento > 0 ? '+' : ''}${interaccion.sentimiento}
+                    </span>
+                </td>
+                <td class="py-2.5 px-4 text-slate-400 text-[11px]">${interaccion.timestamp || 'Ahora'}</td>
+            `;
+            tbody.insertBefore(tr, tbody.firstChild);
+        }
+
+        // 5. Toast Notifications
+        function mostrarToast(mensaje, tipo = 'info') {
+            const container = document.getElementById('toastContainer');
+            const toast = document.createElement('div');
+            toast.className = `pointer-events-auto p-4 rounded-xl shadow-2xl border text-xs text-white flex items-start gap-3 backdrop-blur-md transition-all duration-300 transform translate-y-2 opacity-0 ${
+                tipo === 'create' ? 'bg-emerald-900/90 border-emerald-500/50' :
+                tipo === 'update' ? 'bg-blue-900/90 border-blue-500/50' :
+                tipo === 'delete' ? 'bg-red-900/90 border-red-500/50' :
+                'bg-slate-800/90 border-slate-600/50'
+            }`;
+            
+            const icon = tipo === 'create' ? 'fa-circle-plus text-emerald-400' :
+                         tipo === 'update' ? 'fa-pen-to-square text-blue-400' :
+                         tipo === 'delete' ? 'fa-trash-can text-red-400' : 'fa-satellite-dish text-indigo-400';
+
+            toast.innerHTML = `
+                <i class="fa-solid ${icon} text-base mt-0.5"></i>
+                <div>
+                    <div class="font-bold text-[11px] tracking-wide uppercase opacity-80">Evento WebSocket Recibido</div>
+                    <div class="mt-0.5 font-medium">${mensaje}</div>
+                </div>
+            `;
+            container.appendChild(toast);
+
+            setTimeout(() => {
+                toast.classList.remove('translate-y-2', 'opacity-0');
+            }, 10);
+
+            setTimeout(() => {
+                toast.classList.add('opacity-0', 'translate-y-2');
+                setTimeout(() => toast.remove(), 300);
+            }, 4500);
+        }
+
+        // 6. Conexión WebSocket Bidireccional en Tiempo Real
+        function conectarWebSocket() {
+            const protocol = window.location.protocol === 'https:' ? 'wss:' : 'ws:';
+            const wsUrl = `${protocol}//${window.location.host}/ws`;
+            const wsBadge = document.getElementById('wsBadge');
+            const wsDot = document.getElementById('wsDot');
+            const wsStatusText = document.getElementById('wsStatusText');
+
+            const socket = new WebSocket(wsUrl);
+
+            socket.onopen = () => {
+                wsBadge.className = 'flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-medium bg-emerald-950/40 text-emerald-300 border border-emerald-600/40';
+                wsDot.className = 'w-2 h-2 rounded-full bg-emerald-400 animate-pulse';
+                wsStatusText.textContent = 'En Vivo (WebSocket)';
+                console.log('Conectado exitosamente al WebSocket de Community 360');
+            };
+
+            socket.onmessage = (event) => {
+                try {
+                    const data = JSON.parse(event.data);
+                    console.log('Mensaje WebSocket recibido:', data);
+
+                    if (data.event === 'CONNECTED' && data.stats) {
+                        actualizarMetricasVisuales(data.stats);
+                    }
+
+                    if (data.event === 'INTERACTION_CREATED') {
+                        mostrarToast(data.message || `Nueva interacción: ${data.interaction.id_interaccion}`, 'create');
+                        if (data.interaction) {
+                            agregarFilaEnVivo(data.interaction);
+                        }
+                        if (data.stats) {
+                            actualizarMetricasVisuales(data.stats);
+                        }
+                    }
+
+                    if (data.event === 'INTERACTION_UPDATED') {
+                        mostrarToast(data.message || `Interacción ${data.id_interaccion} actualizada`, 'update');
+                        if (data.stats) {
+                            actualizarMetricasVisuales(data.stats);
+                        }
+                        recargarInteraccionesREST();
+                    }
+
+                    if (data.event === 'INTERACTION_DELETED') {
+                        mostrarToast(data.message || `Interacción ${data.id_interaccion} eliminada`, 'delete');
+                        const row = document.getElementById(`row-${data.id_interaccion}`);
+                        if (row) {
+                            row.style.opacity = '0.3';
+                            row.style.textDecoration = 'line-through';
+                        }
+                        if (data.stats) {
+                            actualizarMetricasVisuales(data.stats);
+                        }
+                    }
+                } catch (e) {
+                    console.warn("Mensaje no JSON en WS:", event.data);
+                }
+            };
+
+            socket.onclose = () => {
+                wsBadge.className = 'flex items-center gap-2 px-3 py-1.5 rounded-full text-xs font-medium bg-red-950/40 text-red-300 border border-red-600/40';
+                wsDot.className = 'w-2 h-2 rounded-full bg-red-400';
+                wsStatusText.textContent = 'Desconectado (Reintentando...)';
+                // Reintentar en 3 segundos
+                setTimeout(conectarWebSocket, 3000);
+            };
+
+            socket.onerror = (err) => {
+                console.error("Error en WebSocket:", err);
+                socket.close();
+            };
+        }
+
+        // Inicialización
+        window.addEventListener('DOMContentLoaded', () => {
+            inicializarGraficas();
+            recargarInteraccionesREST();
+            conectarWebSocket();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,1069 @@
+id_usuario,alias,fecha_ingreso,zona_horaria,rango_edad,especie_fursona,interes_principal,plataforma_principal,es_artista,mensajes_30d,reacciones_30d,eventos_asistidos,comisiones_compradas,sentimiento_promedio,ultima_actividad,estatus,consentimiento_datos
+U000001,PixelZac83,2026-04-21,america/merida,18-24,reptil,arte digital,facebook,True,4,13,0,0,0.394,2026-10-04,en_riesgo,True
+U000002,YukiInk45,2026-10-11,america/mexico_city,25-31,perro,streaming/contenido,facebook,False,817,2026,0,0,0.252,2026-11-01,activo,True
+U000003,FlareKin64,2026-05-02,america/monterrey,25-31,conejo,cómics,tiktok,False,0,0,0,0,-0.28,2026-05-02,inactivo,True
+U000004,AshCh'a30,2026-04-06,america/monterrey,25-31,gato,arte digital,twitter/x,False,19,75,0,5,-0.022,2026-10-28,activo,False
+U000005,BrunoInk2,2022-04-27,america/monterrey,32-38,perro,música,discord,False,3,7,0,0,-0.463,2026-10-24,en_riesgo,True
+U000006,LoboZac34,2024-07-29,america/merida,25-31,híbrido/otro,streaming/contenido,telegram,False,16,52,0,0,-0.021,2026-11-07,activo,True
+U000007,MikaTail80,2022-05-28,america/merida,25-31,zorro,videojuegos,facebook,False,0,0,0,0,-0.13,2026-09-05,inactivo,True
+U000008,AshFang65,2024-05-22,america/mexico_city,25-31,perro,convenciones,facebook,False,2,4,2,1,0.138,2026-10-30,activo,True
+U000009,SolCh'a60,2025-02-07,america/mexico_city,25-31,zorro,convenciones,tiktok,False,7,16,0,0,0.671,2026-11-08,activo,True
+U000010,AshZac28,2026-01-01,america/argentina/buenos_aires,18-24,gato,videojuegos,facebook,False,8,16,0,0,0.373,2026-11-07,activo,True
+U000011,SolZac68,2026-01-18,america/mexico_city,18-24,dragón,convenciones,instagram,False,10,33,2,0,0.566,2026-10-27,activo,False
+U000012,SolInk72,2025-11-11,america/cancun,18-24,dragón,escritura/historias,telegram,False,11,16,0,0,0.171,2026-10-26,activo,True
+U000013,RexInk33,2022-07-13,america/lima,25-31,híbrido/otro,cómics,facebook,False,12,37,0,0,-0.109,2026-11-06,activo,True
+U000014,OnixPelaje87,2026-05-18,america/mexico_city,39+,husky,música,telegram,False,6,14,1,0,0.742,2026-10-07,en_riesgo,True
+U000015,TalaFox70,2026-09-08,america/mexico_city,18-24,zorro,arte tradicional,telegram,True,48,188,0,2,-0.04,2026-10-18,en_riesgo,True
+U000016,BrumaKin88,2025-01-11,america/cancun,32-38,husky,convenciones,facebook,False,0,0,0,0,0.095,2026-07-25,inactivo,True
+U000017,ZorriDash8,2025-06-22,america/mexico_city,32-38,perro,arte digital,facebook,False,0,0,0,0,-0.01,2025-11-06,inactivo,False
+U000018,ÁmbarFang25,2023-02-10,america/monterrey,18-24,conejo,cómics,telegram,False,4,5,0,0,0.144,2026-10-27,activo,False
+U000019,SombraByte90,2025-02-24,america/argentina/buenos_aires,18-24,zorro,videojuegos,instagram,False,4,5,0,0,0.243,2026-10-23,en_riesgo,True
+U000020,YukiByte96,2025-05-09,america/mexico_city,18-24,coyote,convenciones,tiktok,False,0,0,0,0,0.352,2026-03-12,inactivo,True
+U000021,KibaPaw48,2023-11-13,america/mexico_city,18-24,husky,videojuegos,discord,False,0,0,0,0,-0.156,2026-08-17,inactivo,True
+U000022,KuroPaw64,2025-12-21,america/mexico_city,25-31,perro,fursuit,tiktok,False,0,0,0,0,0.316,2026-01-30,inactivo,True
+U000023,FlareSpark28,2023-02-02,america/monterrey,18-24,zorro,escritura/historias,facebook,False,1,2,1,0,0.692,2026-09-25,en_riesgo,False
+U000024,NeoKin92,2023-12-30,america/monterrey,18-24,zorro,cómics,tiktok,False,0,0,0,0,0.172,2025-12-25,inactivo,True
+U000025,FlarePelaje61,2026-04-08,america/merida,18-24,husky,videojuegos,discord,True,6,20,0,0,-0.054,2026-10-03,en_riesgo,True
+U000026,MikaMaya27,2025-04-02,america/mexico_city,25-31,perro,arte digital,facebook,True,11,26,1,0,0.576,2026-11-02,activo,True
+U000027,ZetaCh'a42,2026-03-21,america/mexico_city,25-31,gato,arte digital,instagram,True,7,24,0,0,-0.31,2026-11-02,activo,True
+U000028,ÁmbarPaw66,2026-10-03,america/bogota,32-38,híbrido/otro,videojuegos,telegram,False,3,11,0,0,-0.066,2026-10-05,en_riesgo,True
+U000029,RuneZac68,2022-12-06,america/mexico_city,18-24,husky,arte tradicional,instagram,False,2,5,0,0,0.506,2026-10-14,en_riesgo,True
+U000030,BrumaWolf36,2026-01-07,america/merida,18-24,perro,streaming/contenido,instagram,False,7,12,1,0,0.612,2026-11-08,activo,True
+U000031,ZorriPelaje20,2026-06-18,america/monterrey,18-24,híbrido/otro,arte digital,telegram,True,1,2,1,0,-0.08,2026-09-28,en_riesgo,True
+U000032,RunePelaje59,2026-04-15,america/mexico_city,18-24,conejo,escritura/historias,instagram,False,9,33,0,0,0.424,2026-11-07,activo,False
+U000033,RexByte83,2024-06-27,america/mexico_city,18-24,híbrido/otro,convenciones,telegram,False,8,26,0,0,-0.021,2026-11-02,activo,True
+U000034,MikaHowl59,2024-03-24,america/merida,39+,husky,música,telegram,True,4,10,0,0,0.319,2026-10-25,en_riesgo,True
+U000035,LunaPaw68,2026-07-21,america/merida,25-31,lobo,videojuegos,discord,False,4,6,0,0,0.221,2026-09-13,en_riesgo,True
+U000036,LoboClaw40,2026-09-10,america/argentina/buenos_aires,25-31,dragón,arte tradicional,facebook,False,4,7,0,0,1.0,2026-11-08,activo,False
+U000037,NovaSpark94,2022-04-29,america/merida,18-24,perro,videojuegos,telegram,False,6,17,0,0,0.491,2026-11-09,activo,True
+U000038,RuneSpark1,2023-07-29,america/merida,32-38,dragón,arte digital,telegram,False,2,5,0,0,0.483,2026-10-10,en_riesgo,True
+U000039,LoboMaya66,2025-05-10,europe/madrid,25-31,gato,arte digital,instagram,False,7,12,1,2,0.37,2026-11-08,activo,True
+U000040,LunaKin46,2023-06-28,america/mexico_city,18-24,lobo,cómics,telegram,False,4,6,2,0,0.189,2026-11-05,activo,True
+U000041,FlareZac32,2026-02-25,america/mexico_city,25-31,coyote,videojuegos,telegram,False,8,31,0,0,-0.133,2026-10-29,activo,True
+U000042,MikaFang77,2025-07-19,america/mexico_city,18-24,híbrido/otro,música,instagram,False,2,6,0,0,0.079,2026-10-07,en_riesgo,False
+U000043,BrumaCh'a15,2022-07-25,america/mexico_city,18-24,zorro,arte digital,tiktok,True,0,0,0,0,0.794,2026-05-04,inactivo,True
+U000044,BrunoInk58,2025-10-24,america/mexico_city,18-24,lobo,cómics,facebook,False,1,3,0,0,0.626,2026-10-10,en_riesgo,True
+U000045,CobreKin51,2023-05-20,america/mexico_city,39+,coyote,videojuegos,tiktok,False,7,14,0,0,0.039,2026-11-05,activo,True
+U000046,ZorriWolf77,2024-11-06,america/mexico_city,25-31,perro,videojuegos,discord,False,0,0,0,0,0.895,2025-10-23,inactivo,False
+U000047,PixelArt2,2024-06-06,america/mexico_city,18-24,lobo,cómics,telegram,False,14,50,0,0,-0.042,2026-09-21,en_riesgo,True
+U000048,NovaSpark16,2024-08-06,america/merida,18-24,husky,fursuit,twitter/x,False,4,13,1,2,-0.017,2026-09-15,en_riesgo,True
+U000049,ÁmbarDash77,2023-03-28,america/cancun,18-24,híbrido/otro,arte digital,facebook,True,0,0,0,0,0.698,2026-03-07,inactivo,False
+U000050,ÁmbarHowl96,2022-10-05,america/merida,25-31,conejo,arte digital,facebook,True,0,0,1,1,0.539,2026-08-26,inactivo,True
+U000051,RunePaw74,2025-12-06,america/mexico_city,18-24,híbrido/otro,fursuit,tiktok,False,4,7,1,1,-0.035,2026-10-22,en_riesgo,True
+U000052,KibaZac40,2026-09-02,america/monterrey,25-31,conejo,fursuit,discord,False,0,0,1,2,0.2,2026-09-07,inactivo,True
+U000053,RuneMaya75,2023-12-22,america/bogota,18-24,híbrido/otro,cómics,discord,True,9,11,1,0,0.137,2026-10-27,activo,True
+U000054,NovaByte8,2022-08-19,america/mexico_city,18-24,husky,arte digital,discord,False,17,34,0,0,0.217,2026-10-16,en_riesgo,True
+U000055,ZorriSpark5,2022-12-28,america/bogota,39+,zorro,streaming/contenido,facebook,False,2,4,0,0,0.545,2026-09-26,en_riesgo,True
+U000056,OnixPelaje62,2024-07-10,america/merida,18-24,gato,música,telegram,False,3,8,0,0,0.654,2026-10-07,en_riesgo,True
+U000057,KuroFox47,2025-02-15,america/mexico_city,18-24,coyote,arte digital,facebook,True,0,0,0,0,0.36,2026-08-17,inactivo,True
+U000058,RexHowl61,2022-07-18,america/mexico_city,18-24,husky,música,discord,False,65,119,1,1,0.452,2026-09-23,en_riesgo,True
+U000059,BrunoTail34,2026-09-23,america/merida,32-38,lobo,convenciones,discord,False,2,7,0,0,0.613,2026-09-26,en_riesgo,False
+U000060,CobreDash13,2023-08-14,america/mexico_city,32-38,zorro,streaming/contenido,discord,False,0,0,0,0,-0.108,2026-02-27,inactivo,True
+U000061,PixelHowl52,2024-12-14,america/cancun,32-38,híbrido/otro,cosplay,telegram,False,11,27,3,0,0.816,2026-10-18,en_riesgo,True
+U000062,MikaByte36,2026-10-20,america/mexico_city,18-24,gato,videojuegos,facebook,False,2,5,0,0,0.784,2026-10-20,en_riesgo,True
+U000063,KuroSpark49,2026-04-05,america/monterrey,18-24,gato,convenciones,telegram,False,0,0,3,0,0.346,2026-08-06,inactivo,True
+U000064,BrunoPelaje60,2026-03-25,america/merida,25-31,tigre,arte digital,facebook,True,24,81,0,0,-0.182,2026-09-26,en_riesgo,True
+U000065,BrumaInk16,2025-09-03,america/merida,18-24,híbrido/otro,videojuegos,tiktok,False,0,0,0,0,0.798,2026-06-12,inactivo,False
+U000066,KuroKin17,2023-09-07,america/chicago,18-24,lobo,fursuit,telegram,True,1,1,0,0,-0.007,2026-10-07,en_riesgo,True
+U000067,NeoTail57,2025-12-06,america/merida,32-38,reptil,arte tradicional,facebook,False,1,2,0,3,0.196,2026-10-22,en_riesgo,True
+U000068,KuroPaw1,2023-04-07,america/mexico_city,18-24,perro,arte tradicional,twitter/x,True,0,0,0,0,0.102,2026-05-28,inactivo,True
+U000069,LunaPaw18,2024-06-02,america/mexico_city,32-38,zorro,arte digital,telegram,False,8,25,0,3,0.478,2026-10-23,en_riesgo,True
+U000070,ÁmbarTail66,2024-06-03,america/merida,18-24,perro,cómics,telegram,False,0,0,0,0,0.662,2026-09-09,inactivo,False
+U000071,LunaPelaje51,2026-09-24,america/argentina/buenos_aires,18-24,gato,arte tradicional,discord,True,2,4,0,1,0.104,2026-09-24,en_riesgo,False
+U000072,BrumaMoon49,2023-09-06,america/mexico_city,18-24,tigre,convenciones,telegram,False,4,11,5,1,0.204,2026-10-14,en_riesgo,True
+U000073,ZorriFang18,2024-05-07,america/mexico_city,25-31,conejo,videojuegos,facebook,False,1,2,0,0,-0.013,2026-10-15,en_riesgo,False
+U000074,TalaTail60,2026-07-03,america/mexico_city,32-38,híbrido/otro,arte digital,facebook,True,2,4,0,5,-0.1,2026-09-16,en_riesgo,True
+U000075,PixelClaw13,2025-08-08,america/merida,32-38,zorro,videojuegos,telegram,False,1,1,1,0,0.121,2026-10-25,en_riesgo,False
+U000076,YukiDash42,2022-04-29,america/mexico_city,18-24,híbrido/otro,arte tradicional,telegram,False,0,0,0,2,-0.075,2026-01-09,inactivo,True
+U000077,KibaPaw54,2024-01-16,america/mexico_city,18-24,perro,cómics,tiktok,False,8,18,3,0,0.45,2026-11-03,activo,True
+U000078,SombraClaw77,2025-06-12,america/merida,25-31,híbrido/otro,convenciones,telegram,False,57,149,2,1,0.507,2026-11-03,activo,True
+U000079,NovaZac86,2025-08-13,america/mexico_city,18-24,ave,arte tradicional,telegram,False,3,6,0,5,0.01,2026-09-11,en_riesgo,True
+U000080,NubeCh'a40,2023-08-18,america/mexico_city,18-24,zorro,música,facebook,False,8,14,0,0,0.72,2026-11-03,activo,False
+U000081,NeoPelaje7,2024-01-15,europe/madrid,32-38,perro,fursuit,twitter/x,False,2,5,0,3,0.27,2026-10-21,en_riesgo,True
+U000082,OnixMoon4,2023-12-02,america/argentina/buenos_aires,18-24,dragón,videojuegos,telegram,False,37,96,0,0,-0.224,2026-10-30,activo,True
+U000083,MikaPelaje22,2026-01-31,america/tijuana,25-31,husky,arte digital,telegram,True,0,0,2,3,-0.086,2026-02-13,inactivo,True
+U000084,ÁmbarFox12,2025-05-07,america/merida,18-24,gato,convenciones,facebook,False,6,18,1,0,0.011,2026-11-06,activo,True
+U000085,YukiInk27,2023-02-25,america/monterrey,18-24,coyote,arte tradicional,twitter/x,True,7,27,0,1,0.097,2026-10-29,activo,True
+U000086,FlareWolf27,2023-06-06,america/merida,25-31,gato,arte digital,facebook,False,13,34,0,0,0.728,2026-11-07,activo,True
+U000087,BrumaClaw82,2025-11-08,america/merida,32-38,zorro,videojuegos,telegram,False,2,3,1,0,0.079,2026-10-19,en_riesgo,True
+U000088,KuroFang48,2025-04-11,america/bogota,18-24,zorro,cosplay,instagram,False,0,0,2,1,0.579,2026-03-13,inactivo,False
+U000089,BrunoKin15,2026-09-30,america/merida,18-24,híbrido/otro,arte digital,telegram,True,4,14,0,0,-0.259,2026-09-30,en_riesgo,True
+U000090,FlareDash92,2026-06-22,america/merida,18-24,lobo,fursuit,instagram,False,0,0,1,5,-0.166,2026-06-22,inactivo,False
+U000091,FlareWolf81,2025-04-09,america/mexico_city,18-24,dragón,convenciones,facebook,False,18,52,0,1,0.175,2026-11-01,activo,True
+U000092,SolPelaje68,2023-12-26,america/mexico_city,18-24,husky,streaming/contenido,telegram,False,0,0,0,0,0.486,2026-07-29,inactivo,True
+U000093,SombraInk42,2026-10-13,america/mexico_city,25-31,coyote,cómics,instagram,False,13,29,0,1,0.003,2026-11-07,activo,True
+U000094,MikaPaw60,2025-04-12,america/tijuana,18-24,husky,streaming/contenido,tiktok,False,0,0,0,0,0.103,2026-10-13,en_riesgo,True
+U000095,RunePaw30,2025-06-12,america/merida,25-31,tigre,música,discord,True,0,0,0,0,0.069,2026-08-09,inactivo,True
+U000096,OnixKin15,2026-07-16,america/mexico_city,39+,ave,arte digital,telegram,True,0,0,0,1,0.465,2026-07-16,inactivo,True
+U000097,KibaMaya98,2025-04-16,america/mexico_city,18-24,gato,música,tiktok,False,5,11,0,0,-0.432,2026-10-18,en_riesgo,True
+U000098,BrunoZac25,2026-07-05,america/mexico_city,18-24,gato,escritura/historias,telegram,False,5,12,0,1,0.432,2026-10-21,en_riesgo,True
+U000099,PixelByte53,2025-05-15,america/monterrey,39+,perro,arte digital,facebook,True,6,12,0,1,-0.14,2026-11-04,activo,True
+U000100,KuroFox15,2026-10-06,america/monterrey,25-31,zorro,convenciones,twitter/x,False,14,20,0,0,0.173,2026-11-06,activo,True
+U000101,FlareByte64,2025-05-17,america/merida,32-38,gato,cómics,telegram,False,0,0,0,0,-0.45,2026-08-12,inactivo,True
+U000102,OnixInk33,2026-05-12,america/mexico_city,18-24,lobo,cosplay,tiktok,False,0,0,0,0,0.992,2026-08-16,inactivo,True
+U000103,NovaZac13,2025-05-21,america/argentina/buenos_aires,18-24,tigre,escritura/historias,telegram,False,10,27,0,0,-0.697,2026-10-31,activo,True
+U000104,KibaPaw11,2026-02-24,america/merida,18-24,husky,música,telegram,False,6,22,0,0,0.422,2026-11-03,activo,True
+U000105,AshKin51,2024-02-12,america/mexico_city,18-24,zorro,videojuegos,twitter/x,False,0,0,0,0,-0.278,2026-08-06,inactivo,True
+U000106,PixelArt7,2026-08-08,america/mexico_city,25-31,conejo,arte digital,telegram,True,8,27,2,1,0.716,2026-11-03,activo,True
+U000107,AshMaya48,2023-12-23,america/mexico_city,25-31,zorro,convenciones,twitter/x,False,23,89,1,0,0.49,2026-11-07,activo,True
+U000108,KuroMaya6,2025-11-22,america/lima,18-24,perro,arte tradicional,tiktok,True,12,43,0,0,-0.42,2026-10-29,activo,True
+U000109,CobreKin28,2025-12-16,america/los_angeles,25-31,dragón,convenciones,discord,False,0,0,0,0,0.809,2026-07-10,inactivo,True
+U000110,MikaClaw54,2023-09-21,america/monterrey,25-31,lobo,fursuit,facebook,False,4,8,1,2,0.377,2026-11-06,activo,True
+U000111,TalaClaw10,2024-04-25,america/los_angeles,18-24,zorro,música,telegram,False,0,0,0,1,0.778,2026-09-03,inactivo,True
+U000112,NeoMaya61,2022-05-08,america/mexico_city,18-24,zorro,arte digital,facebook,False,13,29,0,2,0.022,2026-10-28,activo,False
+U000113,PixelArt64,2024-06-23,america/monterrey,25-31,zorro,videojuegos,facebook,False,7,10,0,0,-0.532,2026-11-01,activo,True
+U000114,OnixInk13,2023-12-31,america/mexico_city,18-24,perro,fursuit,instagram,False,7,21,1,0,-0.16,2026-10-27,activo,True
+U000115,PixelArt28,2022-10-05,america/merida,39+,zorro,videojuegos,twitter/x,False,2,3,0,0,0.66,2026-10-29,activo,True
+U000116,OnixArt54,2025-11-18,america/mexico_city,25-31,ave,fursuit,telegram,False,13,40,0,2,0.306,2026-10-08,en_riesgo,True
+U000117,LunaMoon50,2024-04-14,america/merida,25-31,lobo,arte tradicional,facebook,True,5,11,0,0,0.502,2026-11-08,activo,True
+U000118,NeoByte96,2026-08-06,america/mexico_city,25-31,perro,videojuegos,twitter/x,False,24,71,0,0,0.369,2026-10-29,activo,True
+U000119,NeoCh'a71,2023-02-15,america/lima,32-38,dragón,cosplay,facebook,False,0,0,0,0,0.156,2025-10-09,inactivo,True
+U000120,SolWolf38,2024-08-29,america/mexico_city,39+,lobo,videojuegos,facebook,False,0,0,0,0,0.38,2026-08-22,inactivo,True
+U000121,FlareMoon15,2025-06-28,america/mexico_city,18-24,coyote,cosplay,discord,True,3,4,1,0,0.809,2026-10-12,en_riesgo,True
+U000122,MikaDash11,2026-07-07,america/mexico_city,32-38,lobo,videojuegos,tiktok,False,1,2,0,0,-0.195,2026-10-01,en_riesgo,True
+U000123,RexPaw3,2023-08-30,america/monterrey,32-38,gato,arte digital,facebook,True,4,5,0,3,-0.241,2026-11-09,activo,True
+U000124,KuroWolf89,2022-08-09,america/mexico_city,18-24,husky,videojuegos,telegram,True,29,56,0,0,0.278,2026-10-29,activo,True
+U000125,SombraCh'a83,2026-07-25,america/mexico_city,18-24,ave,arte digital,telegram,True,4,5,0,1,0.407,2026-10-22,en_riesgo,True
+U000126,RexPaw24,2026-08-29,america/merida,25-31,dragón,arte digital,facebook,True,0,0,0,0,0.087,2026-08-29,inactivo,False
+U000127,ÁmbarWolf12,2023-08-11,america/mexico_city,18-24,híbrido/otro,cómics,tiktok,False,8,24,0,0,-0.303,2026-11-04,activo,True
+U000128,SombraArt83,2022-12-27,america/los_angeles,39+,reptil,arte digital,telegram,False,9,25,0,0,0.751,2026-11-08,activo,True
+U000129,TalaCh'a94,2024-08-30,america/merida,32-38,perro,arte digital,discord,False,9,25,0,0,0.919,2026-10-05,en_riesgo,True
+U000130,SolPaw15,2024-05-20,america/argentina/buenos_aires,39+,tigre,videojuegos,twitter/x,False,7,25,0,0,0.131,2026-11-04,activo,True
+U000131,SombraInk37,2024-02-06,america/argentina/buenos_aires,39+,perro,videojuegos,instagram,False,24,84,0,0,0.857,2026-11-04,activo,True
+U000132,SolFox63,2022-04-02,america/bogota,18-24,reptil,convenciones,facebook,False,0,0,0,0,-0.113,2025-11-26,inactivo,True
+U000133,KuroTail75,2025-12-30,america/mexico_city,18-24,zorro,fursuit,facebook,True,0,0,0,0,0.057,2026-05-28,inactivo,True
+U000134,BrumaWolf8,2022-11-04,america/mexico_city,25-31,gato,arte digital,twitter/x,True,4,12,0,1,0.473,2026-10-02,en_riesgo,True
+U000135,NeoTail58,2022-12-19,america/argentina/buenos_aires,18-24,conejo,videojuegos,tiktok,False,1,3,0,0,-0.102,2026-10-20,en_riesgo,True
+U000136,ZorriInk5,2025-05-11,america/monterrey,25-31,reptil,arte digital,twitter/x,True,0,0,0,3,-0.254,2026-08-19,inactivo,True
+U000137,LoboCh'a74,2025-02-25,america/tijuana,18-24,perro,música,tiktok,False,4,13,0,0,0.571,2026-11-08,activo,False
+U000138,LunaKin32,2022-05-08,america/mexico_city,25-31,perro,arte tradicional,telegram,True,0,0,1,1,-0.313,2026-08-27,inactivo,True
+U000139,SolDash74,2024-05-08,america/mexico_city,39+,gato,streaming/contenido,tiktok,False,7,11,0,0,0.801,2026-10-30,activo,False
+U000140,MikaSpark31,2023-10-16,america/bogota,18-24,híbrido/otro,cómics,tiktok,False,0,0,0,0,0.345,2026-08-18,inactivo,False
+U000141,YukiDash1,2024-01-14,america/monterrey,25-31,husky,arte digital,tiktok,True,2,6,0,3,-0.103,2026-10-13,en_riesgo,True
+U000142,AshCh'a44,2026-01-11,america/mexico_city,25-31,zorro,cómics,facebook,True,0,0,3,0,0.518,2026-08-29,inactivo,True
+U000143,ÁmbarPaw6,2026-05-26,america/mexico_city,39+,híbrido/otro,arte digital,telegram,True,2,6,0,0,0.293,2026-10-04,en_riesgo,True
+U000144,AshSpark80,2025-11-10,america/mexico_city,18-24,perro,arte digital,telegram,True,0,0,0,0,-0.062,2026-10-25,en_riesgo,True
+U000145,ZetaPelaje13,2023-07-10,america/mexico_city,18-24,perro,convenciones,telegram,False,8,23,1,0,0.845,2026-10-12,en_riesgo,True
+U000146,PixelPelaje35,2025-05-22,america/cancun,32-38,husky,arte digital,telegram,True,4,9,1,1,0.163,2026-10-29,activo,True
+U000147,BrunoArt50,2026-01-18,america/mexico_city,18-24,gato,cómics,tiktok,False,16,29,0,0,0.126,2026-11-06,activo,True
+U000148,RuneInk10,2025-04-19,america/merida,25-31,reptil,arte digital,telegram,True,3,4,0,0,0.556,2026-10-31,activo,True
+U000149,BrunoWolf42,2024-09-27,america/cancun,32-38,perro,fursuit,tiktok,False,4,7,0,3,0.272,2026-10-19,en_riesgo,True
+U000150,SolInk42,2023-06-27,america/mexico_city,25-31,zorro,arte digital,instagram,True,7,15,1,0,0.084,2026-11-01,activo,True
+U000151,CobreFox10,2025-11-03,europe/madrid,18-24,perro,arte digital,telegram,True,6,21,0,3,0.057,2026-10-15,en_riesgo,False
+U000152,RuneKin34,2026-10-08,america/mexico_city,18-24,lobo,música,facebook,False,33,82,0,0,0.441,2026-11-08,activo,True
+U000153,NubeKin52,2026-07-24,america/monterrey,18-24,gato,streaming/contenido,instagram,False,3,5,0,0,0.304,2026-10-22,en_riesgo,True
+U000154,NeoInk8,2025-09-22,america/cancun,18-24,híbrido/otro,streaming/contenido,telegram,False,9,35,2,0,0.414,2026-10-07,en_riesgo,False
+U000155,LoboWolf28,2023-03-27,america/chihuahua,25-31,híbrido/otro,convenciones,discord,True,2,3,3,0,-0.52,2026-09-18,en_riesgo,True
+U000156,LoboSpark82,2025-05-06,america/mexico_city,18-24,zorro,cómics,tiktok,True,3,6,0,0,0.372,2026-09-22,en_riesgo,True
+U000157,AshArt74,2022-11-29,america/cancun,25-31,conejo,arte tradicional,facebook,True,9,17,0,0,-0.21,2026-09-23,en_riesgo,True
+U000158,NovaInk87,2023-03-16,america/mexico_city,25-31,gato,arte tradicional,tiktok,True,6,16,0,2,0.015,2026-10-16,en_riesgo,True
+U000159,RuneMoon62,2022-06-03,america/cancun,18-24,zorro,arte digital,telegram,True,17,29,1,3,0.388,2026-11-05,activo,True
+U000160,TalaDash34,2024-11-09,america/mexico_city,18-24,zorro,escritura/historias,tiktok,True,10,16,0,0,0.303,2026-11-05,activo,False
+U000161,RuneDash1,2023-12-04,america/mexico_city,18-24,husky,arte tradicional,facebook,True,0,0,0,0,0.042,2026-07-10,inactivo,True
+U000162,NovaZac19,2023-05-17,america/mexico_city,25-31,gato,escritura/historias,instagram,False,0,0,1,0,0.126,2026-05-06,inactivo,True
+U000163,RuneDash21,2023-06-26,america/merida,25-31,perro,arte digital,discord,True,12,32,0,0,0.362,2026-11-08,activo,True
+U000164,BrunoPaw92,2023-05-31,america/mexico_city,25-31,zorro,arte digital,telegram,True,2,4,0,2,0.728,2026-10-20,en_riesgo,True
+U000165,YukiWolf53,2024-03-10,america/chicago,18-24,lobo,arte digital,telegram,True,2,7,0,0,0.825,2026-10-06,en_riesgo,True
+U000166,SolInk46,2023-08-24,america/merida,18-24,dragón,convenciones,facebook,False,16,62,0,0,0.001,2026-11-01,activo,True
+U000167,YukiDash81,2026-11-04,america/mexico_city,18-24,tigre,videojuegos,twitter/x,False,8,26,0,0,0.43,2026-11-04,activo,True
+U000168,PixelArt84,2023-01-29,america/monterrey,18-24,husky,streaming/contenido,tiktok,False,1,3,0,0,0.517,2026-09-27,en_riesgo,True
+U000169,MikaFang21,2022-03-29,america/mexico_city,18-24,híbrido/otro,convenciones,telegram,False,277,726,6,0,0.542,2026-10-23,en_riesgo,True
+U000170,NeoMoon96,2023-05-12,america/cancun,39+,zorro,cosplay,telegram,False,5,10,0,0,0.014,2026-10-29,activo,True
+U000171,MikaFox32,2022-06-15,america/mexico_city,18-24,híbrido/otro,videojuegos,facebook,False,10,30,4,0,1.0,2026-10-24,en_riesgo,True
+U000172,LunaFang49,2025-11-27,america/bogota,32-38,zorro,cosplay,facebook,False,5,16,2,0,0.612,2026-10-02,en_riesgo,True
+U000173,BrunoWolf67,2024-12-06,america/mexico_city,18-24,lobo,cómics,telegram,False,3,4,0,0,-0.234,2026-09-21,en_riesgo,True
+U000174,NubeZac44,2026-09-25,america/merida,25-31,conejo,cosplay,twitter/x,False,12,45,2,0,0.635,2026-11-02,activo,True
+U000175,BrunoTail39,2024-05-22,america/mexico_city,25-31,perro,cómics,facebook,False,1,3,0,0,-0.137,2026-10-20,en_riesgo,True
+U000176,LoboPaw93,2025-01-18,america/lima,18-24,perro,streaming/contenido,telegram,False,42,66,0,0,0.603,2026-11-07,activo,True
+U000177,NovaHowl34,2024-01-30,america/mexico_city,39+,dragón,música,instagram,False,0,0,0,0,0.081,2026-07-06,inactivo,True
+U000178,TalaByte33,2026-05-29,america/mexico_city,25-31,reptil,música,instagram,False,2,4,0,0,0.336,2026-10-19,en_riesgo,True
+U000179,RexFox22,2023-01-09,america/monterrey,32-38,zorro,arte digital,tiktok,True,2,2,0,0,0.36,2026-10-22,en_riesgo,True
+U000180,OnixPaw4,2025-12-31,america/mexico_city,18-24,reptil,streaming/contenido,telegram,True,2,7,0,0,0.051,2026-09-20,en_riesgo,True
+U000181,RunePaw68,2024-08-11,america/merida,18-24,lobo,fursuit,twitter/x,False,3,5,0,0,0.706,2026-10-08,en_riesgo,True
+U000182,AshFang78,2026-04-02,america/mexico_city,39+,ave,arte tradicional,instagram,True,2,4,0,0,0.286,2026-10-30,activo,True
+U000183,NeoClaw70,2023-12-05,america/cancun,18-24,husky,música,facebook,False,1,3,0,1,-0.486,2026-09-27,en_riesgo,False
+U000184,ZetaPelaje66,2026-05-21,america/mexico_city,25-31,zorro,cómics,telegram,False,0,0,0,0,0.42,2026-07-19,inactivo,True
+U000185,CobreCh'a36,2022-10-02,america/merida,25-31,husky,arte tradicional,telegram,True,0,0,0,5,-0.053,2026-07-31,inactivo,True
+U000186,RexDash46,2023-01-14,america/cancun,39+,perro,convenciones,instagram,False,6,19,0,0,0.338,2026-11-08,activo,True
+U000187,AshKin42,2026-05-20,america/mexico_city,18-24,perro,streaming/contenido,telegram,False,24,62,0,0,0.12,2026-09-14,en_riesgo,True
+U000188,YukiWolf36,2026-07-17,america/mexico_city,18-24,zorro,videojuegos,discord,False,0,0,0,0,0.479,2026-07-17,inactivo,False
+U000189,PixelHowl88,2026-01-22,america/monterrey,32-38,gato,videojuegos,telegram,False,3,10,0,0,-0.38,2026-10-11,en_riesgo,True
+U000190,NovaHowl45,2026-05-27,america/mexico_city,18-24,perro,fursuit,twitter/x,False,3,4,6,2,0.364,2026-10-05,en_riesgo,True
+U000191,KibaFang59,2025-08-27,america/mexico_city,25-31,híbrido/otro,arte digital,facebook,False,3,11,0,0,0.886,2026-11-09,activo,True
+U000192,YukiKin58,2023-10-12,america/monterrey,25-31,lobo,escritura/historias,telegram,False,8,23,0,1,0.019,2026-10-24,en_riesgo,True
+U000193,NovaPaw81,2024-01-18,america/mexico_city,18-24,ave,arte digital,tiktok,True,3,6,5,2,0.477,2026-10-08,en_riesgo,True
+U000194,LunaByte4,2026-05-26,america/merida,18-24,lobo,arte tradicional,instagram,True,8,20,1,2,0.772,2026-11-01,activo,False
+U000195,OnixClaw27,2025-03-03,america/mexico_city,25-31,gato,arte tradicional,facebook,True,1,2,0,2,-0.491,2026-09-14,en_riesgo,True
+U000196,YukiInk15,2024-12-07,america/mexico_city,32-38,lobo,streaming/contenido,discord,False,10,22,0,0,0.172,2026-11-06,activo,False
+U000197,OnixDash57,2023-03-12,america/merida,25-31,gato,cómics,facebook,False,8,14,1,0,0.156,2026-11-02,activo,False
+U000198,NeoByte74,2026-05-08,america/monterrey,18-24,zorro,videojuegos,facebook,False,2,4,0,0,0.216,2026-10-24,en_riesgo,True
+U000199,CobreMoon18,2026-02-05,america/merida,25-31,perro,escritura/historias,twitter/x,False,6,13,2,0,0.12,2026-10-30,activo,True
+U000200,RuneHowl32,2025-07-26,america/bogota,18-24,husky,streaming/contenido,telegram,False,0,0,1,0,0.213,2026-07-22,inactivo,True
+U000201,SombraInk8,2024-09-02,america/cancun,32-38,reptil,videojuegos,tiktok,False,2,4,0,0,0.233,2026-10-05,en_riesgo,True
+U000202,SolHowl46,2025-07-02,america/merida,18-24,híbrido/otro,arte digital,facebook,False,3,11,0,1,0.384,2026-10-24,en_riesgo,True
+U000203,AshKin66,2023-08-21,america/mexico_city,18-24,zorro,arte digital,tiktok,True,1,1,0,2,0.273,2026-10-12,en_riesgo,False
+U000204,RexPaw19,2022-02-08,america/chicago,25-31,perro,arte digital,facebook,False,8,20,2,0,0.589,2026-10-24,en_riesgo,True
+U000205,LoboInk7,2022-03-24,america/argentina/buenos_aires,18-24,lobo,música,telegram,False,2,5,0,0,0.292,2026-10-08,en_riesgo,False
+U000206,YukiInk71,2026-06-22,america/mexico_city,25-31,conejo,música,tiktok,False,8,17,0,0,-0.136,2026-10-31,activo,True
+U000207,CobreMaya34,2022-07-23,america/mexico_city,18-24,coyote,videojuegos,facebook,False,3,8,3,0,1.0,2026-11-03,activo,False
+U000208,NeoByte77,2023-10-12,america/monterrey,25-31,perro,arte digital,facebook,True,18,37,0,0,0.894,2026-11-03,activo,True
+U000209,ZetaCh'a94,2026-05-02,america/mexico_city,18-24,tigre,arte tradicional,telegram,False,3,6,0,0,0.41,2026-09-21,en_riesgo,False
+U000210,YukiTail94,2022-04-03,america/mexico_city,18-24,coyote,streaming/contenido,telegram,False,39,104,0,1,-0.248,2026-11-07,activo,True
+U000211,LunaClaw53,2025-07-28,america/mexico_city,39+,lobo,streaming/contenido,telegram,False,12,24,0,1,-0.234,2026-10-06,en_riesgo,False
+U000212,CobreByte85,2026-02-20,america/mexico_city,18-24,tigre,streaming/contenido,telegram,False,0,0,0,0,1.0,2026-09-02,inactivo,True
+U000213,RuneHowl50,2025-05-18,america/mexico_city,18-24,zorro,fursuit,tiktok,False,15,56,1,0,-0.067,2026-11-08,activo,True
+U000214,LoboCh'a36,2022-04-20,america/bogota,18-24,coyote,arte digital,twitter/x,True,0,0,1,0,0.278,2026-08-04,inactivo,True
+U000215,BrunoMaya88,2025-10-08,america/mexico_city,18-24,gato,fursuit,instagram,False,4,9,0,3,0.229,2026-10-23,en_riesgo,True
+U000216,CobreZac53,2022-08-01,america/mexico_city,32-38,coyote,arte digital,twitter/x,True,0,0,0,5,0.975,2026-05-10,inactivo,True
+U000217,FlarePaw84,2023-07-09,america/mexico_city,32-38,ave,videojuegos,telegram,False,0,0,0,0,0.229,2026-09-19,en_riesgo,False
+U000218,BrumaCh'a91,2026-09-22,america/mexico_city,25-31,tigre,escritura/historias,facebook,False,2,6,1,0,0.207,2026-10-23,en_riesgo,False
+U000219,TalaKin37,2026-02-10,america/mexico_city,18-24,híbrido/otro,fursuit,telegram,True,3,9,0,1,0.04,2026-10-19,en_riesgo,True
+U000220,SombraZac56,2022-08-21,america/mexico_city,25-31,dragón,arte digital,discord,False,3,11,0,5,0.26,2026-10-20,en_riesgo,True
+U000221,NovaFang5,2025-12-08,america/mexico_city,18-24,lobo,cómics,instagram,False,0,0,0,0,0.738,2026-10-15,en_riesgo,False
+U000222,YukiDash35,2026-10-25,america/merida,18-24,híbrido/otro,música,facebook,False,2,7,0,0,0.253,2026-10-25,en_riesgo,True
+U000223,ZorriArt90,2023-05-27,america/mexico_city,32-38,zorro,fursuit,facebook,False,11,16,1,1,0.645,2026-11-05,activo,True
+U000224,LunaCh'a30,2025-07-10,america/los_angeles,18-24,coyote,convenciones,telegram,False,6,16,0,0,0.095,2026-10-30,activo,True
+U000225,ZorriDash36,2022-05-06,america/mexico_city,18-24,lobo,escritura/historias,telegram,False,8,26,0,0,0.875,2026-10-19,en_riesgo,True
+U000226,CobreMaya90,2025-09-22,america/bogota,25-31,ave,videojuegos,telegram,False,0,0,3,0,0.015,2026-08-12,inactivo,True
+U000227,NeoTail98,2025-07-19,america/merida,32-38,gato,arte digital,instagram,True,4,11,6,5,0.37,2026-11-04,activo,True
+U000228,SolMaya3,2025-12-26,america/tijuana,25-31,dragón,arte digital,twitter/x,True,5,6,0,0,1.0,2026-09-25,en_riesgo,False
+U000229,CobreCh'a18,2026-01-08,america/merida,25-31,dragón,arte digital,telegram,True,1,1,0,1,-0.269,2026-10-20,en_riesgo,True
+U000230,YukiTail87,2023-05-07,america/mexico_city,18-24,perro,arte digital,instagram,False,1,2,0,0,0.526,2026-10-20,en_riesgo,True
+U000231,ZorriZac54,2022-06-20,america/mexico_city,32-38,zorro,cómics,instagram,False,11,30,0,0,0.275,2026-11-09,activo,True
+U000232,LunaTail58,2022-07-19,america/mexico_city,32-38,lobo,videojuegos,discord,False,0,0,0,0,0.031,2026-01-16,inactivo,False
+U000233,FlareMaya76,2024-12-21,america/chicago,25-31,zorro,arte digital,tiktok,False,2,6,0,0,0.679,2026-10-23,en_riesgo,True
+U000234,OnixArt65,2025-08-17,america/merida,18-24,husky,streaming/contenido,tiktok,False,12,45,0,1,-0.654,2026-10-22,en_riesgo,True
+U000235,AshPaw69,2025-12-18,america/mexico_city,18-24,reptil,convenciones,telegram,False,11,22,1,0,0.557,2026-11-06,activo,True
+U000236,KibaFox80,2022-07-21,america/mexico_city,25-31,husky,fursuit,telegram,False,4,6,2,0,-0.247,2026-10-22,en_riesgo,True
+U000237,MikaWolf89,2022-08-20,america/monterrey,18-24,híbrido/otro,arte tradicional,telegram,True,2,3,0,2,1.0,2026-10-07,en_riesgo,True
+U000238,NubeArt3,2022-09-18,america/cancun,18-24,husky,música,tiktok,False,7,25,0,0,0.719,2026-09-27,en_riesgo,True
+U000239,KibaCh'a59,2023-06-08,america/lima,18-24,lobo,música,instagram,False,2,6,0,0,0.487,2026-09-18,en_riesgo,True
+U000240,BrunoByte64,2024-02-04,america/argentina/buenos_aires,25-31,perro,arte digital,telegram,False,13,20,0,5,0.493,2026-10-27,activo,True
+U000241,FlareArt30,2026-05-08,america/mexico_city,18-24,zorro,arte digital,facebook,True,1,1,0,5,0.557,2026-09-30,en_riesgo,True
+U000242,LunaWolf93,2025-07-18,america/mexico_city,18-24,perro,arte tradicional,facebook,True,2,5,1,2,0.714,2026-09-13,en_riesgo,False
+U000243,OnixInk1,2024-10-11,america/mexico_city,25-31,zorro,arte digital,telegram,True,2,3,0,2,0.19,2026-10-26,activo,True
+U000244,MikaZac45,2022-12-04,america/santiago,18-24,lobo,convenciones,twitter/x,False,21,73,0,0,0.686,2026-11-06,activo,False
+U000245,NeoMaya35,2024-04-14,america/monterrey,39+,perro,convenciones,tiktok,True,8,9,0,0,0.302,2026-11-01,activo,False
+U000246,NeoClaw16,2025-09-22,america/mexico_city,39+,híbrido/otro,videojuegos,facebook,True,2,2,0,0,-0.058,2026-10-16,en_riesgo,True
+U000247,TalaArt74,2022-11-02,america/mexico_city,39+,husky,arte digital,telegram,True,6,10,0,0,-0.023,2026-11-07,activo,True
+U000248,ZorriZac87,2022-03-26,america/mexico_city,32-38,dragón,escritura/historias,facebook,False,0,0,0,0,0.352,2026-08-17,inactivo,True
+U000249,NovaPelaje44,2025-10-12,america/cancun,25-31,gato,streaming/contenido,discord,False,9,34,0,0,0.538,2026-11-07,activo,True
+U000250,KibaPaw85,2025-03-20,america/monterrey,18-24,husky,arte digital,twitter/x,False,0,0,0,2,0.126,2026-07-11,inactivo,True
+U000251,YukiWolf62,2022-05-06,america/mexico_city,18-24,tigre,videojuegos,telegram,False,2,6,0,0,-0.193,2026-10-13,en_riesgo,True
+U000252,BrunoHowl5,2026-08-28,america/lima,18-24,híbrido/otro,streaming/contenido,instagram,False,37,72,0,0,-0.228,2026-10-27,activo,True
+U000253,TalaFang22,2023-06-09,america/merida,25-31,perro,cosplay,tiktok,False,3,8,0,0,0.549,2026-10-11,en_riesgo,True
+U000254,NeoKin26,2022-04-20,america/mexico_city,25-31,perro,fursuit,tiktok,False,5,12,3,0,0.883,2026-10-31,activo,False
+U000255,BrumaZac49,2026-03-11,america/mexico_city,25-31,perro,convenciones,facebook,False,17,42,0,0,0.817,2026-11-02,activo,True
+U000256,OnixDash54,2023-01-30,america/mexico_city,39+,tigre,fursuit,instagram,False,0,0,2,3,0.007,2026-06-29,inactivo,True
+U000257,ZetaByte92,2024-10-10,america/tijuana,25-31,ave,fursuit,telegram,False,55,206,0,0,0.586,2026-11-04,activo,True
+U000258,KibaHowl18,2023-08-31,america/monterrey,25-31,zorro,música,telegram,False,11,36,6,0,0.083,2026-11-05,activo,True
+U000259,LoboKin46,2023-06-20,america/mexico_city,18-24,híbrido/otro,cómics,twitter/x,False,10,24,0,0,-0.003,2026-10-13,en_riesgo,True
+U000260,BrunoArt65,2024-12-22,america/argentina/buenos_aires,25-31,husky,cómics,telegram,False,3,8,0,0,0.187,2026-11-08,activo,False
+U000261,MikaZac56,2023-10-05,europe/madrid,25-31,lobo,videojuegos,facebook,False,24,81,0,0,0.654,2026-10-31,activo,True
+U000262,TalaHowl94,2026-08-05,america/merida,18-24,lobo,escritura/historias,facebook,False,0,0,0,0,0.175,2026-08-19,inactivo,True
+U000263,NubeByte65,2025-09-28,america/cancun,18-24,zorro,videojuegos,discord,False,14,24,0,0,0.28,2026-09-29,en_riesgo,True
+U000264,ÁmbarSpark58,2026-07-10,america/mexico_city,18-24,dragón,fursuit,telegram,False,9,34,0,3,0.556,2026-11-03,activo,True
+U000265,RunePaw60,2026-05-21,america/merida,18-24,zorro,escritura/historias,telegram,False,5,18,0,0,0.306,2026-11-06,activo,True
+U000266,ÁmbarMoon40,2022-07-05,america/cancun,25-31,zorro,fursuit,telegram,False,10,33,0,0,0.493,2026-10-28,activo,True
+U000267,NeoPelaje17,2025-12-04,america/bogota,18-24,husky,arte digital,telegram,False,8,10,0,2,0.167,2026-10-29,activo,True
+U000268,MikaMaya20,2024-07-24,america/monterrey,18-24,perro,convenciones,instagram,False,0,0,2,0,0.64,2026-03-08,inactivo,True
+U000269,ZorriZac65,2025-05-26,america/mexico_city,25-31,tigre,escritura/historias,instagram,False,2,4,0,0,0.369,2026-10-05,en_riesgo,True
+U000270,SolPaw65,2024-10-01,america/santiago,18-24,ave,streaming/contenido,discord,False,0,0,0,0,-0.306,2026-09-15,en_riesgo,True
+U000271,LoboClaw60,2025-03-20,america/merida,25-31,tigre,arte digital,telegram,False,0,0,0,1,0.304,2026-08-08,inactivo,True
+U000272,FlareWolf45,2023-11-27,america/los_angeles,25-31,lobo,convenciones,telegram,False,3,7,0,0,-0.113,2026-10-27,activo,True
+U000273,NubeMoon76,2022-04-18,america/cancun,18-24,reptil,cosplay,twitter/x,True,0,0,0,0,-0.101,2026-08-22,inactivo,True
+U000274,SombraMoon75,2026-01-16,america/merida,18-24,perro,arte digital,instagram,True,12,18,1,1,0.475,2026-11-04,activo,True
+U000275,YukiMaya13,2026-02-02,america/mexico_city,18-24,híbrido/otro,escritura/historias,instagram,False,0,0,0,0,0.601,2026-09-05,inactivo,True
+U000276,NovaPaw97,2023-02-24,america/santiago,25-31,reptil,videojuegos,facebook,False,10,20,0,0,-0.17,2026-11-07,activo,True
+U000277,LoboClaw13,2025-10-12,america/mexico_city,18-24,zorro,streaming/contenido,tiktok,False,0,0,1,0,-0.062,2026-01-14,inactivo,True
+U000278,SolArt87,2025-09-25,america/mexico_city,18-24,tigre,videojuegos,telegram,False,11,20,0,0,0.248,2026-11-09,activo,True
+U000279,KuroClaw47,2025-04-09,america/mexico_city,18-24,híbrido/otro,videojuegos,instagram,False,0,0,0,0,0.564,2026-09-08,inactivo,True
+U000280,YukiHowl65,2024-04-08,america/mexico_city,18-24,coyote,arte digital,tiktok,True,1,1,0,1,0.547,2026-10-19,en_riesgo,True
+U000281,PixelSpark21,2024-07-27,america/mexico_city,18-24,ave,arte tradicional,instagram,True,28,93,0,3,0.166,2026-10-30,activo,True
+U000282,KuroMoon29,2026-05-04,america/monterrey,25-31,dragón,videojuegos,facebook,False,19,41,0,0,0.002,2026-10-29,activo,True
+U000283,MikaByte22,2026-06-06,america/merida,39+,husky,videojuegos,discord,False,16,35,0,1,0.097,2026-11-09,activo,False
+U000284,ZorriArt55,2024-09-30,america/mexico_city,25-31,zorro,cosplay,instagram,False,0,0,1,0,0.162,2026-10-18,en_riesgo,True
+U000285,RexSpark35,2023-03-06,america/mexico_city,25-31,lobo,arte digital,instagram,True,14,42,0,0,-0.094,2026-11-08,activo,True
+U000286,BrunoDash74,2024-02-07,america/bogota,32-38,coyote,streaming/contenido,instagram,False,0,0,0,1,0.261,2026-09-05,inactivo,True
+U000287,LunaCh'a14,2022-08-19,america/mexico_city,18-24,reptil,arte digital,twitter/x,True,9,20,2,2,0.235,2026-10-31,activo,False
+U000288,TalaArt44,2025-02-05,america/mexico_city,18-24,ave,videojuegos,facebook,False,0,0,1,0,0.057,2026-09-01,inactivo,True
+U000289,AshPaw19,2023-11-26,america/mexico_city,18-24,perro,convenciones,twitter/x,False,0,0,0,0,0.299,2026-01-05,inactivo,False
+U000290,ZetaFox41,2024-01-04,america/mexico_city,32-38,dragón,videojuegos,telegram,False,6,16,0,1,0.071,2026-11-06,activo,True
+U000291,RexHowl18,2026-10-03,america/tijuana,25-31,conejo,videojuegos,telegram,False,3,8,0,0,-0.753,2026-10-03,en_riesgo,True
+U000292,KuroPelaje69,2024-04-28,america/santiago,18-24,zorro,arte digital,telegram,True,31,43,0,0,0.345,2026-10-15,en_riesgo,False
+U000293,AshFox60,2022-10-07,america/mexico_city,25-31,coyote,convenciones,twitter/x,False,3,9,0,1,0.52,2026-10-04,en_riesgo,True
+U000294,MikaTail54,2024-05-03,america/mexico_city,25-31,lobo,fursuit,twitter/x,False,0,0,2,5,0.094,2026-07-02,inactivo,True
+U000295,FlareFang18,2023-01-28,america/mexico_city,18-24,perro,cómics,telegram,False,3,11,0,0,0.025,2026-10-30,activo,True
+U000296,SolDash25,2024-05-02,america/mexico_city,18-24,zorro,streaming/contenido,tiktok,False,8,13,0,0,0.433,2026-10-31,activo,True
+U000297,MikaPelaje64,2022-12-25,america/monterrey,25-31,híbrido/otro,cómics,twitter/x,False,0,0,0,0,0.07,2026-10-22,en_riesgo,True
+U000298,AshCh'a66,2025-07-22,america/merida,39+,zorro,arte tradicional,telegram,False,12,35,0,0,0.146,2026-11-09,activo,True
+U000299,MikaKin24,2023-11-27,america/mexico_city,18-24,perro,fursuit,telegram,False,0,0,1,0,-0.152,2026-09-04,inactivo,True
+U000300,NovaKin33,2022-01-21,america/mexico_city,32-38,husky,convenciones,telegram,False,8,25,0,0,-0.112,2026-11-03,activo,True
+U000301,SolClaw26,2024-05-10,america/mexico_city,18-24,zorro,cómics,telegram,False,6,22,0,0,-0.131,2026-10-25,en_riesgo,True
+U000302,FlareWolf95,2026-10-28,america/monterrey,18-24,lobo,música,discord,False,3,5,0,0,0.243,2026-10-28,activo,True
+U000303,FlareCh'a67,2025-11-24,america/mexico_city,18-24,lobo,escritura/historias,telegram,False,0,0,0,0,0.513,2026-07-21,inactivo,True
+U000304,KibaPaw12,2024-07-04,america/mexico_city,25-31,perro,música,facebook,False,19,68,0,0,0.263,2026-11-08,activo,True
+U000305,OnixDash28,2026-04-11,america/mexico_city,18-24,coyote,música,facebook,False,2,2,0,0,0.052,2026-11-01,activo,True
+U000306,ZetaMaya53,2025-06-01,america/mexico_city,18-24,híbrido/otro,cosplay,facebook,False,2,2,4,0,0.727,2026-10-13,en_riesgo,True
+U000307,OnixClaw3,2024-06-16,america/lima,18-24,husky,arte tradicional,telegram,True,0,0,0,3,0.134,2026-04-28,inactivo,True
+U000308,PixelSpark54,2026-11-02,america/mexico_city,18-24,gato,convenciones,telegram,False,17,67,0,0,0.048,2026-11-05,activo,True
+U000309,NeoPaw22,2023-09-18,america/mexico_city,18-24,tigre,música,facebook,False,0,0,0,0,-0.116,2026-09-01,inactivo,True
+U000310,NovaDash65,2025-11-23,america/argentina/buenos_aires,18-24,gato,convenciones,tiktok,False,15,47,2,0,-0.026,2026-10-28,activo,False
+U000311,CobreByte38,2023-11-07,america/mexico_city,25-31,ave,escritura/historias,telegram,True,4,5,0,0,0.206,2026-11-05,activo,True
+U000312,ZorriPelaje32,2023-04-28,america/mexico_city,32-38,dragón,convenciones,tiktok,False,0,0,1,0,0.348,2026-06-25,inactivo,True
+U000313,ÁmbarDash85,2026-04-25,america/mexico_city,18-24,conejo,música,instagram,False,7,15,0,0,0.215,2026-11-08,activo,True
+U000314,NovaZac52,2024-10-26,america/tijuana,25-31,conejo,videojuegos,tiktok,False,0,0,0,0,0.334,2026-01-15,inactivo,True
+U000315,YukiFox47,2026-01-26,america/mexico_city,18-24,coyote,videojuegos,tiktok,False,2,5,0,0,0.348,2026-11-09,activo,True
+U000316,TalaClaw97,2024-07-08,america/mexico_city,18-24,dragón,cómics,tiktok,False,5,12,0,0,0.022,2026-10-12,en_riesgo,True
+U000317,BrumaCh'a63,2022-05-24,america/tijuana,32-38,husky,arte digital,twitter/x,True,0,0,0,2,0.281,2026-09-08,inactivo,True
+U000318,YukiHowl45,2025-12-01,america/mexico_city,39+,perro,arte tradicional,instagram,False,2,4,2,0,0.31,2026-10-22,en_riesgo,True
+U000319,NubeFang59,2026-05-14,europe/madrid,18-24,gato,cómics,telegram,False,5,7,0,0,0.665,2026-10-18,en_riesgo,True
+U000320,MikaCh'a78,2026-02-23,america/merida,18-24,reptil,arte digital,instagram,True,3,5,0,2,-0.268,2026-10-26,activo,False
+U000321,CobreFox28,2025-06-23,america/merida,25-31,perro,videojuegos,facebook,False,10,38,0,0,0.03,2026-10-17,en_riesgo,True
+U000322,KuroClaw39,2023-10-05,america/merida,18-24,ave,cosplay,telegram,False,1,2,1,0,-0.156,2026-09-20,en_riesgo,True
+U000323,FlareFang70,2023-08-14,america/merida,18-24,dragón,arte digital,twitter/x,True,17,27,0,3,0.346,2026-11-08,activo,True
+U000324,SolMoon45,2024-08-21,america/mexico_city,39+,gato,cosplay,instagram,False,8,31,1,0,-0.065,2026-10-17,en_riesgo,True
+U000325,BrumaFang99,2026-08-10,america/mexico_city,18-24,gato,streaming/contenido,telegram,False,2,6,0,0,0.981,2026-10-25,en_riesgo,False
+U000326,LunaTail13,2022-09-06,america/monterrey,18-24,zorro,escritura/historias,facebook,False,0,0,0,0,-0.289,2026-08-15,inactivo,True
+U000327,BrunoPelaje17,2024-07-09,europe/madrid,18-24,husky,convenciones,telegram,False,8,30,0,0,0.027,2026-11-07,activo,True
+U000328,LunaClaw40,2023-04-14,america/argentina/buenos_aires,32-38,híbrido/otro,cosplay,tiktok,False,0,0,0,0,-0.053,2026-08-14,inactivo,True
+U000329,SolZac54,2022-07-05,america/merida,32-38,tigre,videojuegos,facebook,False,48,100,0,0,0.283,2026-11-09,activo,True
+U000330,AshHowl12,2025-04-06,america/mexico_city,39+,híbrido/otro,videojuegos,facebook,False,0,0,0,0,0.466,2026-10-21,en_riesgo,True
+U000331,LunaClaw92,2024-05-04,america/monterrey,18-24,zorro,escritura/historias,facebook,False,3,5,0,0,0.2,2026-10-07,en_riesgo,True
+U000332,ÁmbarPelaje34,2022-01-01,america/merida,32-38,gato,convenciones,telegram,False,3,8,4,0,0.602,2026-11-04,activo,False
+U000333,FlareTail54,2025-10-28,america/tijuana,32-38,perro,streaming/contenido,twitter/x,False,10,35,0,0,-0.406,2026-10-26,activo,True
+U000334,RuneKin52,2025-09-10,america/merida,25-31,conejo,fursuit,telegram,False,1,2,1,2,0.019,2026-10-23,en_riesgo,True
+U000335,NovaKin49,2022-03-01,america/mexico_city,18-24,híbrido/otro,cómics,facebook,False,8,28,0,0,0.254,2026-10-28,activo,True
+U000336,RuneMaya19,2024-07-16,america/mexico_city,25-31,perro,videojuegos,facebook,False,0,0,0,0,0.206,2026-01-06,inactivo,True
+U000337,KuroHowl68,2025-01-25,america/merida,18-24,perro,música,facebook,False,0,0,0,0,0.293,2026-04-13,inactivo,True
+U000338,RexPelaje3,2023-08-11,america/cancun,25-31,gato,streaming/contenido,tiktok,True,0,0,0,0,0.675,2026-09-05,inactivo,True
+U000339,KibaByte49,2024-04-18,america/monterrey,18-24,lobo,arte tradicional,facebook,False,2,6,1,5,-0.209,2026-10-24,en_riesgo,True
+U000340,KuroMoon32,2026-03-11,america/monterrey,18-24,lobo,arte tradicional,telegram,True,4,13,0,0,0.805,2026-10-25,en_riesgo,True
+U000341,PixelFang92,2025-11-28,america/mexico_city,32-38,coyote,escritura/historias,twitter/x,False,1,1,0,0,0.598,2026-09-26,en_riesgo,True
+U000342,NovaMaya88,2022-02-25,america/mexico_city,18-24,lobo,convenciones,telegram,False,0,0,0,0,0.299,2026-08-11,inactivo,True
+U000343,ZetaTail19,2025-06-17,america/monterrey,18-24,perro,música,tiktok,False,3,6,5,0,-0.238,2026-10-17,en_riesgo,True
+U000344,LunaByte6,2024-08-18,america/lima,25-31,híbrido/otro,streaming/contenido,instagram,False,0,0,0,0,-0.215,2026-03-07,inactivo,True
+U000345,BrumaDash99,2026-02-20,america/tijuana,18-24,coyote,videojuegos,tiktok,False,1,2,0,0,0.63,2026-10-02,en_riesgo,True
+U000346,NubePaw80,2023-12-17,america/mexico_city,18-24,lobo,videojuegos,telegram,False,0,0,0,0,0.62,2026-08-21,inactivo,True
+U000347,CobreClaw51,2022-08-08,america/mexico_city,18-24,conejo,fursuit,telegram,False,0,0,4,0,0.568,2026-07-16,inactivo,True
+U000348,ZorriArt7,2024-04-14,america/tijuana,25-31,zorro,videojuegos,telegram,False,2,3,0,0,0.857,2026-10-19,en_riesgo,True
+U000349,LunaInk69,2026-06-30,america/mexico_city,18-24,conejo,cómics,facebook,False,0,0,0,0,0.362,2026-06-30,inactivo,True
+U000350,NubePelaje88,2022-06-22,america/merida,25-31,reptil,escritura/historias,telegram,False,8,20,1,0,0.884,2026-11-05,activo,True
+U000351,OnixWolf8,2022-11-06,europe/madrid,18-24,reptil,escritura/historias,facebook,False,0,0,0,0,-0.075,2026-08-10,inactivo,True
+U000352,ÁmbarTail24,2023-02-13,america/los_angeles,18-24,dragón,streaming/contenido,facebook,False,2,6,1,0,0.129,2026-10-29,activo,True
+U000353,ZorriFang8,2025-11-30,america/merida,39+,perro,videojuegos,telegram,False,0,0,0,1,-0.056,2026-03-16,inactivo,True
+U000354,RuneCh'a63,2026-01-15,america/mexico_city,18-24,gato,arte tradicional,facebook,True,0,0,0,1,0.61,2026-01-15,inactivo,True
+U000355,KuroFox35,2026-02-14,america/mexico_city,25-31,conejo,streaming/contenido,telegram,False,0,0,0,0,0.03,2026-09-01,inactivo,False
+U000356,BrumaFang22,2022-07-21,america/monterrey,25-31,gato,cómics,telegram,True,9,17,0,0,0.071,2026-10-30,activo,False
+U000357,AshKin94,2023-06-29,america/merida,18-24,coyote,arte digital,discord,True,0,0,0,2,-0.141,2026-09-04,inactivo,True
+U000358,BrumaFang34,2025-07-11,america/chihuahua,25-31,husky,escritura/historias,facebook,False,13,29,0,1,0.508,2026-11-06,activo,True
+U000359,BrunoKin93,2024-10-30,america/merida,25-31,gato,videojuegos,facebook,False,1,1,0,0,0.573,2026-10-11,en_riesgo,True
+U000360,PixelClaw88,2025-08-22,america/mexico_city,25-31,husky,música,tiktok,False,4,12,0,0,0.646,2026-11-09,activo,False
+U000361,SolHowl56,2023-04-09,america/monterrey,18-24,perro,videojuegos,telegram,False,9,27,0,0,0.63,2026-10-12,en_riesgo,True
+U000362,RuneArt6,2026-01-30,america/merida,25-31,zorro,escritura/historias,telegram,False,3,4,0,0,0.374,2026-10-17,en_riesgo,True
+U000363,OnixCh'a45,2023-04-24,america/mexico_city,25-31,gato,arte digital,instagram,True,2,4,0,0,-0.411,2026-10-09,en_riesgo,True
+U000364,NubeDash36,2022-07-12,america/tijuana,25-31,zorro,cosplay,telegram,False,3,8,1,0,0.317,2026-09-17,en_riesgo,True
+U000365,ZorriArt77,2026-01-11,america/mexico_city,25-31,conejo,videojuegos,telegram,False,0,0,0,0,0.373,2026-06-05,inactivo,True
+U000366,SolKin99,2024-08-24,america/mexico_city,32-38,híbrido/otro,arte tradicional,twitter/x,True,9,26,0,1,0.266,2026-09-19,en_riesgo,True
+U000367,ÁmbarTail43,2025-01-11,america/mexico_city,18-24,lobo,arte digital,instagram,True,2,5,0,0,-0.133,2026-11-01,activo,True
+U000368,RuneWolf5,2026-10-23,america/los_angeles,18-24,husky,videojuegos,instagram,False,29,63,0,0,0.155,2026-10-23,en_riesgo,True
+U000369,KuroCh'a8,2023-07-14,america/tijuana,18-24,tigre,cómics,telegram,False,0,0,0,0,0.284,2026-07-04,inactivo,False
+U000370,SombraByte79,2025-04-10,america/merida,39+,perro,arte digital,tiktok,True,0,0,0,0,0.465,2026-05-13,inactivo,True
+U000371,OnixHowl69,2023-02-11,america/merida,18-24,lobo,arte digital,tiktok,True,2,6,1,1,-0.687,2026-10-26,activo,False
+U000372,CobreArt30,2023-04-22,america/merida,18-24,zorro,fursuit,telegram,False,9,32,1,5,0.573,2026-11-08,activo,False
+U000373,ZetaDash32,2023-09-29,america/merida,18-24,perro,arte digital,telegram,False,2,6,0,1,0.591,2026-11-04,activo,True
+U000374,ÁmbarKin3,2022-12-17,america/santiago,18-24,ave,videojuegos,telegram,False,0,0,0,0,0.427,2026-09-01,inactivo,False
+U000375,NovaMoon14,2026-07-14,america/mexico_city,39+,coyote,videojuegos,tiktok,False,18,26,0,1,0.481,2026-11-03,activo,True
+U000376,BrumaInk54,2024-11-01,america/monterrey,25-31,reptil,cosplay,tiktok,False,4,6,0,0,0.473,2026-11-01,activo,True
+U000377,TalaCh'a73,2023-08-12,america/argentina/buenos_aires,18-24,lobo,escritura/historias,instagram,False,3,7,0,0,0.196,2026-09-30,en_riesgo,False
+U000378,YukiPelaje77,2026-05-09,america/los_angeles,18-24,coyote,convenciones,telegram,False,0,0,3,0,0.08,2026-05-09,inactivo,True
+U000379,TalaCh'a19,2024-11-14,america/mexico_city,39+,zorro,arte digital,telegram,True,0,0,0,5,-0.268,2025-11-01,inactivo,False
+U000380,CobreInk46,2022-10-19,america/monterrey,25-31,dragón,videojuegos,facebook,False,12,27,0,0,-0.468,2026-11-08,activo,True
+U000381,KuroSpark32,2024-11-01,america/merida,25-31,zorro,arte tradicional,twitter/x,True,9,31,0,3,0.782,2026-10-27,activo,False
+U000382,SolInk32,2026-02-28,america/mexico_city,18-24,husky,cómics,telegram,False,10,38,0,0,0.435,2026-11-07,activo,True
+U000383,NovaSpark26,2024-02-10,america/mexico_city,32-38,perro,escritura/historias,tiktok,False,3,6,0,0,0.175,2026-10-22,en_riesgo,True
+U000384,KuroMaya32,2023-11-09,america/monterrey,32-38,coyote,videojuegos,tiktok,True,3,3,2,1,0.218,2026-11-09,activo,True
+U000385,KibaClaw22,2025-03-02,america/cancun,32-38,híbrido/otro,fursuit,tiktok,True,4,8,2,0,0.272,2026-11-02,activo,True
+U000386,AshByte31,2025-05-19,america/monterrey,18-24,conejo,cosplay,instagram,False,11,25,1,0,0.697,2026-11-07,activo,True
+U000387,NeoPaw59,2026-04-03,america/tijuana,18-24,lobo,arte digital,tiktok,True,6,20,0,5,-0.768,2026-10-28,activo,True
+U000388,ÁmbarArt55,2025-06-10,america/tijuana,18-24,zorro,fursuit,instagram,False,0,0,2,5,-0.029,2026-04-05,inactivo,True
+U000389,CobreKin72,2025-12-01,america/bogota,39+,híbrido/otro,arte digital,discord,False,0,0,0,0,0.237,2026-08-26,inactivo,True
+U000390,NeoMoon97,2026-10-09,america/mexico_city,18-24,perro,arte digital,telegram,False,2,4,0,5,0.306,2026-10-28,activo,True
+U000391,BrumaByte89,2026-10-10,america/mexico_city,18-24,zorro,fursuit,facebook,False,4,7,0,0,0.052,2026-10-24,en_riesgo,True
+U000392,RuneHowl14,2024-03-08,america/mexico_city,39+,perro,streaming/contenido,telegram,False,2,6,0,0,-0.245,2026-11-05,activo,False
+U000393,YukiDash47,2023-06-18,america/mexico_city,18-24,dragón,arte digital,facebook,True,0,0,0,0,0.026,2026-08-11,inactivo,False
+U000394,NeoTail75,2025-08-23,america/merida,18-24,zorro,arte tradicional,tiktok,True,4,8,0,5,-0.227,2026-10-14,en_riesgo,False
+U000395,NubePelaje79,2023-07-18,america/monterrey,18-24,zorro,arte digital,twitter/x,True,3,8,0,5,0.707,2026-10-31,activo,True
+U000396,SolMoon14,2026-05-13,america/merida,32-38,ave,streaming/contenido,discord,False,6,18,5,0,0.769,2026-10-18,en_riesgo,False
+U000397,NubeMaya62,2023-12-19,america/cancun,32-38,gato,streaming/contenido,facebook,False,0,0,0,0,0.568,2026-07-12,inactivo,True
+U000398,NovaMaya6,2026-08-26,america/mexico_city,18-24,gato,convenciones,discord,False,0,0,0,0,0.013,2026-10-06,en_riesgo,False
+U000399,SolCh'a45,2023-09-12,america/tijuana,25-31,perro,convenciones,tiktok,False,2,3,1,0,0.507,2026-09-30,en_riesgo,True
+U000400,LunaZac85,2024-08-08,america/mexico_city,18-24,dragón,videojuegos,telegram,False,4,15,0,0,0.112,2026-10-25,en_riesgo,True
+U000401,ZetaPelaje99,2023-02-12,america/merida,32-38,reptil,música,telegram,False,3,8,0,0,0.362,2026-11-07,activo,True
+U000402,ZetaSpark68,2026-05-14,america/santiago,25-31,husky,streaming/contenido,facebook,False,0,0,0,0,0.384,2026-06-01,inactivo,True
+U000403,BrunoFox32,2023-07-21,america/mexico_city,18-24,husky,convenciones,facebook,False,0,0,1,0,0.669,2025-10-31,inactivo,True
+U000404,ÁmbarArt67,2024-10-25,america/mexico_city,18-24,lobo,convenciones,tiktok,False,0,0,3,0,0.23,2026-08-25,inactivo,False
+U000405,AshWolf67,2026-05-11,america/mexico_city,25-31,conejo,videojuegos,discord,False,12,17,0,0,0.026,2026-10-26,activo,True
+U000406,CobreFox24,2026-07-01,america/merida,39+,tigre,videojuegos,discord,False,1,2,0,0,0.527,2026-10-19,en_riesgo,True
+U000407,TalaZac82,2025-09-27,america/mexico_city,25-31,conejo,cosplay,tiktok,False,6,15,0,1,-0.002,2026-11-06,activo,True
+U000408,NeoMaya3,2026-09-01,america/merida,39+,ave,cómics,instagram,False,4,13,0,1,0.166,2026-10-30,activo,True
+U000409,AshWolf54,2023-07-12,america/chihuahua,32-38,híbrido/otro,arte tradicional,telegram,True,4,12,0,3,0.548,2026-10-25,en_riesgo,True
+U000410,SombraByte34,2024-11-04,america/merida,18-24,gato,convenciones,instagram,False,30,47,2,0,-0.319,2026-11-02,activo,False
+U000411,AshDash99,2026-07-02,america/mexico_city,39+,gato,arte tradicional,discord,False,12,36,0,1,0.242,2026-11-02,activo,True
+U000412,PixelWolf43,2025-02-09,america/mexico_city,25-31,gato,videojuegos,facebook,False,5,18,0,0,0.361,2026-09-15,en_riesgo,True
+U000413,BrunoSpark24,2023-09-28,america/bogota,18-24,lobo,fursuit,facebook,False,4,11,1,0,0.19,2026-09-25,en_riesgo,False
+U000414,NeoTail53,2024-12-08,america/mexico_city,18-24,híbrido/otro,streaming/contenido,discord,False,3,8,0,0,0.059,2026-11-05,activo,False
+U000415,FlareKin89,2025-03-27,america/merida,25-31,zorro,escritura/historias,telegram,False,1,1,0,0,0.672,2026-09-15,en_riesgo,True
+U000416,NeoCh'a80,2026-07-11,america/mexico_city,25-31,husky,arte tradicional,discord,True,0,0,0,0,-0.052,2026-07-11,inactivo,True
+U000417,FlareArt38,2024-06-29,america/tijuana,25-31,zorro,convenciones,facebook,False,1,2,0,0,-0.045,2026-09-30,en_riesgo,False
+U000418,AshZac61,2026-04-01,america/merida,18-24,lobo,cosplay,instagram,False,0,0,2,0,0.768,2026-04-01,inactivo,True
+U000419,ZorriZac44,2022-08-20,america/mexico_city,25-31,coyote,streaming/contenido,facebook,False,2,4,0,0,0.362,2026-10-15,en_riesgo,True
+U000420,KuroWolf25,2025-04-25,america/mexico_city,18-24,zorro,arte digital,discord,True,3,9,0,0,0.568,2026-11-01,activo,True
+U000421,OnixArt5,2023-11-03,america/bogota,25-31,dragón,cómics,facebook,False,0,0,0,0,0.415,2026-09-06,inactivo,True
+U000422,BrunoHowl74,2026-03-24,america/mexico_city,25-31,zorro,arte tradicional,facebook,True,0,0,0,1,0.329,2026-08-30,inactivo,True
+U000423,LoboPaw71,2025-12-02,america/cancun,18-24,husky,streaming/contenido,tiktok,True,0,0,0,0,0.289,2026-08-17,inactivo,True
+U000424,KuroCh'a50,2024-01-20,america/mexico_city,18-24,perro,arte digital,facebook,True,0,0,0,5,-0.166,2026-06-29,inactivo,True
+U000425,ZorriTail59,2026-09-08,america/mexico_city,18-24,zorro,videojuegos,discord,False,4,13,0,0,0.614,2026-10-17,en_riesgo,True
+U000426,ZetaMoon23,2022-07-27,america/mexico_city,25-31,híbrido/otro,arte tradicional,twitter/x,True,0,0,0,2,0.184,2026-03-03,inactivo,True
+U000427,OnixPelaje27,2025-07-20,america/mexico_city,18-24,híbrido/otro,escritura/historias,telegram,False,0,0,0,0,0.242,2026-10-09,en_riesgo,False
+U000428,MikaCh'a77,2026-05-09,america/mexico_city,18-24,perro,videojuegos,telegram,False,5,9,0,0,-0.252,2026-10-25,en_riesgo,True
+U000429,NeoCh'a19,2026-02-10,america/mexico_city,25-31,zorro,arte digital,facebook,False,44,152,0,0,0.389,2026-11-09,activo,True
+U000430,NeoMaya9,2025-12-23,america/bogota,18-24,conejo,convenciones,telegram,False,4,4,3,0,0.496,2026-10-27,activo,True
+U000431,BrumaClaw87,2024-07-09,america/mexico_city,18-24,coyote,arte digital,telegram,True,0,0,0,0,0.25,2026-10-16,en_riesgo,True
+U000432,SolPaw44,2024-09-24,america/mexico_city,18-24,lobo,escritura/historias,tiktok,False,4,8,0,0,-0.092,2026-10-09,en_riesgo,True
+U000433,YukiTail63,2023-06-06,america/bogota,25-31,coyote,streaming/contenido,twitter/x,False,0,0,0,0,0.462,2026-09-29,en_riesgo,True
+U000434,BrunoArt44,2026-02-26,america/mexico_city,25-31,coyote,streaming/contenido,facebook,False,2,7,5,0,0.089,2026-10-25,en_riesgo,False
+U000435,ÁmbarKin42,2023-12-19,europe/madrid,18-24,perro,streaming/contenido,telegram,False,0,0,1,0,0.673,2026-08-01,inactivo,True
+U000436,SombraFox18,2025-11-02,america/merida,18-24,perro,arte digital,twitter/x,True,21,77,0,3,-0.134,2026-10-26,activo,True
+U000437,SombraTail79,2025-08-22,america/mexico_city,18-24,conejo,cosplay,tiktok,False,2,2,1,0,0.274,2026-09-28,en_riesgo,True
+U000438,TalaFang62,2025-12-05,america/los_angeles,32-38,coyote,streaming/contenido,instagram,False,3,4,1,0,0.104,2026-10-15,en_riesgo,True
+U000439,CobreInk44,2023-04-11,america/mexico_city,18-24,híbrido/otro,arte digital,telegram,True,4,13,0,3,0.725,2026-10-10,en_riesgo,True
+U000440,NubeDash18,2024-06-08,america/mexico_city,32-38,perro,escritura/historias,telegram,False,5,8,0,0,-0.042,2026-10-21,en_riesgo,True
+U000441,AshFang51,2026-04-12,america/mexico_city,25-31,reptil,videojuegos,telegram,False,1,2,1,0,0.256,2026-10-15,en_riesgo,True
+U000442,FlareKin52,2026-03-03,america/mexico_city,25-31,conejo,arte digital,twitter/x,True,6,17,0,0,0.1,2026-10-31,activo,True
+U000443,ZorriSpark99,2025-04-02,america/merida,25-31,ave,streaming/contenido,telegram,False,4,7,0,0,0.359,2026-10-09,en_riesgo,True
+U000444,AshDash18,2025-05-29,america/santiago,32-38,lobo,videojuegos,tiktok,False,3,8,0,0,-0.074,2026-10-15,en_riesgo,True
+U000445,KibaZac84,2022-11-11,america/mexico_city,18-24,coyote,arte digital,facebook,True,0,0,0,0,-0.075,2026-10-13,en_riesgo,True
+U000446,RuneFang27,2024-08-03,america/mexico_city,32-38,perro,streaming/contenido,twitter/x,False,3,8,0,0,0.228,2026-10-05,en_riesgo,False
+U000447,LoboKin89,2025-02-04,america/mexico_city,25-31,híbrido/otro,arte tradicional,instagram,True,4,5,0,0,0.28,2026-09-10,en_riesgo,True
+U000448,FlarePelaje65,2026-01-14,america/mexico_city,18-24,conejo,escritura/historias,twitter/x,False,4,14,0,0,-0.597,2026-10-21,en_riesgo,True
+U000449,NovaPelaje66,2022-05-02,america/santiago,25-31,tigre,videojuegos,telegram,False,0,0,0,0,0.255,2025-12-10,inactivo,True
+U000450,CobreFang99,2025-02-09,america/mexico_city,25-31,zorro,videojuegos,telegram,False,0,0,0,0,0.305,2026-06-26,inactivo,True
+U000451,FlareMaya3,2025-01-14,america/mexico_city,18-24,lobo,streaming/contenido,twitter/x,False,3,9,0,0,-0.035,2026-10-06,en_riesgo,True
+U000452,AshHowl85,2025-03-04,america/lima,18-24,zorro,cosplay,facebook,False,2,6,1,0,-0.004,2026-10-18,en_riesgo,True
+U000453,NeoWolf48,2026-09-03,america/mexico_city,18-24,ave,cómics,twitter/x,False,32,58,0,0,0.353,2026-10-06,en_riesgo,True
+U000454,ZorriArt76,2022-07-23,america/mexico_city,18-24,ave,fursuit,facebook,True,1,2,0,3,0.534,2026-10-20,en_riesgo,True
+U000455,AshTail99,2026-03-12,america/monterrey,25-31,coyote,arte digital,twitter/x,False,4,10,0,1,0.331,2026-09-14,en_riesgo,True
+U000456,LoboFox9,2023-09-08,america/cancun,25-31,dragón,arte tradicional,telegram,True,21,55,0,2,0.475,2026-10-30,activo,True
+U000457,CobreHowl31,2025-03-31,america/mexico_city,32-38,perro,convenciones,telegram,False,2,6,0,0,0.151,2026-10-23,en_riesgo,True
+U000458,ZetaKin20,2025-11-19,america/merida,25-31,husky,convenciones,telegram,False,5,14,0,0,-0.296,2026-10-28,activo,True
+U000459,TalaHowl41,2022-10-18,america/mexico_city,25-31,híbrido/otro,streaming/contenido,instagram,False,4,10,0,1,0.362,2026-10-16,en_riesgo,True
+U000460,LunaByte96,2025-05-25,america/mexico_city,18-24,zorro,música,telegram,False,28,78,0,0,0.223,2026-10-03,en_riesgo,True
+U000461,RuneByte24,2026-05-10,america/mexico_city,18-24,perro,arte tradicional,telegram,True,3,9,0,0,0.507,2026-10-14,en_riesgo,True
+U000462,NeoTail29,2025-04-30,america/mexico_city,25-31,zorro,fursuit,facebook,False,0,0,3,1,0.432,2025-11-22,inactivo,True
+U000463,PixelPaw54,2022-05-23,america/los_angeles,18-24,husky,música,instagram,False,1,2,1,0,0.583,2026-09-19,en_riesgo,False
+U000464,CobreCh'a42,2023-09-05,america/mexico_city,25-31,husky,música,tiktok,False,0,0,0,0,0.432,2026-09-04,inactivo,True
+U000465,LoboClaw12,2026-09-24,america/mexico_city,18-24,husky,fursuit,telegram,False,8,15,0,1,0.216,2026-11-06,activo,False
+U000466,RunePaw71,2024-06-30,america/cancun,25-31,híbrido/otro,convenciones,instagram,False,6,14,5,0,0.382,2026-10-11,en_riesgo,True
+U000467,SombraByte19,2025-07-07,america/mexico_city,18-24,dragón,streaming/contenido,telegram,False,0,0,0,0,0.203,2026-09-06,inactivo,True
+U000468,LunaClaw59,2024-02-03,america/argentina/buenos_aires,18-24,tigre,convenciones,facebook,False,6,14,0,0,0.192,2026-11-02,activo,True
+U000469,LunaTail73,2023-06-27,america/mexico_city,18-24,híbrido/otro,escritura/historias,facebook,False,4,6,0,0,-0.12,2026-10-21,en_riesgo,True
+U000470,NubeFang33,2026-05-05,america/argentina/buenos_aires,18-24,conejo,cómics,tiktok,False,3,7,0,0,-0.04,2026-11-02,activo,True
+U000471,RexFang40,2026-06-12,america/mexico_city,18-24,dragón,fursuit,facebook,False,35,75,1,3,0.453,2026-10-28,activo,True
+U000472,TalaMaya95,2026-06-28,america/mexico_city,39+,perro,streaming/contenido,facebook,False,3,7,0,0,0.364,2026-10-23,en_riesgo,True
+U000473,TalaSpark42,2023-02-21,america/mexico_city,18-24,husky,escritura/historias,instagram,False,4,12,0,0,0.177,2026-10-18,en_riesgo,True
+U000474,LunaInk39,2024-03-14,america/mexico_city,18-24,híbrido/otro,convenciones,telegram,False,13,45,1,0,0.198,2026-11-08,activo,True
+U000475,NubeDash32,2024-08-25,america/monterrey,39+,perro,streaming/contenido,discord,False,5,10,0,0,-0.018,2026-10-23,en_riesgo,True
+U000476,TalaArt93,2025-02-14,america/tijuana,25-31,ave,cosplay,telegram,False,2,5,0,1,-0.341,2026-10-31,activo,True
+U000477,PixelPaw20,2023-07-08,america/mexico_city,18-24,coyote,cómics,facebook,False,25,57,0,0,0.064,2026-10-30,activo,True
+U000478,ÁmbarHowl87,2026-04-24,america/bogota,25-31,gato,arte tradicional,tiktok,True,2,3,0,0,0.421,2026-10-10,en_riesgo,True
+U000479,NovaClaw36,2024-06-04,america/mexico_city,25-31,gato,cosplay,tiktok,False,2,3,0,0,0.174,2026-10-25,en_riesgo,True
+U000480,MikaInk6,2025-02-19,america/mexico_city,25-31,husky,cómics,instagram,True,6,18,0,0,0.508,2026-10-11,en_riesgo,True
+U000481,NeoCh'a21,2023-08-31,america/merida,18-24,lobo,arte tradicional,facebook,True,0,0,0,1,-0.339,2026-09-08,inactivo,True
+U000482,BrunoDash93,2023-11-23,europe/madrid,18-24,zorro,videojuegos,instagram,False,0,0,0,1,0.593,2025-12-25,inactivo,False
+U000483,KibaMoon44,2026-06-27,america/monterrey,25-31,husky,convenciones,instagram,False,311,600,0,0,0.215,2026-09-20,en_riesgo,True
+U000484,FlarePelaje89,2023-07-10,america/mexico_city,32-38,perro,convenciones,telegram,False,7,9,2,0,-0.107,2026-11-03,activo,True
+U000485,TalaMaya62,2022-08-19,america/mexico_city,18-24,híbrido/otro,fursuit,tiktok,False,0,0,0,0,0.367,2026-04-14,inactivo,True
+U000486,LunaSpark1,2025-05-17,america/merida,18-24,zorro,escritura/historias,facebook,False,41,107,0,1,-0.096,2026-11-08,activo,True
+U000487,RexMaya75,2023-09-17,america/tijuana,32-38,conejo,arte digital,instagram,True,13,27,0,5,0.547,2026-10-30,activo,True
+U000488,BrunoZac35,2024-06-13,america/monterrey,18-24,dragón,arte digital,instagram,False,0,0,0,0,0.154,2026-02-27,inactivo,True
+U000489,NubeClaw94,2025-08-12,america/mexico_city,25-31,lobo,fursuit,discord,False,9,13,1,2,0.538,2026-10-28,activo,True
+U000490,OnixSpark22,2024-09-23,america/mexico_city,18-24,lobo,convenciones,telegram,False,3,6,3,0,0.35,2026-11-07,activo,True
+U000491,OnixZac50,2026-01-20,america/mexico_city,18-24,lobo,convenciones,facebook,False,0,0,0,1,0.343,2026-07-28,inactivo,True
+U000492,LoboTail49,2025-11-21,america/mexico_city,18-24,zorro,escritura/historias,instagram,False,0,0,3,1,0.391,2026-03-10,inactivo,False
+U000493,CobreClaw90,2024-02-23,america/mexico_city,18-24,tigre,música,telegram,False,1,1,0,0,0.349,2026-09-19,en_riesgo,True
+U000494,LoboHowl10,2023-08-24,america/argentina/buenos_aires,25-31,lobo,videojuegos,telegram,False,1,1,0,0,0.237,2026-10-23,en_riesgo,True
+U000495,SolCh'a75,2026-07-13,america/mexico_city,18-24,lobo,arte digital,telegram,True,127,406,0,1,0.469,2026-11-02,activo,True
+U000496,KibaSpark10,2024-07-31,america/mexico_city,25-31,lobo,videojuegos,facebook,False,19,40,0,1,0.883,2026-11-09,activo,True
+U000497,AshWolf31,2023-02-21,america/mexico_city,25-31,perro,videojuegos,facebook,False,0,0,0,0,0.083,2026-02-04,inactivo,True
+U000498,ZetaArt15,2023-11-03,america/merida,25-31,lobo,arte tradicional,telegram,True,2,3,0,5,0.304,2026-10-04,en_riesgo,True
+U000499,BrunoHowl71,2026-08-05,america/mexico_city,25-31,ave,convenciones,telegram,True,0,0,1,0,0.8,2026-08-18,inactivo,True
+U000500,ZetaKin77,2024-01-18,america/mexico_city,18-24,zorro,streaming/contenido,telegram,False,3,11,0,0,0.373,2026-10-13,en_riesgo,True
+U000501,ZorriClaw73,2023-01-02,america/mexico_city,25-31,gato,fursuit,telegram,False,6,15,1,2,-0.169,2026-11-05,activo,True
+U000502,YukiMaya34,2024-07-04,america/mexico_city,18-24,ave,arte tradicional,instagram,True,1,1,0,5,-0.232,2026-09-30,en_riesgo,True
+U000503,RuneCh'a86,2022-08-29,america/merida,39+,perro,streaming/contenido,facebook,False,5,10,1,0,0.525,2026-11-01,activo,True
+U000504,TalaPelaje66,2025-03-12,america/mexico_city,25-31,lobo,escritura/historias,discord,False,6,9,0,0,0.128,2026-10-21,en_riesgo,False
+U000505,ÁmbarClaw56,2023-05-07,america/argentina/buenos_aires,32-38,perro,convenciones,twitter/x,False,21,63,0,0,0.391,2026-10-30,activo,True
+U000506,RuneMaya7,2024-04-25,america/mexico_city,25-31,zorro,escritura/historias,telegram,False,1,2,0,0,0.19,2026-09-18,en_riesgo,True
+U000507,OnixCh'a14,2024-05-05,america/cancun,25-31,zorro,fursuit,tiktok,False,37,95,0,2,0.114,2026-10-30,activo,True
+U000508,OnixFang26,2025-02-25,america/los_angeles,32-38,lobo,arte digital,telegram,False,7,26,2,0,0.166,2026-10-29,activo,True
+U000509,NovaFox23,2025-08-21,america/mexico_city,18-24,zorro,cómics,facebook,False,2,7,0,0,0.264,2026-10-25,en_riesgo,True
+U000510,SolSpark8,2023-11-13,america/mexico_city,25-31,lobo,arte digital,facebook,True,5,6,0,0,0.486,2026-11-08,activo,True
+U000511,YukiClaw11,2025-06-12,america/lima,18-24,gato,música,telegram,False,7,24,2,0,0.669,2026-10-29,activo,True
+U000512,AshClaw23,2024-04-18,america/mexico_city,18-24,perro,arte digital,instagram,False,0,0,0,0,0.562,2026-06-07,inactivo,False
+U000513,OnixFox57,2024-10-29,america/monterrey,25-31,dragón,streaming/contenido,facebook,False,9,11,0,0,0.573,2026-10-27,activo,True
+U000514,BrunoInk89,2023-03-15,america/mexico_city,18-24,dragón,arte digital,tiktok,True,1,2,0,0,0.211,2026-10-20,en_riesgo,True
+U000515,FlareWolf36,2024-09-18,america/monterrey,18-24,gato,convenciones,facebook,False,3,8,0,0,0.311,2026-11-04,activo,False
+U000516,RexMoon22,2023-04-07,europe/madrid,18-24,conejo,arte tradicional,instagram,True,19,31,0,1,0.188,2026-10-26,activo,True
+U000517,LoboFox71,2026-05-02,america/mexico_city,25-31,coyote,arte digital,facebook,True,13,29,0,3,-0.266,2026-11-05,activo,True
+U000518,ÁmbarArt3,2023-12-13,america/merida,18-24,tigre,arte digital,telegram,False,1,3,0,2,0.138,2026-09-19,en_riesgo,True
+U000519,ÁmbarZac4,2024-05-27,america/monterrey,18-24,gato,videojuegos,telegram,True,2,4,0,0,0.426,2026-10-23,en_riesgo,True
+U000520,SolMaya13,2025-08-03,america/monterrey,25-31,conejo,videojuegos,telegram,False,0,0,0,0,0.289,2026-01-18,inactivo,True
+U000521,CobreHowl11,2023-05-07,america/tijuana,32-38,gato,arte digital,telegram,True,13,45,0,0,0.32,2026-10-14,en_riesgo,True
+U000522,ZorriClaw41,2023-08-26,america/mexico_city,18-24,dragón,arte digital,telegram,False,5,7,0,3,0.363,2026-10-28,activo,True
+U000523,NeoFox68,2025-06-29,america/lima,32-38,perro,cómics,instagram,False,16,23,3,0,0.415,2026-11-02,activo,True
+U000524,SolMoon53,2024-02-16,america/merida,25-31,conejo,cosplay,telegram,False,2,4,1,0,0.264,2026-09-24,en_riesgo,True
+U000525,NubeWolf52,2023-07-14,america/mexico_city,25-31,híbrido/otro,arte tradicional,twitter/x,True,1,2,0,0,0.978,2026-10-16,en_riesgo,True
+U000526,NubeTail93,2024-04-03,america/mexico_city,18-24,perro,fursuit,facebook,False,3,4,0,0,-0.058,2026-10-03,en_riesgo,True
+U000527,KuroMaya45,2024-04-08,america/mexico_city,25-31,zorro,convenciones,telegram,False,0,0,0,0,0.28,2026-07-24,inactivo,True
+U000528,ÁmbarInk3,2023-07-26,america/mexico_city,18-24,gato,escritura/historias,facebook,False,4,12,1,0,0.598,2026-10-11,en_riesgo,True
+U000529,SolWolf69,2023-10-20,america/mexico_city,25-31,perro,cosplay,facebook,False,10,23,2,0,0.221,2026-10-31,activo,True
+U000530,KuroCh'a56,2022-12-16,america/chicago,18-24,lobo,videojuegos,discord,False,3,11,0,0,0.813,2026-10-25,en_riesgo,False
+U000531,NubeZac45,2024-05-25,america/santiago,18-24,híbrido/otro,cómics,twitter/x,False,0,0,0,0,0.344,2026-10-24,en_riesgo,True
+U000532,RuneCh'a77,2026-04-22,america/tijuana,25-31,híbrido/otro,fursuit,telegram,False,0,0,0,2,0.455,2026-08-17,inactivo,True
+U000533,TalaHowl74,2022-11-24,america/los_angeles,18-24,perro,fursuit,telegram,False,14,37,2,0,0.052,2026-10-30,activo,True
+U000534,RexFox71,2023-04-14,america/mexico_city,18-24,zorro,streaming/contenido,telegram,False,3,10,0,0,-0.032,2026-09-11,en_riesgo,True
+U000535,CobreTail28,2024-05-31,america/bogota,18-24,zorro,música,telegram,False,17,49,0,0,0.12,2026-10-30,activo,False
+U000536,RexDash61,2024-09-25,america/merida,18-24,husky,escritura/historias,tiktok,False,7,20,0,0,0.593,2026-11-09,activo,True
+U000537,CobreClaw73,2023-04-25,america/mexico_city,25-31,híbrido/otro,arte digital,telegram,True,42,144,0,0,-0.322,2026-10-31,activo,True
+U000538,FlareArt6,2024-07-10,america/argentina/buenos_aires,18-24,zorro,música,tiktok,False,9,21,0,1,0.706,2026-11-01,activo,True
+U000539,ZetaPelaje73,2022-09-14,america/los_angeles,32-38,dragón,streaming/contenido,facebook,False,0,0,0,1,0.25,2026-09-05,inactivo,True
+U000540,OnixMoon38,2025-09-15,america/cancun,25-31,gato,arte digital,tiktok,True,4,10,0,5,-0.096,2026-10-19,en_riesgo,False
+U000541,BrumaDash88,2026-06-27,america/monterrey,18-24,tigre,cómics,twitter/x,False,1,2,0,0,0.401,2026-10-05,en_riesgo,True
+U000542,NeoArt36,2023-10-12,america/mexico_city,18-24,husky,arte tradicional,telegram,True,0,0,0,1,0.409,2026-04-02,inactivo,False
+U000543,BrumaArt37,2025-11-15,america/mexico_city,18-24,zorro,videojuegos,facebook,False,30,46,0,0,0.867,2026-10-27,activo,True
+U000544,PixelInk4,2024-07-20,america/mexico_city,18-24,gato,escritura/historias,discord,False,7,9,0,0,0.697,2026-10-29,activo,True
+U000545,KibaPelaje51,2025-03-08,america/mexico_city,32-38,reptil,streaming/contenido,facebook,False,0,0,0,0,0.216,2026-02-01,inactivo,True
+U000546,RexTail75,2024-09-27,america/monterrey,32-38,lobo,videojuegos,facebook,False,0,0,0,0,0.451,2025-10-16,inactivo,True
+U000547,ÁmbarZac78,2022-03-18,america/mexico_city,18-24,dragón,arte digital,telegram,True,0,0,0,0,-0.086,2025-11-20,inactivo,True
+U000548,CobreDash91,2025-07-09,america/mexico_city,18-24,híbrido/otro,arte digital,telegram,True,2,2,0,5,0.711,2026-10-09,en_riesgo,False
+U000549,FlareKin41,2026-07-01,america/merida,39+,híbrido/otro,convenciones,discord,False,0,0,4,0,0.008,2026-07-01,inactivo,True
+U000550,AshByte61,2023-07-17,america/mexico_city,25-31,gato,música,tiktok,False,2,3,2,0,0.477,2026-10-18,en_riesgo,True
+U000551,ZetaFox20,2023-07-12,america/mexico_city,25-31,coyote,cómics,facebook,False,4,14,0,0,0.539,2026-10-14,en_riesgo,True
+U000552,YukiPelaje89,2024-12-25,america/merida,18-24,zorro,videojuegos,facebook,False,9,24,0,0,0.879,2026-10-12,en_riesgo,True
+U000553,BrunoFang85,2025-02-03,america/chicago,18-24,ave,cómics,tiktok,False,29,54,0,0,-0.076,2026-10-26,activo,True
+U000554,NeoMoon11,2023-08-20,america/mexico_city,25-31,perro,cómics,instagram,False,19,27,1,0,-0.392,2026-09-15,en_riesgo,True
+U000555,RexFox44,2025-12-08,america/merida,25-31,lobo,escritura/historias,tiktok,False,0,0,0,0,0.051,2026-08-24,inactivo,True
+U000556,PixelHowl2,2023-02-09,america/mexico_city,32-38,híbrido/otro,escritura/historias,instagram,False,0,0,0,0,0.285,2026-03-25,inactivo,True
+U000557,ZorriWolf43,2023-12-06,america/mexico_city,32-38,dragón,cómics,discord,False,4,12,0,0,0.452,2026-11-05,activo,True
+U000558,BrumaInk87,2025-09-19,america/cancun,18-24,lobo,convenciones,tiktok,False,11,41,0,0,0.254,2026-10-28,activo,True
+U000559,NubeKin64,2023-09-27,america/monterrey,39+,gato,cómics,telegram,False,0,0,0,0,-0.242,2026-05-06,inactivo,True
+U000560,SombraFang76,2022-10-31,america/chicago,18-24,híbrido/otro,cómics,facebook,False,0,0,0,0,0.35,2026-08-02,inactivo,True
+U000561,KibaByte66,2024-10-17,america/merida,25-31,lobo,arte tradicional,discord,True,15,42,0,0,0.736,2026-11-09,activo,True
+U000562,KuroFang83,2025-04-01,america/mexico_city,18-24,dragón,arte digital,discord,True,0,0,0,2,0.424,2026-04-20,inactivo,True
+U000563,KibaTail19,2025-04-06,america/merida,25-31,lobo,escritura/historias,telegram,False,0,0,0,0,-0.255,2026-08-11,inactivo,True
+U000564,AshByte47,2024-01-19,america/mexico_city,25-31,híbrido/otro,cosplay,instagram,False,8,21,2,0,0.375,2026-11-08,activo,True
+U000565,CobreMoon85,2026-05-19,america/mexico_city,32-38,perro,arte digital,discord,True,3,4,0,0,-0.144,2026-09-30,en_riesgo,True
+U000566,FlareInk93,2025-11-26,america/mexico_city,18-24,gato,streaming/contenido,instagram,False,4,7,0,0,0.275,2026-11-06,activo,True
+U000567,PixelHowl41,2025-10-31,america/cancun,18-24,dragón,streaming/contenido,telegram,False,10,20,0,0,0.368,2026-11-03,activo,True
+U000568,LunaClaw2,2026-10-06,america/mexico_city,18-24,lobo,videojuegos,facebook,False,7,10,0,0,0.725,2026-10-27,activo,True
+U000569,ZetaCh'a53,2024-01-31,america/mexico_city,18-24,conejo,cómics,facebook,False,3,8,0,0,0.12,2026-09-10,en_riesgo,True
+U000570,NovaHowl4,2023-04-30,america/mexico_city,25-31,conejo,streaming/contenido,telegram,False,0,0,3,0,0.562,2025-11-13,inactivo,True
+U000571,AshTail60,2024-05-25,america/mexico_city,18-24,zorro,videojuegos,instagram,False,4,15,0,0,-0.337,2026-11-01,activo,True
+U000572,RexTail84,2022-07-28,america/mexico_city,18-24,zorro,fursuit,facebook,False,4,8,0,2,0.362,2026-11-04,activo,True
+U000573,BrumaMoon34,2023-10-15,america/mexico_city,18-24,gato,convenciones,discord,False,2,7,2,0,0.601,2026-11-05,activo,True
+U000574,OnixSpark69,2026-09-20,america/mexico_city,25-31,perro,arte digital,twitter/x,True,5,9,0,3,0.557,2026-10-10,en_riesgo,True
+U000575,AshSpark45,2022-02-20,america/mexico_city,18-24,coyote,cosplay,instagram,False,16,36,1,1,1.0,2026-11-04,activo,False
+U000576,AshClaw31,2026-09-19,america/mexico_city,32-38,lobo,música,discord,False,6,14,0,0,0.181,2026-11-07,activo,True
+U000577,NeoPelaje71,2026-08-18,america/merida,25-31,conejo,videojuegos,instagram,False,3,9,0,0,-0.168,2026-11-04,activo,False
+U000578,CobreSpark48,2025-09-09,america/cancun,18-24,conejo,arte digital,instagram,False,0,0,0,0,0.972,2025-11-06,inactivo,False
+U000579,RexTail10,2024-07-17,america/mexico_city,25-31,lobo,fursuit,facebook,False,4,14,0,0,0.311,2026-10-15,en_riesgo,True
+U000580,TalaFang60,2026-05-31,america/mexico_city,25-31,coyote,arte digital,facebook,True,3,5,0,5,0.328,2026-10-22,en_riesgo,True
+U000581,NubeArt52,2025-10-08,america/mexico_city,18-24,zorro,arte tradicional,facebook,True,3,4,0,5,0.45,2026-10-11,en_riesgo,True
+U000582,TalaArt82,2025-03-26,america/cancun,18-24,gato,cómics,facebook,False,0,0,0,0,0.348,2026-07-23,inactivo,True
+U000583,BrunoInk42,2024-12-24,america/merida,18-24,lobo,arte tradicional,discord,True,5,11,0,3,0.219,2026-10-27,activo,True
+U000584,SolArt60,2023-05-03,america/mexico_city,32-38,husky,videojuegos,telegram,False,0,0,0,1,0.532,2026-09-06,inactivo,True
+U000585,SolArt78,2025-09-08,america/mexico_city,25-31,conejo,arte digital,twitter/x,True,1,2,0,0,0.607,2026-09-24,en_riesgo,True
+U000586,RuneMaya46,2026-03-31,america/mexico_city,18-24,coyote,arte digital,discord,False,0,0,0,0,0.313,2026-03-31,inactivo,False
+U000587,AshFang98,2023-11-10,america/merida,18-24,gato,música,instagram,False,2,7,1,0,0.411,2026-10-24,en_riesgo,False
+U000588,RuneDash95,2026-02-12,america/mexico_city,18-24,gato,videojuegos,twitter/x,False,3,8,0,1,-0.043,2026-10-11,en_riesgo,True
+U000589,KuroZac16,2024-09-15,america/bogota,18-24,híbrido/otro,convenciones,twitter/x,False,3,10,0,0,0.167,2026-09-29,en_riesgo,True
+U000590,LunaClaw75,2023-12-06,america/mexico_city,25-31,perro,cómics,instagram,False,0,0,7,0,0.588,2026-02-17,inactivo,False
+U000591,OnixByte26,2024-09-26,america/mexico_city,18-24,gato,música,tiktok,True,0,0,0,0,0.743,2025-11-28,inactivo,True
+U000592,ZorriMaya22,2025-06-28,america/mexico_city,18-24,reptil,fursuit,telegram,False,4,15,0,5,-0.252,2026-10-31,activo,False
+U000593,TalaArt64,2023-09-04,america/bogota,39+,conejo,streaming/contenido,instagram,False,7,21,0,0,0.49,2026-11-06,activo,True
+U000594,FlarePaw70,2022-11-15,america/merida,18-24,ave,fursuit,twitter/x,False,2,3,1,0,0.338,2026-11-04,activo,True
+U000595,LoboByte98,2024-11-27,america/mexico_city,25-31,zorro,música,twitter/x,False,3,6,0,0,0.112,2026-09-20,en_riesgo,True
+U000596,BrunoDash87,2025-08-31,america/mexico_city,18-24,zorro,cómics,twitter/x,False,0,0,0,1,0.664,2026-09-07,inactivo,True
+U000597,BrumaClaw30,2025-12-24,america/monterrey,25-31,zorro,arte tradicional,telegram,True,14,30,0,2,-0.299,2026-11-03,activo,True
+U000598,KibaArt27,2024-09-15,america/tijuana,25-31,zorro,escritura/historias,twitter/x,False,39,133,0,0,-0.283,2026-11-09,activo,True
+U000599,RexDash28,2024-12-29,america/argentina/buenos_aires,18-24,ave,escritura/historias,telegram,False,2,2,0,0,0.367,2026-09-22,en_riesgo,True
+U000600,LoboByte1,2023-05-31,america/santiago,25-31,gato,música,instagram,False,9,31,1,0,-0.057,2026-11-05,activo,True
+U000601,LunaZac47,2026-09-06,america/merida,25-31,husky,escritura/historias,instagram,False,0,0,0,1,-0.007,2026-09-06,inactivo,True
+U000602,KuroMoon82,2025-04-28,america/mexico_city,18-24,dragón,fursuit,telegram,False,2,7,0,1,0.273,2026-10-17,en_riesgo,True
+U000603,RuneDash18,2022-02-27,america/tijuana,18-24,híbrido/otro,arte tradicional,discord,True,7,15,4,5,0.051,2026-11-04,activo,True
+U000604,KibaFox26,2026-04-07,america/monterrey,25-31,reptil,cómics,twitter/x,False,5,19,0,0,0.312,2026-11-04,activo,True
+U000605,RuneInk82,2024-12-11,europe/madrid,18-24,zorro,arte digital,facebook,True,1,2,0,2,-0.039,2026-10-08,en_riesgo,True
+U000606,AshZac52,2025-12-26,america/merida,25-31,zorro,arte digital,discord,False,2,3,0,5,1.0,2026-10-20,en_riesgo,True
+U000607,FlareMoon61,2022-03-22,america/cancun,18-24,tigre,escritura/historias,instagram,False,3,11,0,0,0.272,2026-10-24,en_riesgo,True
+U000608,RuneMaya9,2024-10-01,america/mexico_city,39+,coyote,videojuegos,telegram,False,0,0,0,0,-0.092,2025-11-29,inactivo,False
+U000609,ZorriHowl97,2024-05-10,america/monterrey,18-24,lobo,convenciones,facebook,False,3,10,0,1,0.155,2026-10-22,en_riesgo,True
+U000610,SombraPaw44,2026-09-06,america/tijuana,18-24,reptil,arte digital,telegram,False,4,13,0,0,0.388,2026-10-25,en_riesgo,False
+U000611,NubeDash65,2022-06-28,america/los_angeles,25-31,perro,videojuegos,facebook,False,0,0,0,0,0.222,2025-12-10,inactivo,True
+U000612,ZetaWolf98,2025-12-12,america/tijuana,32-38,zorro,música,telegram,False,0,0,0,0,0.614,2026-08-30,inactivo,False
+U000613,RuneSpark12,2025-06-10,america/mexico_city,18-24,dragón,arte digital,tiktok,True,0,0,0,3,0.285,2026-09-06,inactivo,False
+U000614,TalaArt88,2025-09-20,america/mexico_city,18-24,husky,fursuit,instagram,True,3,7,0,1,0.718,2026-11-03,activo,True
+U000615,CobreTail27,2025-03-23,america/mexico_city,25-31,híbrido/otro,videojuegos,telegram,False,2,6,0,0,0.02,2026-10-09,en_riesgo,True
+U000616,NovaPaw78,2022-05-29,america/tijuana,18-24,lobo,streaming/contenido,telegram,False,3,6,0,0,0.198,2026-10-25,en_riesgo,True
+U000617,ZorriWolf21,2022-10-12,europe/madrid,25-31,perro,música,facebook,False,4,13,0,0,0.231,2026-10-18,en_riesgo,True
+U000618,LunaFox99,2024-10-30,america/tijuana,25-31,reptil,videojuegos,twitter/x,True,0,0,0,0,0.045,2025-12-08,inactivo,True
+U000619,NovaKin67,2025-06-28,america/mexico_city,18-24,gato,cosplay,telegram,False,12,39,0,0,0.686,2026-11-07,activo,True
+U000620,SolDash77,2025-04-24,america/mexico_city,18-24,gato,arte digital,telegram,True,2,2,0,1,0.615,2026-10-11,en_riesgo,False
+U000621,AshKin96,2022-04-28,america/mexico_city,18-24,reptil,arte digital,instagram,True,3,3,0,0,0.079,2026-10-30,activo,True
+U000622,ÁmbarPaw45,2022-02-06,america/mexico_city,25-31,conejo,fursuit,telegram,False,8,30,0,1,0.489,2026-11-05,activo,True
+U000623,CobrePaw32,2026-09-22,america/tijuana,25-31,tigre,cosplay,twitter/x,False,0,0,0,0,0.077,2026-09-22,en_riesgo,False
+U000624,ZorriSpark79,2025-11-19,america/merida,25-31,dragón,fursuit,telegram,False,7,23,1,3,0.19,2026-11-03,activo,True
+U000625,ZetaFox70,2026-01-06,america/mexico_city,25-31,perro,cómics,tiktok,False,3,11,0,0,0.554,2026-10-30,activo,True
+U000626,BrumaFox73,2025-01-14,america/mexico_city,18-24,perro,videojuegos,instagram,True,3,9,0,0,0.572,2026-10-09,en_riesgo,True
+U000627,TalaPelaje73,2022-11-29,america/bogota,32-38,gato,escritura/historias,telegram,False,6,10,0,0,0.375,2026-11-07,activo,True
+U000628,TalaZac70,2023-02-18,america/mexico_city,18-24,lobo,música,facebook,False,0,0,0,0,0.266,2026-01-30,inactivo,True
+U000629,RexMoon46,2025-01-04,america/mexico_city,18-24,zorro,videojuegos,telegram,False,0,0,0,0,0.262,2026-08-26,inactivo,True
+U000630,BrunoZac28,2022-12-09,america/merida,25-31,reptil,música,telegram,False,4,6,0,1,0.155,2026-10-05,en_riesgo,True
+U000631,PixelMaya29,2022-02-25,america/bogota,32-38,zorro,convenciones,telegram,False,4,5,1,0,0.374,2026-10-28,activo,True
+U000632,LunaTail15,2023-04-17,america/chihuahua,18-24,dragón,fursuit,twitter/x,False,6,8,4,3,0.41,2026-11-06,activo,True
+U000633,ZetaPaw20,2024-06-24,america/monterrey,25-31,zorro,escritura/historias,tiktok,False,0,0,0,0,0.817,2025-11-16,inactivo,True
+U000634,SombraFox76,2026-09-24,america/mexico_city,18-24,zorro,videojuegos,telegram,False,9,19,0,0,0.166,2026-11-01,activo,True
+U000635,YukiFox31,2026-05-27,america/bogota,25-31,lobo,arte digital,instagram,True,0,0,0,1,-0.029,2026-07-08,inactivo,True
+U000636,OnixZac7,2025-04-05,europe/madrid,18-24,dragón,arte tradicional,facebook,False,18,30,0,5,-0.168,2026-11-07,activo,False
+U000637,NeoCh'a37,2026-04-28,america/los_angeles,18-24,híbrido/otro,arte tradicional,instagram,True,2,2,3,1,0.506,2026-09-24,en_riesgo,True
+U000638,ZorriPaw51,2022-07-20,america/chihuahua,18-24,lobo,arte digital,tiktok,True,7,15,0,3,-0.137,2026-11-04,activo,True
+U000639,BrumaKin41,2022-05-20,america/mexico_city,25-31,híbrido/otro,streaming/contenido,telegram,True,0,0,4,1,-0.513,2026-09-06,inactivo,True
+U000640,BrunoInk32,2022-06-22,america/mexico_city,25-31,dragón,arte digital,facebook,True,0,0,0,5,-0.265,2026-03-19,inactivo,True
+U000641,MikaMaya65,2026-03-27,america/merida,18-24,reptil,convenciones,discord,False,1,1,1,0,0.165,2026-10-25,en_riesgo,True
+U000642,MikaTail96,2026-10-28,america/merida,25-31,gato,música,discord,False,8,24,8,0,-0.353,2026-10-28,activo,True
+U000643,TalaPaw4,2026-10-29,america/mexico_city,18-24,lobo,cosplay,discord,False,4,15,0,0,0.056,2026-11-02,activo,True
+U000644,RexInk36,2026-03-08,america/mexico_city,32-38,coyote,fursuit,instagram,True,14,52,1,1,0.517,2026-11-09,activo,True
+U000645,NovaHowl32,2025-02-16,america/mexico_city,18-24,gato,convenciones,telegram,False,30,47,0,0,0.433,2026-10-28,activo,True
+U000646,ZetaZac11,2023-08-18,america/mexico_city,32-38,híbrido/otro,arte digital,telegram,True,4,7,0,1,0.355,2026-10-15,en_riesgo,True
+U000647,ZetaPaw3,2022-03-14,america/merida,39+,ave,escritura/historias,twitter/x,False,5,12,0,0,-0.286,2026-11-06,activo,True
+U000648,SolDash73,2026-10-29,america/tijuana,25-31,coyote,cómics,discord,False,7,20,0,0,0.065,2026-10-29,activo,False
+U000649,SombraDash9,2023-02-24,america/mexico_city,25-31,zorro,convenciones,telegram,False,0,0,3,0,0.868,2026-08-01,inactivo,True
+U000650,BrunoClaw88,2024-07-25,america/mexico_city,32-38,ave,streaming/contenido,twitter/x,False,2,3,0,0,0.27,2026-09-29,en_riesgo,True
+U000651,ÁmbarMaya65,2024-06-13,america/mexico_city,18-24,husky,escritura/historias,telegram,False,0,0,3,0,0.044,2026-08-15,inactivo,True
+U000652,BrunoArt47,2023-05-15,america/merida,32-38,híbrido/otro,videojuegos,telegram,False,19,43,0,0,-0.043,2026-10-30,activo,True
+U000653,CobreByte21,2023-12-06,america/merida,32-38,zorro,escritura/historias,telegram,False,3,10,0,0,0.651,2026-11-09,activo,True
+U000654,CobreZac11,2026-01-16,america/mexico_city,25-31,zorro,arte digital,instagram,True,21,57,0,3,0.406,2026-11-09,activo,True
+U000655,LunaCh'a45,2025-03-16,america/mexico_city,39+,zorro,música,facebook,True,8,14,0,0,0.977,2026-11-01,activo,True
+U000656,YukiMoon98,2024-08-03,america/merida,25-31,tigre,cosplay,tiktok,False,0,0,0,0,0.221,2026-08-14,inactivo,True
+U000657,PixelInk53,2025-09-06,america/mexico_city,18-24,perro,escritura/historias,instagram,True,2,7,0,0,0.441,2026-10-23,en_riesgo,False
+U000658,ZorriPelaje81,2025-10-19,america/bogota,18-24,dragón,fursuit,telegram,False,4,15,3,1,-0.008,2026-09-26,en_riesgo,True
+U000659,NeoPelaje66,2025-05-18,america/chihuahua,25-31,lobo,música,twitter/x,False,39,46,0,0,0.566,2026-11-03,activo,True
+U000660,AshDash17,2022-04-30,america/mexico_city,18-24,lobo,música,tiktok,False,12,15,0,0,-0.107,2026-11-03,activo,True
+U000661,NeoHowl74,2023-03-26,america/mexico_city,32-38,híbrido/otro,arte digital,instagram,True,21,60,0,0,0.923,2026-11-06,activo,True
+U000662,NovaCh'a34,2026-10-07,america/mexico_city,18-24,dragón,fursuit,facebook,False,10,28,1,3,0.343,2026-11-06,activo,False
+U000663,RexMoon12,2025-12-11,america/mexico_city,32-38,zorro,arte digital,tiktok,True,7,20,0,3,0.238,2026-10-19,en_riesgo,True
+U000664,SombraKin73,2026-08-29,america/mexico_city,32-38,tigre,streaming/contenido,facebook,False,2,5,0,0,0.344,2026-09-14,en_riesgo,True
+U000665,NubePaw26,2026-08-31,america/mexico_city,18-24,híbrido/otro,cosplay,instagram,False,2,3,0,0,-0.411,2026-09-18,en_riesgo,True
+U000666,BrumaZac44,2023-08-08,america/monterrey,25-31,perro,arte tradicional,discord,True,4,14,0,3,-0.41,2026-10-21,en_riesgo,True
+U000667,LunaKin92,2024-10-20,america/mexico_city,18-24,husky,streaming/contenido,twitter/x,False,15,47,0,0,0.23,2026-11-02,activo,True
+U000668,SombraTail52,2025-08-21,america/cancun,18-24,zorro,convenciones,discord,False,2,3,0,0,0.533,2026-10-31,activo,False
+U000669,SolWolf57,2026-09-20,america/merida,25-31,tigre,streaming/contenido,telegram,False,4,9,4,0,-0.248,2026-10-23,en_riesgo,True
+U000670,ZetaZac48,2023-05-03,america/cancun,25-31,zorro,videojuegos,telegram,False,2,6,0,0,0.341,2026-11-04,activo,True
+U000671,TalaSpark4,2023-10-05,america/merida,25-31,perro,streaming/contenido,tiktok,False,0,0,0,1,0.345,2025-11-07,inactivo,True
+U000672,MikaZac59,2024-04-08,america/argentina/buenos_aires,18-24,lobo,videojuegos,facebook,False,6,14,0,0,-0.221,2026-10-29,activo,False
+U000673,NeoInk59,2026-04-07,america/mexico_city,18-24,tigre,cómics,twitter/x,False,14,33,0,0,0.395,2026-10-18,en_riesgo,True
+U000674,NovaDash99,2023-04-18,america/mexico_city,25-31,zorro,videojuegos,facebook,False,7,13,2,0,-0.257,2026-11-06,activo,True
+U000675,FlarePaw14,2024-12-11,america/lima,18-24,zorro,videojuegos,twitter/x,False,13,30,3,0,0.4,2026-11-02,activo,False
+U000676,RuneSpark61,2022-06-14,america/monterrey,18-24,perro,fursuit,facebook,False,2,6,4,0,0.266,2026-10-16,en_riesgo,True
+U000677,YukiKin60,2026-04-20,america/mexico_city,39+,zorro,escritura/historias,facebook,False,0,0,0,0,0.709,2026-04-20,inactivo,True
+U000678,YukiSpark27,2023-06-25,america/monterrey,25-31,tigre,fursuit,facebook,False,50,157,0,1,0.209,2026-11-09,activo,True
+U000679,MikaFang96,2023-03-08,america/merida,18-24,dragón,videojuegos,discord,False,9,27,0,0,0.316,2026-10-27,activo,True
+U000680,NeoClaw41,2026-01-18,america/santiago,18-24,perro,cómics,instagram,False,7,15,3,0,0.281,2026-10-29,activo,True
+U000681,ZetaCh'a65,2022-09-26,america/argentina/buenos_aires,39+,gato,videojuegos,tiktok,True,2,3,0,0,0.658,2026-10-24,en_riesgo,False
+U000682,RexZac20,2024-11-20,america/mexico_city,25-31,tigre,escritura/historias,twitter/x,False,1,1,3,0,0.237,2026-10-14,en_riesgo,False
+U000683,NeoClaw47,2025-01-22,america/mexico_city,18-24,coyote,arte tradicional,telegram,False,0,0,0,0,0.331,2026-05-15,inactivo,False
+U000684,RuneWolf22,2023-08-06,america/merida,25-31,coyote,arte digital,tiktok,True,34,97,0,2,-0.019,2026-10-21,en_riesgo,True
+U000685,OnixInk57,2025-06-06,america/monterrey,32-38,lobo,música,telegram,False,1,2,0,0,0.234,2026-10-10,en_riesgo,True
+U000686,CobreZac23,2023-03-03,america/mexico_city,18-24,perro,arte digital,facebook,True,1,2,0,5,0.541,2026-10-24,en_riesgo,True
+U000687,ZorriCh'a21,2023-04-30,america/monterrey,18-24,gato,fursuit,telegram,False,4,9,0,2,-0.422,2026-10-24,en_riesgo,True
+U000688,NovaInk5,2026-08-29,america/merida,18-24,lobo,fursuit,facebook,True,0,0,0,3,0.044,2026-08-29,inactivo,True
+U000689,SombraHowl11,2025-10-11,america/monterrey,18-24,lobo,videojuegos,facebook,False,24,28,0,0,0.57,2026-10-23,en_riesgo,True
+U000690,BrunoFang58,2026-10-24,america/merida,32-38,zorro,arte digital,telegram,True,8,20,0,3,0.051,2026-10-29,activo,True
+U000691,RuneArt29,2023-01-13,america/mexico_city,18-24,perro,escritura/historias,instagram,False,2,2,5,0,-0.224,2026-09-26,en_riesgo,False
+U000692,SombraMaya54,2025-06-10,america/mexico_city,18-24,dragón,arte digital,tiktok,True,1,2,3,3,0.421,2026-09-17,en_riesgo,True
+U000693,TalaHowl29,2026-07-26,america/merida,18-24,perro,cosplay,instagram,False,1,1,4,0,0.455,2026-10-16,en_riesgo,False
+U000694,NeoKin87,2022-07-13,america/mexico_city,18-24,híbrido/otro,arte digital,discord,True,4,9,0,2,0.422,2026-10-08,en_riesgo,True
+U000695,AshPelaje95,2026-06-29,america/cancun,25-31,gato,escritura/historias,instagram,False,4,10,1,0,0.796,2026-11-06,activo,True
+U000696,ZetaDash16,2022-01-23,america/mexico_city,18-24,gato,convenciones,telegram,False,0,0,2,0,-0.071,2025-12-07,inactivo,False
+U000697,BrunoCh'a95,2025-10-03,america/merida,18-24,lobo,arte tradicional,discord,True,0,0,0,3,1.0,2026-08-16,inactivo,True
+U000698,ÁmbarWolf26,2023-03-07,america/mexico_city,25-31,conejo,cosplay,telegram,False,1,3,0,0,0.111,2026-09-19,en_riesgo,True
+U000699,KuroDash38,2022-11-22,america/merida,18-24,perro,fursuit,tiktok,False,0,0,0,0,0.435,2026-08-11,inactivo,True
+U000700,PixelCh'a43,2026-06-07,america/merida,18-24,conejo,streaming/contenido,twitter/x,False,0,0,0,0,-0.012,2026-06-07,inactivo,True
+U000701,KuroInk4,2026-07-06,america/santiago,25-31,tigre,fursuit,facebook,False,4,14,1,1,0.962,2026-09-14,en_riesgo,True
+U000702,OnixDash93,2023-06-23,america/mexico_city,25-31,coyote,arte digital,twitter/x,True,4,7,0,2,-0.109,2026-10-04,en_riesgo,True
+U000703,PixelSpark84,2024-04-30,america/mexico_city,18-24,gato,música,instagram,False,2,6,0,0,0.218,2026-10-13,en_riesgo,True
+U000704,CobrePelaje48,2023-03-29,america/mexico_city,25-31,dragón,streaming/contenido,facebook,True,2,3,0,0,-0.041,2026-10-22,en_riesgo,True
+U000705,LoboZac80,2023-08-30,america/cancun,25-31,reptil,streaming/contenido,facebook,True,4,12,0,0,0.537,2026-09-17,en_riesgo,True
+U000706,CobreZac96,2026-07-13,america/mexico_city,25-31,lobo,arte digital,facebook,True,4,9,2,1,-0.001,2026-10-22,en_riesgo,True
+U000707,LunaFang33,2024-07-28,america/merida,18-24,coyote,escritura/historias,twitter/x,False,0,0,1,0,-0.456,2025-10-13,inactivo,False
+U000708,MikaMaya13,2024-05-03,america/chihuahua,25-31,híbrido/otro,videojuegos,twitter/x,False,3,6,0,0,-0.116,2026-10-20,en_riesgo,True
+U000709,SolMaya27,2026-10-19,america/mexico_city,18-24,ave,arte digital,tiktok,False,3,9,0,2,0.357,2026-10-22,en_riesgo,True
+U000710,NubeHowl18,2023-09-18,america/mexico_city,18-24,dragón,videojuegos,telegram,False,0,0,0,0,0.388,2026-01-23,inactivo,True
+U000711,BrumaArt66,2026-11-04,america/merida,39+,tigre,fursuit,instagram,False,17,34,2,1,-0.083,2026-11-04,activo,True
+U000712,NovaInk9,2026-05-25,america/argentina/buenos_aires,32-38,perro,cosplay,facebook,False,8,19,0,0,0.08,2026-11-06,activo,False
+U000713,ZorriPaw3,2022-12-09,america/mexico_city,18-24,gato,música,facebook,False,8,19,0,0,0.609,2026-10-28,activo,True
+U000714,BrumaFang69,2023-10-21,america/chicago,18-24,lobo,escritura/historias,twitter/x,False,0,0,0,0,-0.328,2025-10-15,inactivo,True
+U000715,RexHowl58,2023-07-18,america/tijuana,18-24,híbrido/otro,arte digital,facebook,False,7,14,0,0,0.548,2026-11-08,activo,True
+U000716,RexWolf98,2024-07-24,america/argentina/buenos_aires,25-31,dragón,cómics,twitter/x,False,14,24,1,0,0.091,2026-11-01,activo,False
+U000717,NubeFang12,2022-04-10,america/merida,25-31,híbrido/otro,arte digital,instagram,True,27,63,0,5,0.547,2026-10-30,activo,True
+U000718,TalaSpark44,2023-04-16,america/bogota,18-24,híbrido/otro,convenciones,tiktok,False,6,17,1,0,0.215,2026-10-26,activo,False
+U000719,KibaByte74,2025-12-15,america/merida,18-24,coyote,fursuit,telegram,False,18,38,2,2,0.161,2026-10-23,en_riesgo,True
+U000720,ZetaPelaje3,2025-07-27,america/mexico_city,18-24,gato,música,facebook,False,0,0,0,0,0.406,2026-07-31,inactivo,False
+U000721,LoboHowl95,2025-02-09,america/mexico_city,18-24,dragón,convenciones,twitter/x,True,0,0,1,0,0.108,2026-02-02,inactivo,True
+U000722,RexZac81,2024-10-06,america/lima,18-24,zorro,convenciones,facebook,False,0,0,0,0,0.125,2026-02-09,inactivo,True
+U000723,TalaByte63,2024-12-28,america/lima,18-24,coyote,arte digital,telegram,True,0,0,0,1,-0.052,2025-12-28,inactivo,True
+U000724,LunaByte90,2023-12-03,america/mexico_city,18-24,reptil,cosplay,tiktok,False,7,27,4,0,0.359,2026-10-21,en_riesgo,True
+U000725,BrunoHowl85,2024-12-29,america/mexico_city,25-31,tigre,videojuegos,instagram,False,10,13,0,0,1.0,2026-11-09,activo,True
+U000726,FlareZac13,2025-08-09,america/cancun,32-38,híbrido/otro,arte digital,telegram,False,0,0,0,5,0.352,2025-10-29,inactivo,True
+U000727,LoboSpark56,2023-04-04,america/merida,25-31,reptil,streaming/contenido,twitter/x,False,25,83,0,0,0.254,2026-11-03,activo,True
+U000728,RexFox11,2026-04-02,america/mexico_city,25-31,husky,streaming/contenido,telegram,False,3,5,0,0,0.163,2026-10-12,en_riesgo,True
+U000729,KuroSpark71,2024-02-22,america/mexico_city,18-24,perro,cómics,instagram,False,0,0,0,0,0.692,2026-02-17,inactivo,False
+U000730,KibaSpark32,2022-12-02,america/mexico_city,25-31,conejo,cosplay,discord,False,0,0,1,0,0.345,2025-12-25,inactivo,False
+U000731,FlareMoon5,2023-08-08,america/monterrey,25-31,coyote,convenciones,telegram,False,0,0,1,0,0.362,2026-03-20,inactivo,False
+U000732,PixelZac38,2026-08-13,america/merida,25-31,coyote,videojuegos,facebook,False,0,0,0,0,0.229,2026-08-19,inactivo,True
+U000733,LunaArt9,2025-04-28,america/merida,18-24,lobo,convenciones,facebook,False,9,11,0,0,0.033,2026-11-02,activo,True
+U000734,RexKin25,2026-02-15,america/chicago,18-24,reptil,arte digital,telegram,True,13,50,4,3,0.185,2026-11-08,activo,False
+U000735,KuroSpark74,2023-12-24,america/merida,25-31,híbrido/otro,escritura/historias,tiktok,False,4,9,6,0,0.271,2026-09-26,en_riesgo,True
+U000736,KibaZac49,2022-09-07,america/mexico_city,18-24,reptil,convenciones,telegram,False,5,11,0,1,0.155,2026-11-08,activo,True
+U000737,KuroSpark19,2025-12-11,america/merida,18-24,tigre,fursuit,facebook,False,11,19,0,1,0.867,2026-10-21,en_riesgo,True
+U000738,RexClaw20,2025-09-21,america/merida,18-24,lobo,arte tradicional,facebook,True,7,10,0,0,-0.025,2026-10-28,activo,True
+U000739,RuneTail59,2026-10-06,america/mexico_city,18-24,lobo,música,telegram,False,26,68,0,0,0.567,2026-10-17,en_riesgo,True
+U000740,KuroMaya62,2022-08-13,america/merida,25-31,coyote,música,instagram,False,1,1,0,0,-0.096,2026-09-20,en_riesgo,False
+U000741,BrumaInk73,2025-06-20,america/merida,25-31,lobo,música,telegram,False,0,0,0,0,0.147,2026-04-18,inactivo,True
+U000742,TalaKin45,2026-03-31,america/santiago,25-31,perro,arte digital,tiktok,False,8,29,0,3,0.107,2026-10-30,activo,True
+U000743,ÁmbarSpark81,2022-10-03,america/merida,18-24,perro,videojuegos,discord,False,0,0,0,0,0.073,2026-02-22,inactivo,True
+U000744,RuneTail89,2026-07-01,america/merida,25-31,ave,convenciones,tiktok,False,10,39,2,0,0.296,2026-11-01,activo,True
+U000745,MikaZac78,2023-05-24,america/mexico_city,18-24,perro,arte digital,facebook,False,0,0,0,2,0.851,2026-04-05,inactivo,True
+U000746,ZorriPaw76,2023-07-25,america/mexico_city,25-31,perro,arte digital,tiktok,True,9,30,0,0,0.656,2026-11-07,activo,True
+U000747,NubeKin94,2025-02-17,america/monterrey,25-31,ave,arte digital,facebook,False,2,6,0,0,0.606,2026-10-17,en_riesgo,True
+U000748,SolFox26,2023-10-13,america/mexico_city,32-38,gato,streaming/contenido,instagram,False,0,0,0,0,0.387,2026-08-17,inactivo,True
+U000749,KibaDash21,2024-12-12,america/monterrey,25-31,zorro,cómics,telegram,False,18,26,3,0,-0.064,2026-10-26,activo,False
+U000750,TalaPelaje76,2023-09-05,america/merida,18-24,zorro,fursuit,facebook,False,0,0,4,1,0.207,2026-08-12,inactivo,True
+U000751,KibaMaya87,2023-12-12,america/merida,18-24,zorro,arte tradicional,twitter/x,True,0,0,2,2,0.413,2026-04-11,inactivo,False
+U000752,NeoInk67,2023-03-03,america/mexico_city,25-31,perro,arte digital,tiktok,True,4,15,0,0,0.118,2026-10-21,en_riesgo,True
+U000753,SombraWolf80,2025-04-25,america/mexico_city,25-31,ave,arte tradicional,telegram,True,0,0,0,1,0.622,2026-10-25,en_riesgo,True
+U000754,ZetaPaw48,2024-09-15,america/merida,18-24,conejo,videojuegos,instagram,False,2,3,1,0,0.041,2026-10-27,activo,True
+U000755,LunaHowl76,2023-08-03,america/mexico_city,39+,husky,música,telegram,False,0,0,0,0,0.468,2026-01-28,inactivo,True
+U000756,KibaCh'a82,2025-05-21,america/merida,18-24,zorro,arte tradicional,telegram,True,12,14,0,5,0.113,2026-10-09,en_riesgo,True
+U000757,PixelMoon7,2025-07-05,america/mexico_city,25-31,conejo,arte tradicional,telegram,True,10,36,0,2,-0.075,2026-10-21,en_riesgo,True
+U000758,LunaMaya61,2024-01-21,america/mexico_city,25-31,zorro,arte digital,telegram,True,3,10,0,3,0.154,2026-10-27,activo,True
+U000759,NubeKin46,2023-04-05,america/merida,32-38,lobo,arte digital,telegram,True,3,4,0,0,0.158,2026-11-02,activo,True
+U000760,NovaPaw71,2026-09-12,america/merida,18-24,híbrido/otro,cómics,facebook,False,2,4,2,1,-0.424,2026-09-12,en_riesgo,True
+U000761,PixelArt91,2025-02-18,america/mexico_city,32-38,zorro,cómics,tiktok,False,6,20,0,1,-0.442,2026-10-26,activo,True
+U000762,ZetaPelaje12,2022-11-20,america/merida,18-24,lobo,videojuegos,tiktok,False,9,21,0,0,0.681,2026-11-01,activo,True
+U000763,BrunoWolf61,2025-08-27,america/mexico_city,25-31,lobo,cosplay,discord,False,4,5,0,0,0.109,2026-10-27,activo,True
+U000764,LunaFox15,2023-03-20,america/mexico_city,18-24,conejo,convenciones,twitter/x,False,1,3,0,0,0.018,2026-09-15,en_riesgo,True
+U000765,AshInk84,2023-03-16,america/mexico_city,18-24,perro,streaming/contenido,tiktok,False,1,1,0,0,0.535,2026-10-01,en_riesgo,False
+U000766,BrunoKin73,2025-02-18,america/mexico_city,18-24,lobo,arte tradicional,telegram,True,2,4,0,3,-0.136,2026-09-30,en_riesgo,True
+U000767,RexPelaje88,2022-07-13,america/los_angeles,25-31,híbrido/otro,arte digital,tiktok,False,0,0,2,5,-0.584,2026-08-30,inactivo,True
+U000768,NeoKin9,2025-01-30,america/merida,25-31,lobo,videojuegos,telegram,False,16,53,0,0,-0.033,2026-11-09,activo,True
+U000769,AshCh'a57,2025-03-30,europe/madrid,32-38,dragón,escritura/historias,telegram,False,3,11,0,0,0.143,2026-10-09,en_riesgo,True
+U000770,SombraPaw63,2026-08-22,america/tijuana,25-31,conejo,streaming/contenido,discord,False,1,3,0,0,0.624,2026-10-15,en_riesgo,True
+U000771,NeoHowl81,2023-09-25,america/cancun,25-31,conejo,streaming/contenido,telegram,False,0,0,0,0,0.394,2025-10-30,inactivo,True
+U000772,MikaInk9,2026-03-06,america/merida,18-24,zorro,arte tradicional,facebook,True,3,7,0,0,0.45,2026-10-22,en_riesgo,True
+U000773,NovaHowl15,2025-10-10,america/mexico_city,25-31,perro,arte tradicional,discord,False,0,0,1,0,0.599,2026-09-03,inactivo,True
+U000774,ZorriByte36,2022-04-18,america/mexico_city,18-24,reptil,arte digital,facebook,True,4,12,0,0,-0.097,2026-11-09,activo,True
+U000775,AshKin25,2025-01-10,america/merida,25-31,gato,fursuit,instagram,False,0,0,0,0,0.364,2026-08-14,inactivo,True
+U000776,BrumaDash2,2026-09-30,america/mexico_city,25-31,perro,fursuit,instagram,False,3,10,0,1,-0.532,2026-09-30,en_riesgo,True
+U000777,RuneWolf33,2026-04-01,america/merida,18-24,dragón,convenciones,instagram,False,4,10,2,0,0.456,2026-10-23,en_riesgo,True
+U000778,SombraPaw15,2022-04-29,america/mexico_city,18-24,perro,arte digital,facebook,False,4,9,0,3,0.535,2026-10-04,en_riesgo,True
+U000779,ÁmbarMaya62,2025-01-15,america/argentina/buenos_aires,39+,reptil,convenciones,instagram,False,1,1,0,0,-0.075,2026-10-18,en_riesgo,True
+U000780,YukiPaw90,2026-09-22,america/tijuana,25-31,zorro,videojuegos,telegram,False,12,30,0,0,0.035,2026-11-04,activo,True
+U000781,FlareFox19,2022-12-11,america/mexico_city,39+,zorro,arte digital,tiktok,True,4,6,0,3,0.369,2026-10-21,en_riesgo,True
+U000782,SombraMaya96,2024-10-28,america/mexico_city,32-38,dragón,cómics,tiktok,False,2,2,0,0,-0.416,2026-10-25,en_riesgo,True
+U000783,KibaFox30,2023-07-18,america/los_angeles,32-38,híbrido/otro,cómics,instagram,False,25,61,0,0,0.437,2026-09-23,en_riesgo,True
+U000784,KibaPelaje64,2024-09-03,america/lima,25-31,híbrido/otro,arte digital,telegram,True,0,0,1,0,0.506,2026-09-07,inactivo,False
+U000785,ZorriDash14,2024-12-25,america/merida,25-31,husky,escritura/historias,tiktok,False,3,8,0,0,-0.14,2026-09-28,en_riesgo,True
+U000786,BrunoTail2,2022-03-02,america/los_angeles,18-24,coyote,arte tradicional,tiktok,True,6,18,0,0,0.272,2026-10-19,en_riesgo,False
+U000787,SombraCh'a68,2026-10-12,america/mexico_city,18-24,dragón,fursuit,discord,False,9,32,0,0,0.002,2026-11-08,activo,True
+U000788,CobreTail92,2026-06-25,america/argentina/buenos_aires,25-31,reptil,cosplay,telegram,True,0,0,0,0,0.275,2026-06-25,inactivo,True
+U000789,NovaSpark46,2024-10-26,america/mexico_city,39+,husky,streaming/contenido,telegram,False,0,0,0,0,0.492,2026-07-13,inactivo,True
+U000790,MikaKin70,2023-07-14,america/mexico_city,18-24,gato,streaming/contenido,telegram,False,4,10,0,0,0.213,2026-10-19,en_riesgo,True
+U000791,OnixPaw91,2026-08-30,america/cancun,18-24,conejo,videojuegos,tiktok,False,10,31,0,0,0.012,2026-10-26,activo,True
+U000792,SombraInk46,2022-08-19,america/mexico_city,39+,lobo,convenciones,facebook,False,3,10,0,0,-0.177,2026-10-15,en_riesgo,True
+U000793,NeoHowl16,2025-09-12,america/monterrey,39+,gato,cosplay,discord,False,2,5,1,0,0.756,2026-10-23,en_riesgo,False
+U000794,ZorriHowl14,2026-10-16,america/merida,25-31,gato,cómics,tiktok,False,1,3,2,0,0.531,2026-10-16,en_riesgo,True
+U000795,BrumaTail52,2022-07-30,america/santiago,18-24,ave,arte tradicional,telegram,True,2,5,0,1,0.308,2026-10-24,en_riesgo,True
+U000796,CobreKin70,2026-01-16,america/mexico_city,18-24,gato,videojuegos,telegram,False,0,0,0,0,0.199,2026-07-21,inactivo,False
+U000797,NubeByte13,2025-02-18,america/monterrey,25-31,perro,arte digital,twitter/x,False,13,19,1,3,0.627,2026-10-28,activo,False
+U000798,LunaMoon55,2023-01-21,america/mexico_city,18-24,gato,arte tradicional,telegram,True,6,15,0,5,0.015,2026-11-08,activo,True
+U000799,BrumaByte49,2024-06-17,america/merida,18-24,gato,arte digital,tiktok,True,0,0,0,0,0.469,2026-08-07,inactivo,False
+U000800,LunaKin42,2026-05-05,europe/madrid,25-31,zorro,arte digital,telegram,True,1,1,0,5,-0.024,2026-10-15,en_riesgo,True
+U000801,LunaArt1,2022-03-04,america/merida,25-31,dragón,arte digital,facebook,True,6,22,0,0,0.485,2026-11-09,activo,True
+U000802,PixelCh'a52,2026-11-05,america/chicago,25-31,zorro,arte tradicional,tiktok,True,11,22,0,5,-0.029,2026-11-05,activo,True
+U000803,CobreWolf57,2022-06-22,america/cancun,25-31,perro,cosplay,tiktok,False,10,28,0,0,0.094,2026-10-31,activo,True
+U000804,RuneArt26,2024-01-30,america/merida,18-24,dragón,streaming/contenido,tiktok,False,3,4,0,0,0.511,2026-10-22,en_riesgo,True
+U000805,SombraPelaje50,2023-02-19,america/mexico_city,18-24,conejo,streaming/contenido,facebook,False,4,9,0,0,0.184,2026-10-23,en_riesgo,True
+U000806,RuneFang51,2026-02-24,america/mexico_city,18-24,husky,fursuit,facebook,False,0,0,0,1,-0.371,2026-09-01,inactivo,True
+U000807,NeoMoon46,2023-11-07,america/chicago,25-31,zorro,convenciones,telegram,False,0,0,0,0,-0.13,2025-10-11,inactivo,True
+U000808,PixelPelaje43,2025-12-02,america/merida,25-31,coyote,fursuit,telegram,False,0,0,0,3,-0.506,2026-07-29,inactivo,True
+U000809,RuneSpark90,2024-03-08,america/mexico_city,25-31,híbrido/otro,videojuegos,facebook,False,0,0,0,0,-0.017,2026-07-13,inactivo,True
+U000810,KuroFox20,2024-09-24,america/monterrey,32-38,coyote,streaming/contenido,tiktok,False,10,29,0,1,0.726,2026-10-28,activo,True
+U000811,LoboMaya96,2025-07-03,america/mexico_city,18-24,perro,cosplay,telegram,True,9,14,4,0,0.191,2026-11-08,activo,False
+U000812,NovaFox62,2023-11-25,america/tijuana,18-24,lobo,arte digital,facebook,True,0,0,0,2,0.312,2026-07-24,inactivo,False
+U000813,BrumaFox33,2024-07-22,america/mexico_city,18-24,coyote,videojuegos,telegram,False,1,3,2,0,0.141,2026-09-17,en_riesgo,True
+U000814,OnixByte15,2024-04-25,america/merida,25-31,tigre,escritura/historias,twitter/x,False,0,0,0,0,0.212,2026-07-08,inactivo,True
+U000815,RunePelaje67,2026-11-06,america/mexico_city,32-38,conejo,videojuegos,facebook,True,7,25,0,0,-0.261,2026-11-06,activo,False
+U000816,PixelDash97,2024-08-16,america/merida,32-38,zorro,escritura/historias,facebook,False,18,55,0,0,0.039,2026-11-03,activo,True
+U000817,NubeKin13,2025-12-11,america/mexico_city,25-31,conejo,arte digital,telegram,True,0,0,0,2,0.42,2026-08-12,inactivo,False
+U000818,LoboArt5,2025-01-14,america/lima,18-24,dragón,arte digital,telegram,True,0,0,0,0,0.387,2026-07-10,inactivo,True
+U000819,NovaPelaje41,2022-09-09,america/merida,25-31,zorro,cosplay,telegram,False,3,5,1,1,0.381,2026-10-12,en_riesgo,True
+U000820,LunaMoon3,2025-10-07,america/bogota,18-24,dragón,arte digital,tiktok,True,11,33,0,2,0.693,2026-10-29,activo,True
+U000821,CobreCh'a16,2023-06-01,america/mexico_city,25-31,dragón,arte digital,facebook,True,7,27,0,0,0.816,2026-11-01,activo,True
+U000822,OnixKin89,2022-06-03,america/monterrey,18-24,dragón,arte tradicional,telegram,True,4,13,0,2,0.353,2026-11-03,activo,True
+U000823,TalaZac59,2026-07-06,america/mexico_city,25-31,perro,arte digital,facebook,True,0,0,0,0,0.394,2026-07-21,inactivo,True
+U000824,NubeSpark56,2022-09-13,america/bogota,32-38,coyote,videojuegos,twitter/x,False,4,12,0,0,0.292,2026-11-09,activo,True
+U000825,LunaMoon33,2026-06-28,america/mexico_city,18-24,husky,streaming/contenido,tiktok,False,1,1,0,0,0.57,2026-10-04,en_riesgo,True
+U000826,FlareWolf74,2024-01-20,america/argentina/buenos_aires,32-38,lobo,convenciones,telegram,False,7,19,0,0,1.0,2026-11-04,activo,True
+U000827,PixelPaw12,2022-11-12,america/cancun,25-31,perro,música,instagram,True,36,77,0,0,0.425,2026-10-31,activo,True
+U000828,YukiDash87,2025-07-25,america/cancun,39+,perro,arte digital,telegram,True,15,26,0,0,0.02,2026-11-05,activo,False
+U000829,LoboFox37,2024-03-14,america/merida,18-24,tigre,arte tradicional,telegram,True,0,0,0,0,0.715,2026-05-10,inactivo,True
+U000830,SombraHowl43,2025-01-02,america/mexico_city,18-24,lobo,convenciones,discord,False,0,0,1,0,0.186,2026-02-14,inactivo,True
+U000831,AshSpark52,2025-10-29,america/merida,32-38,perro,videojuegos,discord,False,51,182,0,0,0.35,2026-10-26,activo,True
+U000832,BrumaZac81,2023-07-03,america/monterrey,18-24,perro,videojuegos,facebook,False,0,0,0,0,0.184,2026-06-26,inactivo,False
+U000833,YukiHowl69,2026-05-06,america/chihuahua,18-24,conejo,convenciones,telegram,False,3,4,0,0,1.0,2026-09-28,en_riesgo,True
+U000834,ZetaMoon91,2026-03-26,america/mexico_city,18-24,zorro,videojuegos,discord,False,4,10,0,0,0.12,2026-09-29,en_riesgo,True
+U000835,PixelPelaje15,2024-09-24,america/merida,18-24,reptil,cómics,telegram,False,5,19,0,0,0.038,2026-11-03,activo,True
+U000836,ZetaInk80,2025-01-08,america/mexico_city,18-24,lobo,convenciones,telegram,True,2,4,1,1,0.119,2026-09-29,en_riesgo,True
+U000837,FlareKin65,2023-10-22,america/mexico_city,18-24,lobo,cómics,facebook,False,8,24,0,0,0.383,2026-11-08,activo,True
+U000838,LoboMaya3,2024-03-22,america/mexico_city,32-38,husky,streaming/contenido,telegram,False,16,39,0,0,0.631,2026-11-05,activo,True
+U000839,TalaFang84,2022-06-16,america/mexico_city,18-24,ave,streaming/contenido,telegram,False,4,6,0,0,-0.114,2026-09-21,en_riesgo,True
+U000840,NubeInk70,2024-06-19,america/monterrey,32-38,lobo,arte digital,facebook,True,7,24,0,0,0.808,2026-11-01,activo,True
+U000841,LunaCh'a41,2023-07-16,america/mexico_city,32-38,zorro,streaming/contenido,facebook,False,0,0,0,0,0.659,2026-06-08,inactivo,True
+U000842,MikaPelaje44,2025-01-01,america/tijuana,25-31,conejo,fursuit,telegram,False,2,3,1,0,-0.038,2026-09-18,en_riesgo,True
+U000843,BrumaMoon91,2026-02-28,america/argentina/buenos_aires,18-24,perro,arte tradicional,instagram,True,8,29,1,5,-0.277,2026-11-03,activo,True
+U000844,LunaPelaje9,2025-05-31,america/merida,25-31,dragón,escritura/historias,instagram,False,10,22,0,0,0.488,2026-10-22,en_riesgo,True
+U000845,KibaZac51,2026-09-08,america/mexico_city,25-31,coyote,cosplay,facebook,False,7,9,1,0,0.358,2026-10-01,en_riesgo,True
+U000846,BrunoClaw68,2022-09-12,america/mexico_city,25-31,ave,arte tradicional,facebook,False,3,11,0,3,-0.293,2026-10-20,en_riesgo,True
+U000847,BrumaMoon20,2022-05-21,america/mexico_city,25-31,híbrido/otro,fursuit,discord,True,0,0,4,0,0.266,2026-10-23,en_riesgo,True
+U000848,PixelPaw75,2025-05-15,america/argentina/buenos_aires,25-31,zorro,arte tradicional,telegram,False,3,5,0,1,0.753,2026-10-13,en_riesgo,True
+U000849,YukiInk62,2023-04-10,america/monterrey,25-31,tigre,arte digital,discord,False,65,203,3,2,0.047,2026-10-28,activo,True
+U000850,TalaWolf68,2024-01-19,america/monterrey,18-24,perro,arte tradicional,instagram,True,11,30,0,2,-0.15,2026-10-30,activo,True
+U000851,MikaCh'a31,2022-03-26,america/merida,18-24,lobo,cómics,tiktok,False,0,0,0,0,0.422,2026-10-23,en_riesgo,True
+U000852,NeoPelaje18,2023-07-03,america/merida,32-38,perro,escritura/historias,facebook,False,47,137,0,0,-0.119,2026-10-23,en_riesgo,True
+U000853,CobreMoon67,2025-05-26,america/mexico_city,32-38,husky,videojuegos,tiktok,False,3,7,0,0,0.829,2026-10-09,en_riesgo,True
+U000854,KibaHowl44,2026-08-31,america/mexico_city,32-38,lobo,arte digital,twitter/x,True,5,9,0,5,0.321,2026-10-13,en_riesgo,True
+U000855,CobreFang86,2025-02-08,america/mexico_city,18-24,zorro,convenciones,telegram,False,4,6,3,0,0.16,2026-10-20,en_riesgo,True
+U000856,LoboPelaje83,2024-01-17,america/lima,25-31,ave,streaming/contenido,telegram,False,14,45,0,0,0.539,2026-11-07,activo,False
+U000857,ZorriCh'a28,2025-05-08,america/cancun,25-31,zorro,streaming/contenido,tiktok,False,3,5,2,0,0.278,2026-10-02,en_riesgo,True
+U000858,MikaFang6,2025-04-23,america/los_angeles,18-24,zorro,arte digital,twitter/x,True,0,0,0,2,0.004,2026-10-17,en_riesgo,False
+U000859,NovaPelaje25,2025-03-03,america/lima,18-24,zorro,fursuit,facebook,False,5,7,4,0,0.131,2026-10-25,en_riesgo,True
+U000860,YukiCh'a39,2025-08-30,america/mexico_city,18-24,híbrido/otro,arte digital,facebook,True,0,0,0,0,0.793,2026-07-26,inactivo,True
+U000861,TalaFox23,2025-12-14,america/mexico_city,18-24,gato,arte tradicional,telegram,True,3,5,0,0,-0.073,2026-10-13,en_riesgo,True
+U000862,YukiClaw14,2026-03-30,america/mexico_city,32-38,gato,arte digital,telegram,True,0,0,0,0,0.324,2026-09-08,inactivo,True
+U000863,CobrePaw45,2026-09-14,america/mexico_city,32-38,dragón,convenciones,discord,False,16,62,2,0,-0.159,2026-11-08,activo,True
+U000864,LunaClaw13,2025-07-05,america/mexico_city,25-31,lobo,arte tradicional,tiktok,True,4,8,0,5,0.2,2026-11-06,activo,True
+U000865,SombraCh'a96,2024-01-27,america/mexico_city,18-24,lobo,convenciones,discord,True,101,207,1,0,0.084,2026-10-25,en_riesgo,True
+U000866,PixelFang75,2024-07-16,america/mexico_city,32-38,perro,streaming/contenido,telegram,False,6,8,0,0,0.637,2026-10-28,activo,True
+U000867,TalaPaw7,2023-11-12,america/merida,39+,híbrido/otro,cómics,instagram,False,7,14,0,0,0.362,2026-10-07,en_riesgo,True
+U000868,RuneFang52,2023-09-23,america/monterrey,18-24,gato,convenciones,twitter/x,False,9,17,1,0,0.165,2026-11-03,activo,False
+U000869,RexKin32,2025-05-28,america/mexico_city,18-24,coyote,videojuegos,tiktok,False,18,68,0,0,0.011,2026-10-10,en_riesgo,True
+U000870,AshWolf13,2024-08-21,america/mexico_city,18-24,lobo,cosplay,twitter/x,False,13,17,1,0,0.347,2026-10-20,en_riesgo,True
+U000871,LunaZac94,2024-01-02,america/mexico_city,25-31,ave,convenciones,telegram,True,6,14,0,0,0.178,2026-10-27,activo,True
+U000872,SombraTail57,2025-03-14,america/mexico_city,25-31,gato,convenciones,telegram,False,0,0,0,0,1.0,2026-03-19,inactivo,True
+U000873,BrunoTail90,2026-07-31,america/merida,32-38,husky,cosplay,telegram,False,2,5,2,0,0.122,2026-10-19,en_riesgo,True
+U000874,OnixMoon24,2022-01-27,america/mexico_city,32-38,conejo,streaming/contenido,tiktok,False,4,7,0,1,0.16,2026-10-19,en_riesgo,True
+U000875,NubeFang55,2024-03-13,america/santiago,18-24,zorro,música,telegram,False,0,0,0,0,0.203,2026-08-22,inactivo,True
+U000876,SolMoon54,2024-11-14,america/merida,25-31,perro,arte digital,facebook,True,3,3,2,3,-0.121,2026-10-22,en_riesgo,True
+U000877,YukiArt46,2025-06-01,america/monterrey,25-31,gato,música,tiktok,False,0,0,0,0,0.223,2025-12-23,inactivo,True
+U000878,SombraHowl81,2024-08-09,america/mexico_city,18-24,híbrido/otro,fursuit,twitter/x,False,5,12,1,5,0.382,2026-10-19,en_riesgo,True
+U000879,RuneWolf41,2026-10-04,america/mexico_city,18-24,coyote,streaming/contenido,instagram,False,2,3,0,1,0.486,2026-11-04,activo,True
+U000880,BrumaHowl81,2024-05-25,america/mexico_city,18-24,zorro,cómics,facebook,False,1,2,0,0,0.123,2026-10-25,en_riesgo,True
+U000881,KuroCh'a78,2022-09-15,america/chihuahua,18-24,gato,videojuegos,telegram,False,16,20,0,0,0.199,2026-10-25,en_riesgo,True
+U000882,MikaDash60,2022-05-08,america/merida,18-24,dragón,arte digital,instagram,True,0,0,0,1,0.88,2025-10-23,inactivo,True
+U000883,YukiClaw26,2025-05-01,america/tijuana,18-24,lobo,fursuit,telegram,False,0,0,1,5,0.168,2026-07-20,inactivo,True
+U000884,NeoPelaje43,2022-11-28,america/tijuana,32-38,zorro,arte digital,twitter/x,True,6,23,0,0,-0.019,2026-10-21,en_riesgo,False
+U000885,OnixTail36,2024-06-26,america/lima,25-31,lobo,cómics,discord,False,0,0,0,1,-0.141,2026-09-03,inactivo,True
+U000886,KibaClaw19,2024-10-08,america/mexico_city,39+,lobo,convenciones,instagram,False,11,15,1,1,0.869,2026-10-26,activo,True
+U000887,KibaWolf87,2026-08-17,america/cancun,32-38,zorro,arte digital,tiktok,True,16,59,0,0,0.878,2026-11-04,activo,True
+U000888,ZorriKin41,2026-06-09,america/merida,39+,híbrido/otro,videojuegos,twitter/x,False,10,35,0,0,0.404,2026-10-23,en_riesgo,True
+U000889,AshCh'a85,2024-08-14,america/mexico_city,18-24,gato,arte tradicional,discord,True,14,45,0,5,-0.428,2026-10-10,en_riesgo,False
+U000890,SolPelaje30,2023-09-24,america/mexico_city,18-24,zorro,cómics,instagram,False,2,7,0,0,0.629,2026-09-29,en_riesgo,True
+U000891,KibaClaw97,2022-09-11,america/cancun,39+,dragón,videojuegos,tiktok,False,3,9,0,0,0.134,2026-11-01,activo,True
+U000892,CobrePaw34,2024-06-20,america/mexico_city,18-24,conejo,fursuit,telegram,False,3,10,1,0,0.113,2026-11-01,activo,True
+U000893,SombraKin40,2026-08-26,america/bogota,18-24,gato,videojuegos,telegram,False,5,12,0,0,0.3,2026-10-02,en_riesgo,True
+U000894,CobreMoon79,2024-08-17,america/monterrey,32-38,lobo,streaming/contenido,twitter/x,False,0,0,0,0,0.835,2026-02-03,inactivo,True
+U000895,NubeByte81,2026-05-27,america/mexico_city,18-24,husky,videojuegos,facebook,False,2,4,0,0,-0.592,2026-10-14,en_riesgo,True
+U000896,ZorriPaw49,2022-05-18,america/los_angeles,18-24,perro,videojuegos,telegram,False,9,29,0,0,0.244,2026-10-31,activo,True
+U000897,ZorriDash39,2023-09-13,america/mexico_city,18-24,dragón,streaming/contenido,tiktok,False,0,0,0,0,0.232,2026-10-17,en_riesgo,True
+U000898,RexPelaje93,2023-02-03,america/mexico_city,18-24,gato,cómics,telegram,False,0,0,1,1,0.598,2026-08-17,inactivo,True
+U000899,TalaFox59,2026-04-15,america/merida,18-24,dragón,videojuegos,instagram,False,5,11,0,0,0.286,2026-09-22,en_riesgo,True
+U000900,KibaPelaje79,2025-08-27,america/mexico_city,25-31,dragón,música,facebook,True,0,0,0,0,0.391,2026-07-29,inactivo,False
+U000901,NubeWolf3,2024-06-19,america/mexico_city,25-31,perro,arte digital,telegram,True,0,0,0,5,0.107,2026-06-20,inactivo,True
+U000902,NeoCh'a76,2026-08-23,america/mexico_city,18-24,perro,escritura/historias,instagram,False,1,1,2,0,-0.151,2026-09-17,en_riesgo,True
+U000903,NeoByte55,2025-07-04,america/cancun,39+,gato,arte tradicional,telegram,True,2,3,0,2,-0.132,2026-09-16,en_riesgo,True
+U000904,ZetaSpark65,2023-04-22,america/mexico_city,32-38,dragón,música,telegram,False,3,8,0,0,-0.165,2026-11-05,activo,True
+U000905,KibaFox71,2022-04-16,america/mexico_city,18-24,conejo,arte tradicional,telegram,True,21,79,0,0,0.379,2026-10-30,activo,True
+U000906,ZorriMoon65,2025-11-02,america/merida,18-24,lobo,convenciones,tiktok,False,0,0,1,0,0.294,2026-10-05,en_riesgo,True
+U000907,YukiMoon81,2026-09-01,america/bogota,18-24,gato,arte digital,telegram,True,18,69,0,0,0.655,2026-10-31,activo,True
+U000908,ÁmbarInk25,2024-05-19,america/mexico_city,18-24,lobo,streaming/contenido,tiktok,False,15,20,0,0,0.117,2026-11-09,activo,False
+U000909,RuneFang31,2024-12-09,america/cancun,18-24,conejo,fursuit,telegram,False,1,2,0,5,0.067,2026-10-09,en_riesgo,True
+U000910,LunaMoon75,2026-10-31,america/merida,18-24,gato,convenciones,telegram,False,5,11,1,0,0.729,2026-10-31,activo,True
+U000911,ÁmbarFang82,2026-04-15,america/merida,25-31,zorro,arte digital,tiktok,True,4,5,0,3,0.702,2026-09-27,en_riesgo,True
+U000912,BrumaKin7,2023-03-20,america/mexico_city,18-24,husky,videojuegos,facebook,False,4,5,0,0,0.546,2026-11-05,activo,True
+U000913,YukiArt81,2025-08-09,america/merida,18-24,gato,arte tradicional,telegram,True,9,22,0,1,0.089,2026-11-04,activo,True
+U000914,LunaWolf23,2024-08-07,america/mexico_city,18-24,perro,arte digital,tiktok,False,82,283,0,2,-0.218,2026-11-05,activo,True
+U000915,MikaTail88,2024-03-12,america/mexico_city,25-31,coyote,arte tradicional,facebook,False,1,3,0,3,0.785,2026-10-13,en_riesgo,True
+U000916,FlareClaw54,2024-07-19,america/cancun,18-24,zorro,escritura/historias,facebook,False,31,83,0,0,0.013,2026-11-04,activo,False
+U000917,RuneCh'a31,2024-07-19,america/merida,25-31,zorro,fursuit,tiktok,False,120,391,0,3,0.382,2026-10-18,en_riesgo,True
+U000918,BrunoMaya54,2026-01-15,america/tijuana,32-38,reptil,arte digital,instagram,True,1,2,0,0,1.0,2026-09-25,en_riesgo,True
+U000919,MikaZac11,2025-04-26,america/mexico_city,25-31,perro,videojuegos,telegram,False,25,56,0,1,0.15,2026-11-08,activo,True
+U000920,RexClaw74,2025-03-18,america/mexico_city,18-24,gato,fursuit,telegram,False,0,0,0,3,0.258,2026-10-15,en_riesgo,True
+U000921,ÁmbarKin57,2023-03-27,america/mexico_city,32-38,gato,cosplay,facebook,False,0,0,1,0,-0.057,2026-07-03,inactivo,True
+U000922,KuroByte5,2025-07-31,america/merida,32-38,híbrido/otro,arte digital,instagram,False,4,5,0,2,0.234,2026-09-22,en_riesgo,True
+U000923,LoboByte39,2025-06-20,america/monterrey,18-24,perro,cosplay,facebook,False,0,0,0,0,0.011,2026-06-05,inactivo,True
+U000924,ÁmbarFang30,2024-10-01,america/cancun,18-24,perro,videojuegos,tiktok,False,81,322,0,0,0.177,2026-11-09,activo,True
+U000925,SombraKin13,2024-03-04,america/los_angeles,18-24,híbrido/otro,música,discord,False,11,33,0,0,0.238,2026-11-08,activo,True
+U000926,LoboPaw47,2025-12-17,america/merida,32-38,lobo,arte tradicional,instagram,True,0,0,0,2,0.13,2026-01-09,inactivo,True
+U000927,RexTail82,2025-01-19,america/mexico_city,39+,lobo,convenciones,instagram,True,0,0,1,0,0.401,2025-11-03,inactivo,True
+U000928,ZorriByte1,2025-09-05,america/mexico_city,18-24,gato,arte digital,facebook,False,0,0,0,1,-0.037,2026-08-25,inactivo,False
+U000929,NovaClaw55,2024-05-10,america/merida,18-24,coyote,música,facebook,False,3,9,0,0,0.431,2026-10-13,en_riesgo,True
+U000930,SolMoon66,2026-07-22,america/merida,32-38,zorro,música,discord,False,8,27,0,0,1.0,2026-10-27,activo,True
+U000931,AshPaw62,2024-12-06,america/merida,18-24,zorro,música,telegram,False,0,0,0,0,-0.056,2026-09-08,inactivo,True
+U000932,NovaCh'a78,2023-02-07,america/mexico_city,18-24,coyote,fursuit,tiktok,False,0,0,1,5,0.393,2025-10-11,inactivo,True
+U000933,KibaClaw92,2024-02-20,america/argentina/buenos_aires,18-24,lobo,arte tradicional,twitter/x,False,6,19,0,3,0.205,2026-11-07,activo,True
+U000934,TalaZac30,2026-03-05,america/mexico_city,25-31,lobo,cómics,facebook,False,0,0,0,0,0.042,2026-10-23,en_riesgo,True
+U000935,LunaByte3,2025-06-21,america/mexico_city,18-24,gato,música,facebook,False,0,0,0,0,0.24,2026-06-29,inactivo,True
+U000936,TalaWolf63,2023-11-29,america/los_angeles,25-31,híbrido/otro,escritura/historias,instagram,False,0,0,0,0,0.249,2026-08-16,inactivo,True
+U000937,BrunoPelaje51,2026-09-18,america/chihuahua,18-24,lobo,convenciones,telegram,False,3,10,2,0,0.733,2026-09-18,en_riesgo,True
+U000938,FlareMoon3,2023-09-17,america/mexico_city,32-38,híbrido/otro,videojuegos,telegram,False,9,16,1,0,0.061,2026-11-09,activo,True
+U000939,OnixFang64,2026-05-03,america/cancun,18-24,husky,fursuit,tiktok,False,3,6,0,5,-0.191,2026-11-01,activo,True
+U000940,NubeMoon60,2025-06-09,america/mexico_city,32-38,husky,streaming/contenido,telegram,False,0,0,0,0,0.877,2026-06-27,inactivo,True
+U000941,LoboSpark32,2023-09-04,america/merida,25-31,perro,arte digital,instagram,True,11,19,0,1,0.482,2026-11-03,activo,True
+U000942,FlareKin71,2026-05-12,america/mexico_city,18-24,coyote,arte tradicional,telegram,True,3,4,0,3,0.657,2026-10-02,en_riesgo,True
+U000943,RexKin70,2023-09-10,america/mexico_city,25-31,perro,arte digital,discord,True,13,47,0,0,-0.02,2026-10-31,activo,True
+U000944,AshCh'a38,2024-06-21,america/monterrey,25-31,husky,cómics,discord,False,12,46,0,0,0.605,2026-10-02,en_riesgo,True
+U000945,YukiMoon78,2023-10-12,america/mexico_city,18-24,lobo,streaming/contenido,facebook,False,1,2,0,0,0.009,2026-10-09,en_riesgo,True
+U000946,BrunoCh'a22,2025-02-28,america/mexico_city,18-24,zorro,streaming/contenido,tiktok,False,7,17,0,0,0.563,2026-09-20,en_riesgo,True
+U000947,NeoZac35,2024-10-22,america/mexico_city,25-31,gato,convenciones,facebook,False,0,0,1,1,0.31,2026-02-21,inactivo,True
+U000948,ÁmbarZac31,2026-07-27,america/merida,18-24,lobo,convenciones,facebook,False,2,4,0,0,0.073,2026-10-11,en_riesgo,True
+U000949,NovaArt26,2024-05-02,america/cancun,18-24,zorro,arte tradicional,telegram,True,9,14,0,5,0.537,2026-11-07,activo,True
+U000950,ZorriWolf40,2022-11-16,america/cancun,39+,dragón,videojuegos,instagram,False,1,3,1,0,0.216,2026-10-05,en_riesgo,True
+U000951,LunaDash18,2024-07-13,america/merida,18-24,perro,videojuegos,telegram,False,6,20,0,0,0.088,2026-11-01,activo,True
+U000952,TalaMaya4,2024-02-24,america/merida,18-24,gato,videojuegos,tiktok,False,3,8,0,0,0.687,2026-09-19,en_riesgo,True
+U000953,TalaPelaje30,2026-06-23,america/cancun,18-24,zorro,cómics,telegram,False,20,50,0,0,0.377,2026-11-05,activo,True
+U000954,KuroPelaje18,2023-08-25,america/cancun,39+,gato,arte digital,telegram,False,4,5,0,5,0.062,2026-09-26,en_riesgo,True
+U000955,ZorriByte53,2025-06-26,america/merida,18-24,conejo,videojuegos,instagram,False,12,25,0,0,0.478,2026-10-20,en_riesgo,True
+U000956,TalaFang1,2022-10-08,america/mexico_city,18-24,dragón,escritura/historias,facebook,False,5,13,0,0,-0.015,2026-10-23,en_riesgo,True
+U000957,NeoMaya73,2025-05-28,america/mexico_city,18-24,lobo,fursuit,facebook,False,2,2,0,2,0.784,2026-10-01,en_riesgo,False
+U000958,TalaMaya91,2025-02-01,america/mexico_city,25-31,husky,videojuegos,facebook,False,3,11,0,0,0.674,2026-11-01,activo,True
+U000959,KibaKin88,2022-03-23,america/bogota,25-31,coyote,música,twitter/x,False,1,2,1,0,0.615,2026-09-22,en_riesgo,True
+U000960,OnixZac67,2024-06-24,america/tijuana,18-24,conejo,arte tradicional,instagram,True,7,20,0,0,0.239,2026-11-02,activo,True
+U000961,YukiSpark3,2024-08-14,america/cancun,32-38,zorro,arte digital,discord,True,1,3,0,1,-0.605,2026-10-18,en_riesgo,True
+U000962,AshKin58,2024-01-22,america/mexico_city,18-24,dragón,cómics,facebook,False,4,14,0,1,0.181,2026-10-21,en_riesgo,True
+U000963,PixelDash9,2023-06-14,america/monterrey,18-24,husky,videojuegos,facebook,False,8,17,5,0,0.149,2026-10-09,en_riesgo,True
+U000964,ÁmbarPaw57,2024-09-19,america/mexico_city,32-38,conejo,arte digital,facebook,True,0,0,0,0,-0.457,2026-05-23,inactivo,True
+U000965,FlareHowl71,2023-12-23,america/mexico_city,25-31,conejo,arte tradicional,telegram,True,2,2,0,1,0.348,2026-09-17,en_riesgo,False
+U000966,LunaArt83,2023-03-21,america/cancun,32-38,perro,arte digital,telegram,True,8,15,0,3,0.173,2026-10-02,en_riesgo,False
+U000967,YukiWolf19,2025-07-05,america/mexico_city,18-24,dragón,videojuegos,tiktok,True,2,7,1,0,0.634,2026-09-23,en_riesgo,True
+U000968,NubeFox13,2024-10-21,america/argentina/buenos_aires,25-31,perro,escritura/historias,tiktok,False,4,15,0,0,0.142,2026-10-24,en_riesgo,True
+U000969,BrumaDash23,2026-06-06,america/mexico_city,18-24,gato,música,twitter/x,False,0,0,0,0,0.138,2026-07-30,inactivo,False
+U000970,YukiArt97,2024-08-20,america/mexico_city,18-24,reptil,cómics,tiktok,False,4,14,1,0,0.3,2026-11-08,activo,True
+U000971,NeoCh'a57,2025-06-05,america/mexico_city,18-24,lobo,escritura/historias,instagram,False,8,17,0,0,-0.038,2026-11-02,activo,True
+U000972,LunaFang88,2025-04-06,america/merida,18-24,lobo,convenciones,facebook,False,2,4,4,0,-0.247,2026-10-03,en_riesgo,False
+U000973,NovaWolf84,2024-05-08,america/mexico_city,32-38,dragón,videojuegos,telegram,False,3,11,1,0,0.64,2026-10-13,en_riesgo,True
+U000974,TalaMaya86,2026-02-09,america/mexico_city,18-24,reptil,cómics,twitter/x,False,4,11,0,0,0.892,2026-10-25,en_riesgo,True
+U000975,ZetaFox88,2026-08-14,america/merida,25-31,híbrido/otro,arte digital,facebook,True,3,10,0,2,0.13,2026-10-15,en_riesgo,True
+U000976,CobreMoon29,2025-12-29,america/lima,25-31,perro,arte digital,twitter/x,False,7,9,0,3,0.969,2026-10-29,activo,True
+U000977,TalaSpark80,2023-02-03,america/merida,25-31,ave,fursuit,telegram,False,4,14,1,0,-0.109,2026-11-06,activo,True
+U000978,TalaPaw76,2022-03-07,america/argentina/buenos_aires,18-24,husky,convenciones,tiktok,False,3,3,2,0,0.168,2026-10-25,en_riesgo,False
+U000979,SombraDash81,2023-04-22,america/mexico_city,18-24,perro,fursuit,facebook,False,0,0,0,0,-0.116,2026-06-13,inactivo,True
+U000980,ZetaZac80,2025-11-10,america/mexico_city,18-24,coyote,música,telegram,False,9,12,0,0,-0.004,2026-10-09,en_riesgo,True
+U000981,OnixInk56,2024-07-21,america/mexico_city,18-24,reptil,arte digital,telegram,True,3,10,0,3,0.3,2026-10-14,en_riesgo,True
+U000982,BrunoCh'a3,2025-12-12,america/mexico_city,25-31,reptil,arte digital,facebook,True,3,4,2,1,-0.158,2026-11-08,activo,True
+U000983,NubeDash49,2025-01-04,america/mexico_city,18-24,lobo,videojuegos,telegram,False,3,8,0,0,0.103,2026-09-25,en_riesgo,False
+U000984,SolFang86,2024-07-29,america/mexico_city,18-24,lobo,cómics,telegram,True,29,63,1,0,0.029,2026-10-26,activo,True
+U000985,ZorriHowl88,2025-02-09,america/mexico_city,18-24,coyote,convenciones,discord,False,12,30,0,0,0.089,2026-10-31,activo,True
+U000986,BrunoMoon60,2023-01-26,america/argentina/buenos_aires,18-24,lobo,videojuegos,tiktok,False,4,6,0,0,-0.104,2026-10-02,en_riesgo,True
+U000987,BrunoInk11,2023-08-07,america/cancun,32-38,lobo,videojuegos,telegram,False,2,5,0,0,0.506,2026-10-09,en_riesgo,True
+U000988,ÁmbarMoon92,2025-10-13,america/mexico_city,18-24,lobo,arte tradicional,telegram,True,9,33,0,3,0.292,2026-10-19,en_riesgo,True
+U000989,SolSpark76,2025-09-21,europe/madrid,18-24,gato,arte digital,telegram,True,7,12,0,1,0.324,2026-11-09,activo,True
+U000990,SolWolf97,2026-02-19,america/bogota,25-31,lobo,cómics,tiktok,False,0,0,0,0,0.364,2026-04-22,inactivo,True
+U000991,NubePelaje46,2024-05-17,america/merida,25-31,lobo,música,tiktok,False,0,0,0,0,0.487,2026-04-01,inactivo,True
+U000992,NubeMaya7,2023-04-24,america/merida,39+,reptil,streaming/contenido,instagram,False,4,10,1,0,-0.079,2026-10-11,en_riesgo,True
+U000993,LunaWolf15,2023-07-18,america/mexico_city,18-24,gato,cómics,discord,False,0,0,0,0,0.307,2026-07-24,inactivo,True
+U000994,CobrePelaje66,2023-03-23,america/mexico_city,25-31,lobo,escritura/historias,facebook,False,6,22,0,0,0.269,2026-10-25,en_riesgo,False
+U000995,ZetaMoon31,2022-08-03,america/chihuahua,18-24,híbrido/otro,convenciones,telegram,False,3,5,1,0,0.301,2026-11-09,activo,True
+U000996,MikaWolf68,2023-08-31,america/monterrey,25-31,híbrido/otro,cosplay,telegram,False,2,6,0,0,-0.075,2026-10-11,en_riesgo,True
+U000997,NovaByte3,2025-10-04,america/mexico_city,25-31,zorro,arte digital,facebook,False,4,14,0,5,0.064,2026-10-08,en_riesgo,True
+U000998,TalaFang51,2024-02-09,america/mexico_city,25-31,híbrido/otro,escritura/historias,telegram,False,0,0,0,0,-0.156,2026-08-23,inactivo,False
+U000999,NovaPelaje42,2022-06-13,america/mexico_city,25-31,dragón,videojuegos,twitter/x,False,7,14,0,0,0.515,2026-10-28,activo,True
+U001000,BrumaByte20,2023-03-06,america/mexico_city,18-24,híbrido/otro,videojuegos,telegram,False,68,202,1,0,-0.001,2026-11-05,activo,True
+U001001,KuroHowl40,2025-01-24,america/mexico_city,25-31,coyote,streaming/contenido,tiktok,False,0,0,0,0,0.566,2026-02-05,inactivo,True
+U001002,BrunoCh'a31,2022-09-11,america/mexico_city,18-24,coyote,convenciones,facebook,False,0,0,1,0,-0.579,2026-10-08,en_riesgo,True
+U001003,LunaClaw82,2023-07-05,america/argentina/buenos_aires,18-24,gato,fursuit,tiktok,False,10,36,1,1,0.212,2026-10-28,activo,True
+U001004,AshMaya58,2026-06-15,america/bogota,18-24,reptil,cómics,facebook,False,2,4,0,0,0.515,2026-11-05,activo,True
+U001005,ZorriClaw4,2024-07-26,america/merida,32-38,perro,fursuit,telegram,False,7,24,0,3,0.087,2026-11-02,activo,True
+U001006,SolPaw51,2023-07-20,america/mexico_city,25-31,lobo,música,telegram,False,2,4,0,0,-0.143,2026-09-30,en_riesgo,False
+U001007,LoboFang67,2025-02-12,america/merida,32-38,coyote,videojuegos,twitter/x,False,2,6,0,0,0.258,2026-10-23,en_riesgo,True
+U001008,ZetaDash51,2024-05-28,america/mexico_city,25-31,gato,cómics,tiktok,False,15,40,2,0,0.153,2026-11-04,activo,True
+U001009,RuneSpark14,2023-07-04,america/merida,18-24,lobo,videojuegos,twitter/x,False,5,15,0,0,1.0,2026-11-05,activo,True
+U001010,RuneFang70,2025-11-24,america/monterrey,18-24,híbrido/otro,música,telegram,False,9,27,0,0,-0.269,2026-11-06,activo,True
+U001011,MikaFox43,2024-08-22,america/mexico_city,25-31,híbrido/otro,música,instagram,False,0,0,1,0,-0.341,2026-02-09,inactivo,True
+U001012,ÁmbarKin97,2022-04-20,america/mexico_city,18-24,ave,videojuegos,telegram,False,13,26,0,0,0.726,2026-11-05,activo,True
+U001013,TalaTail55,2024-10-03,america/cancun,25-31,reptil,arte digital,facebook,False,0,0,1,0,0.232,2026-03-04,inactivo,True
+U001014,OnixArt12,2023-07-17,america/monterrey,18-24,dragón,arte digital,facebook,True,11,27,0,3,-0.274,2026-11-09,activo,False
+U001015,LunaPelaje12,2022-07-06,america/merida,18-24,lobo,arte tradicional,telegram,False,0,0,0,0,0.149,2026-05-05,inactivo,True
+U001016,OnixByte86,2026-02-12,america/cancun,18-24,perro,arte digital,facebook,False,0,0,3,0,0.08,2026-09-04,inactivo,True
+U001017,ZetaMaya47,2023-05-09,america/mexico_city,39+,lobo,arte digital,instagram,False,0,0,0,3,0.042,2026-06-23,inactivo,True
+U001018,KuroHowl87,2026-02-14,america/mexico_city,25-31,lobo,arte digital,telegram,True,2,5,0,5,0.618,2026-11-04,activo,True
+U001019,RexPaw63,2024-07-21,america/mexico_city,32-38,zorro,arte digital,facebook,True,3,7,0,5,0.496,2026-10-16,en_riesgo,True
+U001020,RexWolf87,2022-04-22,america/santiago,18-24,coyote,streaming/contenido,instagram,False,4,13,0,1,0.399,2026-10-08,en_riesgo,True
+U001021,NovaFox59,2025-04-21,america/mexico_city,39+,lobo,cosplay,twitter/x,False,0,0,1,0,0.565,2025-12-07,inactivo,False
+U001022,TalaFang86,2025-01-22,america/merida,18-24,perro,convenciones,instagram,False,2,4,0,0,0.083,2026-10-23,en_riesgo,True
+U001023,YukiZac64,2025-09-02,america/cancun,25-31,zorro,videojuegos,twitter/x,False,0,0,0,0,-0.103,2026-03-18,inactivo,True
+U001024,SombraFox14,2024-09-06,america/argentina/buenos_aires,18-24,lobo,cosplay,facebook,False,17,43,1,0,-0.39,2026-10-31,activo,True
+U001025,MikaPaw35,2026-01-23,america/santiago,18-24,lobo,videojuegos,tiktok,True,0,0,0,0,0.624,2026-01-23,inactivo,True
+U001026,ZorriClaw36,2026-02-10,america/mexico_city,18-24,ave,fursuit,discord,False,2,3,3,0,0.087,2026-09-23,en_riesgo,False
+U001027,CobreTail81,2023-03-09,america/tijuana,32-38,perro,arte digital,facebook,True,5,10,2,2,-0.143,2026-11-02,activo,True
+U001028,YukiCh'a16,2023-06-21,america/monterrey,25-31,híbrido/otro,arte digital,twitter/x,True,18,22,0,0,0.194,2026-11-03,activo,True
+U001029,PixelByte77,2025-12-14,america/mexico_city,18-24,lobo,cómics,telegram,False,1,2,0,1,-0.021,2026-09-14,en_riesgo,True
+U001030,TalaClaw65,2025-07-14,america/cancun,25-31,ave,música,tiktok,False,2,6,0,0,0.034,2026-11-06,activo,False
+U001031,BrumaInk33,2025-10-21,america/lima,18-24,zorro,fursuit,facebook,False,5,18,2,0,0.247,2026-11-01,activo,True
+U001032,CobreArt69,2026-11-08,america/mexico_city,25-31,gato,música,tiktok,False,21,47,0,0,0.631,2026-11-08,activo,False
+U001033,TalaInk29,2026-02-04,america/mexico_city,39+,husky,arte digital,telegram,True,0,0,0,5,0.486,2026-06-25,inactivo,True
+U001034,RexPelaje41,2026-05-03,america/monterrey,25-31,conejo,arte tradicional,instagram,True,11,36,0,1,0.401,2026-11-04,activo,True
+U001035,BrunoClaw61,2025-02-28,america/mexico_city,32-38,dragón,cómics,instagram,False,0,0,0,0,0.457,2026-01-06,inactivo,True
+U001036,ÁmbarCh'a50,2024-12-04,america/mexico_city,18-24,coyote,fursuit,facebook,False,0,0,1,0,0.462,2026-02-19,inactivo,False
+U001037,ZorriClaw29,2025-01-24,america/lima,25-31,husky,arte digital,tiktok,True,22,84,0,3,0.298,2026-10-03,en_riesgo,True
+U001038,ZetaPelaje38,2025-01-09,america/mexico_city,18-24,husky,arte tradicional,tiktok,True,4,13,6,5,0.064,2026-10-17,en_riesgo,True
+U001039,PixelByte54,2026-08-19,america/santiago,18-24,husky,streaming/contenido,telegram,False,4,15,0,1,0.023,2026-11-06,activo,True
+U001040,RuneKin95,2026-08-16,america/mexico_city,18-24,zorro,arte digital,tiktok,True,10,16,0,5,-0.143,2026-11-04,activo,True
+U001041,YukiInk5,2023-07-06,america/mexico_city,18-24,híbrido/otro,videojuegos,discord,False,2,7,0,0,-0.115,2026-09-15,en_riesgo,False
+U001042,FlareFox82,2024-02-17,america/mexico_city,18-24,lobo,convenciones,discord,False,11,24,0,1,-0.003,2026-10-26,activo,False
+U001043,KibaInk65,2026-02-13,america/los_angeles,18-24,dragón,arte digital,telegram,True,4,12,0,0,0.786,2026-11-07,activo,True
+U001044,TalaByte30,2022-06-03,america/merida,32-38,perro,videojuegos,facebook,False,23,29,5,1,0.671,2026-10-07,en_riesgo,True
+U001045,ZetaTail89,2026-07-13,america/mexico_city,39+,gato,arte digital,facebook,True,0,0,2,1,0.128,2026-07-13,inactivo,True
+U001046,BrumaMoon96,2022-06-06,america/monterrey,25-31,gato,cómics,telegram,False,12,28,0,0,0.078,2026-10-28,activo,True
+U001047,MikaHowl89,2022-10-20,america/bogota,18-24,híbrido/otro,videojuegos,instagram,False,5,16,0,0,0.566,2026-11-05,activo,False
+U001048,ZorriCh'a76,2025-02-28,america/merida,39+,coyote,streaming/contenido,instagram,False,2,7,0,0,0.226,2026-09-23,en_riesgo,False
+U001049,ZetaHowl60,2024-06-15,america/mexico_city,25-31,conejo,cosplay,discord,False,0,0,0,0,0.397,2026-08-24,inactivo,True
+U001050,BrunoMaya1,2024-07-04,america/mexico_city,18-24,gato,arte tradicional,telegram,True,6,13,0,5,0.354,2026-10-14,en_riesgo,True
+U001051,MikaHowl13,2023-04-25,america/santiago,39+,dragón,streaming/contenido,facebook,False,0,0,0,0,0.219,2025-10-23,inactivo,True
+U001052,LunaHowl33,2024-02-07,america/merida,25-31,perro,cómics,telegram,False,4,14,0,0,0.75,2026-10-07,en_riesgo,True
+U001053,BrumaInk78,2025-03-21,america/monterrey,18-24,perro,arte digital,instagram,False,4,10,0,5,0.436,2026-10-29,activo,True
+U001054,YukiTail89,2025-12-30,america/mexico_city,25-31,reptil,videojuegos,facebook,False,2,3,0,0,0.456,2026-10-10,en_riesgo,True
+U001055,PixelClaw73,2026-02-24,america/mexico_city,32-38,perro,videojuegos,telegram,False,69,97,0,0,-0.007,2026-11-05,activo,True
+U001056,LoboDash55,2023-09-23,america/bogota,39+,gato,arte digital,tiktok,True,10,13,0,0,0.769,2026-11-06,activo,True
+U001057,FlareArt63,2024-08-20,america/mexico_city,25-31,dragón,arte digital,facebook,True,186,493,0,1,0.497,2026-11-07,activo,True
+U001058,FlareMaya72,2026-04-08,america/merida,32-38,zorro,escritura/historias,tiktok,False,4,12,0,0,-0.313,2026-11-07,activo,True
+U001059,KibaDash46,2026-01-12,america/monterrey,18-24,gato,arte tradicional,facebook,True,7,8,0,3,0.726,2026-11-05,activo,True
+U001060,TalaMoon67,2023-01-29,america/santiago,18-24,lobo,videojuegos,facebook,True,6,7,0,1,0.439,2026-10-27,activo,True
+U001061,SolFang69,2025-08-07,america/mexico_city,32-38,gato,arte tradicional,instagram,True,7,19,0,1,0.457,2026-10-29,activo,True
+U001062,YukiInk94,2022-08-26,america/mexico_city,18-24,gato,fursuit,instagram,False,26,42,0,0,0.127,2026-10-30,activo,False
+U001063,RexMaya47,2022-11-29,america/monterrey,18-24,híbrido/otro,cómics,twitter/x,False,5,8,0,0,0.484,2026-10-05,en_riesgo,True
+U001064,ÁmbarInk38,2025-12-09,america/cancun,39+,gato,arte digital,tiktok,True,7,25,0,0,-0.129,2026-10-31,activo,True
+U001065,TalaArt47,2022-03-01,america/mexico_city,39+,lobo,arte digital,telegram,True,0,0,0,2,0.368,2025-11-13,inactivo,True
+U001066,YukiByte23,2024-07-12,america/chihuahua,18-24,híbrido/otro,cómics,instagram,False,8,29,0,1,0.938,2026-11-09,activo,True
+U001067,CobreInk45,2022-06-26,america/mexico_city,18-24,zorro,arte digital,facebook,True,0,0,0,2,0.825,2026-07-18,inactivo,True
+U001068,MikaTail95,2023-11-23,america/mexico_city,18-24,lobo,cosplay,instagram,False,2,6,0,0,0.159,2026-10-15,en_riesgo,True

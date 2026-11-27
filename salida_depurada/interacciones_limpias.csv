@@ -1,0 +1,208 @@
+id_interaccion,id_usuario,timestamp,canal,tipo,texto,tema,sentimiento,idioma,dispositivo,longitud_texto,reacciones_recibidas
+I0001825,U000852,2026-10-28 16:59:03+00:00,facebook,comentario,¿Alguien conoce bandas locales de la región?,musica,0.86,es,android,44,2
+I0004013,U000176,2026-10-28 12:00:28+00:00,instagram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.23,es,android,58,5
+I0003658,U000285,2026-10-16 22:29:37+00:00,twitter/x,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.69,es,android,38,0
+I0000521,U000849,2026-11-06 22:51:00+00:00,instagram,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.56,es,android,61,3
+I0004553,U000828,2026-10-13 04:45:29+00:00,facebook,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.19,es,android,61,4
+I0001675,U000169,2026-10-18 02:15:40+00:00,facebook,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.59,es,android,63,1
+I0005882,U000361,2026-10-26 06:53:00+00:00,instagram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.87,es,ios,54,1
+I0009892,U000495,2026-10-25 23:29:02+00:00,tiktok,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.83,es,escritorio,64,3
+I0005926,U000259,2026-11-07 21:14:24+00:00,telegram,reaccion,,eventos_convenciones,-0.2,es,ios,0,1
+I0003151,U000002,2026-10-21 13:47:32+00:00,tiktok,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.61,es,android,38,2
+I0001140,U001006,2026-10-27 12:35:27+00:00,telegram,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.34,es,ios,38,0
+I0003734,U000329,2026-10-13 18:58:01+00:00,telegram,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.35,es,escritorio,52,7
+I0003815,U000208,2026-10-24 15:07:56+00:00,telegram,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.68,es,android,52,1
+I0001655,U000477,2026-10-19 23:08:50+00:00,twitter/x,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.85,es,web,58,7
+I0001170,U000002,2026-10-25 16:55:54+00:00,twitter/x,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.64,es,escritorio,63,0
+I0008752,U000002,2026-10-19 09:35:09+00:00,tiktok,comentario,¿Alguien conoce bandas locales de la región?,musica,0.17,es,ios,44,2
+I0002678,U000845,2026-10-20 01:42:53+00:00,instagram,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.67,es,android,48,1
+I0005314,U000678,2026-10-10 21:46:17+00:00,twitter/x,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.65,es,android,52,1
+I0003753,U000483,2026-10-30 10:53:48+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.44,es,android,54,0
+I0003457,U000521,2026-10-25 03:16:42+00:00,facebook,reaccion,,fursuits,0.76,es,android,0,0
+I0003484,U000483,2026-10-12 21:37:54+00:00,telegram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.77,es,android,57,3
+I0006483,U000375,2026-10-19 19:02:48+00:00,facebook,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.79,es,web,70,3
+I0004340,U000997,2026-10-26 16:59:39+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.19,es,ios,50,3
+I0009198,U000002,2026-10-26 08:55:11+00:00,facebook,respuesta_encuesta,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.63,es,ios,55,1
+I0009578,U000285,2026-10-28 12:23:30+00:00,telegram,reaccion,,reglas_moderacion,0.42,es,android,0,2
+I0002267,U001044,2026-10-16 11:23:13+00:00,instagram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.77,es,android,54,5
+I0001490,U000078,2026-10-31 17:19:51+00:00,discord,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.94,es,android,63,4
+I0006917,U000641,2026-10-29 09:50:28+00:00,telegram,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.52,es,android,60,0
+I0009772,U000145,2026-10-15 18:55:32+00:00,telegram,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.79,es,android,77,2
+I0001041,U000878,2026-10-18 21:05:57+00:00,instagram,reaccion,,videojuegos,0.65,es,android,0,5
+I0006253,U000350,2026-10-21 05:06:26+00:00,facebook,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.28,es,escritorio,50,0
+I0008670,U000172,2026-10-14 09:06:54+00:00,twitter/x,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.52,es,ios,54,4
+I0001877,U000654,2026-10-23 08:53:52+00:00,instagram,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.55,es,android,43,1
+I0004809,U001057,2026-10-16 10:27:23+00:00,instagram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.46,es,android,54,7
+I0000054,U000661,2026-11-02 21:28:51+00:00,telegram,mensaje,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.6,es,android,50,2
+I0001291,U000002,2026-11-08 23:25:39+00:00,instagram,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.7,es,android,58,3
+I0001404,U000924,2026-11-06 15:38:28+00:00,telegram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.66,es,ios,50,2
+I0002061,U000259,2026-10-30 23:46:13+00:00,telegram,reaccion,,arte_comisiones,0.55,es,ios,0,2
+I0003471,U000103,2026-11-01 18:24:47+00:00,tiktok,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.34,es,android,52,0
+I0005108,U000558,2026-10-20 22:44:02+00:00,tiktok,comentario,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.8,es,android,58,2
+I0001050,U000002,2026-11-03 04:02:49+00:00,telegram,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.83,es,ios,52,0
+I0005540,U000150,2026-10-23 12:56:14+00:00,facebook,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.56,es,android,54,1
+I0003609,U000208,2026-11-07 15:36:37+00:00,telegram,reaccion,,seguridad_privacidad,0.8,es,ios,0,0
+I0000118,U000840,2026-10-20 13:11:18+00:00,discord,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.89,es,android,65,0
+I0008424,U000659,2026-10-12 10:57:53+00:00,facebook,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.33,es,web,38,0
+I0009441,U000868,2026-10-26 14:07:43+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.75,es,android,77,3
+I0007745,U000884,2026-10-22 01:58:07+00:00,instagram,mensaje,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.72,es,escritorio,70,1
+I0003982,U000425,2026-11-08 10:04:56+00:00,facebook,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.73,es,android,54,0
+I0003120,U000257,2026-10-30 13:15:13+00:00,facebook,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.41,es,android,64,6
+I0005805,U001007,2026-10-14 05:07:12+00:00,discord,reaccion,,reglas_moderacion,0.28,es,android,0,1
+I0006597,U000495,2026-10-15 00:15:10+00:00,telegram,reaccion,,videojuegos,0.79,es,android,0,0
+I0003117,U000012,2026-11-04 18:11:17+00:00,facebook,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.28,es,android,54,2
+I0002297,U000124,2026-11-04 02:28:43+00:00,twitter/x,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.47,es,android,77,0
+I0007261,U000678,2026-11-03 20:26:27+00:00,facebook,reaccion,,memes_humor,0.18,es,android,0,0
+I0007887,U000507,2026-11-08 23:50:15+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.65,es,ios,54,0
+I0006210,U000660,2026-10-30 23:12:18+00:00,facebook,respuesta_encuesta,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.61,es,ios,58,1
+I0007455,U000139,2026-10-21 20:56:56+00:00,twitter/x,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.46,es,android,50,0
+I0009106,U000924,2026-10-31 14:40:30+00:00,telegram,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.41,es,android,61,5
+I0000822,U000483,2026-10-19 07:45:51+00:00,facebook,reaccion,,musica,0.37,es,android,0,2
+I0007812,U000865,2026-10-25 10:40:30+00:00,telegram,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.88,es,escritorio,43,3
+I0009750,U000145,2026-10-17 17:18:44+00:00,telegram,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.8,es,android,54,0
+I0009486,U000169,2026-10-23 18:47:47+00:00,facebook,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.29,es,web,43,1
+I0006869,U000581,2026-11-05 16:46:51+00:00,tiktok,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.51,es,ios,58,0
+I0004273,U000483,2026-11-05 17:42:54+00:00,telegram,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.46,es,android,63,6
+I0005148,U000169,2026-10-16 16:02:15+00:00,telegram,reaccion,,videojuegos,0.6,es,android,0,0
+I0006485,U000440,2026-11-07 22:17:20+00:00,telegram,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.27,es,escritorio,64,1
+I0001639,U000642,2026-10-16 12:58:09+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.18,es,android,50,2
+I0003493,U000213,2026-10-12 14:35:53+00:00,twitter/x,comentario,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.83,es,android,63,0
+I0004670,U000286,2026-11-03 22:37:32+00:00,tiktok,respuesta_encuesta,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.89,es,ios,58,4
+I0000129,U000002,2026-10-10 02:00:45+00:00,telegram,reaccion,,videojuegos,0.92,es,android,0,7
+I0009087,U000738,2026-11-07 20:08:28+00:00,facebook,respuesta_encuesta,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.76,es,android,54,2
+I0001892,U000868,2026-10-29 15:36:56+00:00,instagram,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.59,es,android,63,2
+I0001754,U000002,2026-11-07 22:10:09+00:00,twitter/x,mensaje,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.34,es,android,55,6
+I0004463,U000759,2026-10-26 18:13:10+00:00,telegram,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.83,es,web,61,8
+I0004617,U000598,2026-10-15 13:24:55+00:00,facebook,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.25,es,escritorio,63,7
+I0003451,U000380,2026-10-27 09:37:49+00:00,instagram,rsvp_evento,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.5,es,android,58,3
+I0002648,U000308,2026-10-13 20:10:19+00:00,instagram,mensaje,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.35,es,ios,47,0
+I0002089,U000058,2026-10-25 01:37:59+00:00,instagram,reaccion,,videojuegos,0.33,es,android,0,3
+I0002663,U000235,2026-11-02 01:36:08+00:00,facebook,respuesta_encuesta,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.81,es,escritorio,57,0
+I0002939,U000036,2026-10-22 16:56:28+00:00,telegram,reaccion,,arte_comisiones,0.27,es,android,0,5
+I0005443,U001012,2026-10-26 20:34:44+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.56,es,android,54,5
+I0006746,U000840,2026-10-27 11:07:12+00:00,twitter/x,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.39,es,android,58,12
+I0001772,U000187,2026-10-12 13:48:59+00:00,instagram,mensaje,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.47,es,android,57,1
+I0000635,U000866,2026-10-18 05:58:51+00:00,instagram,reaccion,,fursuits,0.34,es,android,0,4
+I0005001,U000495,2026-10-15 23:53:10+00:00,telegram,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.91,es,android,77,0
+I0003729,U000944,2026-11-05 15:53:49+00:00,facebook,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.76,es,android,60,9
+I0005379,U000493,2026-10-14 05:56:25+00:00,discord,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.65,es,ios,54,1
+I0001138,U000917,2026-10-25 16:55:38+00:00,telegram,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.37,es,escritorio,58,0
+I0005754,U000011,2026-10-28 01:14:28+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.95,es,web,52,1
+I0008347,U000477,2026-10-21 02:58:14+00:00,tiktok,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.63,es,escritorio,48,1
+I0001890,U000091,2026-10-27 17:43:35+00:00,facebook,comentario,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.48,es,ios,48,1
+I0004350,U000292,2026-10-19 10:03:22+00:00,discord,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.61,es,android,54,0
+I0009775,U000381,2026-11-04 03:55:58+00:00,telegram,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.64,es,escritorio,44,4
+I0007150,U000274,2026-10-16 11:06:04+00:00,telegram,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.93,es,ios,48,4
+I0007145,U000039,2026-10-19 06:59:10+00:00,telegram,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.42,es,web,48,5
+I0005968,U000014,2026-10-19 08:59:15+00:00,facebook,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.68,es,ios,52,1
+I0004921,U000002,2026-11-07 01:14:33+00:00,tiktok,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.95,es,ios,58,1
+I0008309,U000820,2026-10-16 11:39:31+00:00,instagram,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.78,es,web,60,1
+I0005345,U000190,2026-11-04 18:45:43+00:00,telegram,mensaje,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.83,es,web,63,3
+I0009325,U001045,2026-10-23 10:19:06+00:00,tiktok,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.58,es,android,60,1
+I0004979,U000917,2026-11-04 07:24:21+00:00,telegram,reaccion,,reglas_moderacion,-0.79,es,ios,0,7
+I0005280,U001055,2026-10-24 14:00:55+00:00,telegram,respuesta_encuesta,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.86,es,android,47,2
+I0007619,U000483,2026-10-26 08:57:54+00:00,facebook,mensaje,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.9,es,android,58,1
+I0003502,U000924,2026-10-11 17:12:04+00:00,telegram,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.61,es,web,63,0
+I0004650,U001064,2026-11-05 03:03:36+00:00,facebook,rsvp_evento,"Terminé mi cabeza de cartón, ¿qué les parece el resultado?",fursuits,0.27,es,android,58,0
+I0005492,U001057,2026-11-05 02:47:50+00:00,telegram,comentario,"Alguien filtró capturas privadas del grupo, necesitamos más seguridad.",seguridad_privacidad,-0.2,es,android,70,0
+I0005086,U000659,2026-10-26 04:33:04+00:00,tiktok,comentario,Pagué una comisión hace semanas y el artista no responde.,arte_comisiones,-0.81,es,escritorio,57,0
+I0000401,U000828,2026-11-03 05:47:37+00:00,telegram,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.47,es,escritorio,48,0
+I0000758,U000653,2026-10-19 03:51:29+00:00,instagram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.69,es,android,60,2
+I0004012,U000916,2026-10-16 11:52:29+00:00,instagram,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.59,es,escritorio,54,4
+I0003998,U001057,2026-11-06 01:13:20+00:00,facebook,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.45,es,ios,55,2
+I0002418,U000003,2026-10-19 09:07:49+00:00,tiktok,rsvp_evento,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.23,es,web,64,8
+I0001747,U000667,2026-11-02 07:59:12+00:00,telegram,comentario,¿Quién juega esta noche? Armamos sala.,videojuegos,0.48,es,ios,38,0
+I0006966,U000002,2026-10-26 08:58:44+00:00,instagram,respuesta_encuesta,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.32,es,ios,77,2
+I0003586,U000951,2026-10-10 05:30:32+00:00,facebook,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.89,es,web,63,5
+I0002882,U000002,2026-10-13 09:18:27+00:00,telegram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.72,es,web,64,3
+I0002185,U000578,2026-10-25 15:19:34+00:00,twitter/x,mensaje,"Buen aviso sobre estafas de comisiones, gracias.",seguridad_privacidad,0.6,es,android,48,6
+I0007613,U001057,2026-10-11 18:12:43+00:00,telegram,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.88,es,ios,54,2
+I0009158,U001019,2026-10-11 16:40:26+00:00,facebook,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.61,es,ios,63,1
+I0008977,U000053,2026-10-24 23:39:28+00:00,facebook,comentario,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.53,es,android,55,3
+I0008541,U000749,2026-10-12 22:17:03+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.93,es,web,52,0
+I0005239,U000511,2026-10-18 19:43:43+00:00,telegram,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.21,es,android,54,3
+I0001321,U000801,2026-10-23 05:32:40+00:00,facebook,reaccion,,reglas_moderacion,-0.73,es,android,0,1
+I0006813,U000169,2026-10-28 02:20:16+00:00,telegram,reaccion,,fursuits,-0.89,es,android,0,11
+I0006884,U000002,2026-10-24 20:51:40+00:00,instagram,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.42,es,android,54,0
+I0000321,U000292,2026-10-20 08:54:19+00:00,twitter/x,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.32,es,ios,61,0
+I0008948,U001037,2026-10-13 06:03:15+00:00,facebook,comentario,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.69,es,ios,54,0
+I0009884,U000192,2026-10-29 00:07:40+00:00,instagram,mensaje,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.17,es,android,61,8
+I0000476,U000749,2026-10-10 23:34:05+00:00,instagram,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.28,es,ios,50,0
+I0009698,U000186,2026-10-11 03:25:33+00:00,discord,mensaje,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.66,es,escritorio,54,8
+I0004134,U000408,2026-10-31 09:45:50+00:00,discord,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.49,es,web,77,0
+I0007706,U000997,2026-10-29 03:00:08+00:00,instagram,comentario,Los fursuits profesionales están carísimos para nuestra región.,fursuits,-0.46,es,escritorio,63,9
+I0000660,U000423,2026-11-06 09:49:05+00:00,discord,respuesta_encuesta,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.2,es,ios,48,1
+I0009241,U001024,2026-10-18 21:03:07+00:00,facebook,rsvp_evento,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.68,es,android,54,7
+I0006044,U000523,2026-10-25 01:47:14+00:00,telegram,reaccion,,videojuegos,0.51,es,ios,0,1
+I0002684,U000329,2026-10-11 14:03:37+00:00,telegram,reaccion,,videojuegos,-0.43,es,android,0,1
+I0005097,U000924,2026-10-18 10:32:18+00:00,instagram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.69,es,android,63,0
+I0006499,U000047,2026-10-16 11:24:01+00:00,telegram,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.79,es,android,61,2
+I0009838,U000174,2026-10-26 17:35:59+00:00,instagram,mensaje,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.21,es,android,63,3
+I0005591,U001057,2026-10-26 22:43:31+00:00,discord,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.17,es,escritorio,60,2
+I0000208,U001044,2026-11-02 10:07:22+00:00,telegram,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.33,es,android,54,0
+I0008032,U000367,2026-10-28 18:28:38+00:00,telegram,comentario,"Mejor sticker pack de la semana, sin discusión.",memes_humor,0.86,es,web,47,1
+I0004426,U000258,2026-10-29 08:09:18+00:00,twitter/x,respuesta_encuesta,"Les comparto mi playlist para dibujar, está bien chida.",musica,0.57,es,android,55,2
+I0004398,U000702,2026-10-23 15:42:42+00:00,discord,respuesta_encuesta,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.27,es,web,58,1
+I0010000,U001055,2026-10-13 11:47:07+00:00,tiktok,comentario,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.44,es,android,65,0
+I0009107,U000971,2026-10-22 11:37:58+00:00,telegram,reaccion,,eventos_convenciones,0.84,es,ios,0,3
+I0008465,U000012,2026-10-12 17:30:53+00:00,instagram,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.59,es,escritorio,45,1
+I0009097,U000859,2026-10-25 16:05:13+00:00,tiktok,rsvp_evento,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.95,es,android,52,2
+I0007801,U000483,2026-10-14 13:20:37+00:00,telegram,comentario,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.23,es,escritorio,77,4
+I0005017,U000112,2026-11-06 08:02:33+00:00,facebook,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.23,es,android,60,3
+I0006047,U000144,2026-11-03 11:50:33+00:00,facebook,respuesta_encuesta,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.81,es,android,52,2
+I0009069,U000659,2026-10-11 08:28:50+00:00,tiktok,mensaje,"Cambiaron la fecha del evento otra vez, así es imposible planear.",eventos_convenciones,-0.6,es,escritorio,65,4
+I0008699,U001000,2026-10-16 09:57:07+00:00,twitter/x,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.31,es,android,44,11
+I0003778,U000865,2026-10-26 06:13:41+00:00,tiktok,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.49,es,android,50,3
+I0003156,U000108,2026-10-18 12:22:57+00:00,twitter/x,mensaje,"La última meet estuvo increíble, gracias a quienes organizaron.",eventos_convenciones,0.83,es,ios,63,1
+I0005170,U000002,2026-10-18 06:50:45+00:00,tiktok,comentario,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.59,es,android,63,5
+I0003139,U000228,2026-10-20 06:39:05+00:00,twitter/x,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.84,es,ios,44,0
+I0003546,U000717,2026-11-07 04:37:31+00:00,twitter/x,mensaje,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.32,es,android,58,2
+I0009778,U000267,2026-10-22 10:48:41+00:00,facebook,rsvp_evento,Este meme me representa completamente jajaja.,memes_humor,0.8,es,escritorio,45,0
+I0001648,U000948,2026-11-02 18:58:21+00:00,facebook,mensaje,El lugar de la reunión quedó muy lejos para quienes venimos de otros estados.,eventos_convenciones,-0.86,es,android,77,0
+I0000232,U000621,2026-10-31 04:03:17+00:00,tiktok,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.89,es,android,58,9
+I0004659,U000015,2026-11-02 02:16:36+00:00,tiktok,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.29,es,android,38,0
+I0007691,U000849,2026-11-06 23:37:23+00:00,telegram,reaccion,,arte_comisiones,-0.36,es,android,0,0
+I0000842,U000436,2026-10-23 04:43:04+00:00,telegram,respuesta_encuesta,Gracias a los admins por resolver el conflicto rápido.,reglas_moderacion,0.63,es,android,54,0
+I0002486,U000152,2026-10-30 03:14:38+00:00,telegram,respuesta_encuesta,"El servidor del juego estuvo caído toda la tarde, qué fastidio.",videojuegos,-0.53,es,android,63,0
+I0002445,U000154,2026-10-14 02:11:31+00:00,facebook,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.92,es,android,54,0
+I0009144,U000211,2026-10-13 12:49:16+00:00,discord,comentario,¿Alguien conoce bandas locales de la región?,musica,0.51,es,web,44,0
+I0007382,U000865,2026-10-12 16:28:44+00:00,facebook,mensaje,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.75,es,android,77,2
+I0004872,U000691,2026-10-19 11:41:02+00:00,telegram,comentario,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.67,es,android,64,6
+I0003405,U000257,2026-10-30 05:03:06+00:00,discord,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.8,es,android,45,6
+I0002574,U000030,2026-10-20 12:03:33+00:00,twitter/x,comentario,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.87,es,ios,54,1
+I0003930,U000849,2026-11-01 05:36:06+00:00,tiktok,reaccion,,seguridad_privacidad,0.45,es,android,0,14
+I0002848,U001057,2026-11-08 03:38:44+00:00,telegram,mensaje,¿Quién juega esta noche? Armamos sala.,videojuegos,0.65,es,escritorio,38,0
+I0004772,U000787,2026-10-17 14:15:35+00:00,facebook,mensaje,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.91,es,ios,54,1
+I0007439,U000744,2026-11-07 19:50:19+00:00,discord,reaccion,,reglas_moderacion,0.53,es,web,0,0
+I0003825,U000468,2026-10-17 02:41:30+00:00,telegram,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.22,es,android,64,1
+I0004335,U000257,2026-10-27 21:58:49+00:00,telegram,reaccion,,reglas_moderacion,0.32,es,android,0,2
+I0004353,U000996,2026-10-18 16:29:40+00:00,telegram,mensaje,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.31,es,android,60,0
+I0009326,U001062,2026-11-02 00:46:27+00:00,facebook,mensaje,¿Recomiendan algún artista para una referencia de fursona?,arte_comisiones,0.45,es,android,58,16
+I0002038,U000002,2026-10-27 05:41:56+00:00,tiktok,comentario,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.77,es,ios,50,4
+I0006595,U000361,2026-10-11 09:54:04+00:00,facebook,comentario,Siento que la moderación tarda mucho en responder.,reglas_moderacion,-0.39,es,android,50,0
+I0009799,U000002,2026-10-20 16:30:13+00:00,tiktok,reaccion,,videojuegos,0.74,es,android,0,0
+I0007079,U001009,2026-10-24 10:13:47+00:00,telegram,mensaje,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.92,es,web,52,10
+I0004103,U001055,2026-10-24 20:34:11+00:00,facebook,comentario,"Recomiendo este RPG indie, tiene temática de animales.",videojuegos,0.71,es,ios,54,3
+I0000424,U000521,2026-10-27 10:09:57+00:00,telegram,mensaje,Este meme me representa completamente jajaja.,memes_humor,0.25,es,android,45,7
+I0009425,U000917,2026-11-05 02:04:51+00:00,telegram,comentario,¿Dónde consiguen buen material para fursuit sin gastar tanto?,fursuits,0.21,es,web,61,11
+I0009442,U000607,2026-10-23 17:33:12+00:00,telegram,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.63,es,android,50,4
+I0007246,U001064,2026-11-02 23:05:05+00:00,twitter/x,reaccion,,musica,0.75,es,ios,0,0
+I0005404,U000469,2026-10-20 02:48:38+00:00,telegram,comentario,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.9,es,ios,77,3
+I0008118,U000137,2026-10-24 07:02:47+00:00,telegram,comentario,"Vi que están usando arte sin dar créditos, eso no está bien.",arte_comisiones,-0.27,es,android,60,13
+I0004723,U000483,2026-10-10 16:03:38+00:00,facebook,mensaje,Me gusta que ahora haya reglas claras en el grupo.,reglas_moderacion,0.51,es,ios,50,3
+I0007452,U000914,2026-10-21 18:57:20+00:00,tiktok,mensaje,Hay demasiado spam en el grupo últimamente.,reglas_moderacion,-0.16,es,android,43,4
+I0007942,U000827,2026-11-03 17:34:42+00:00,telegram,comentario,"Abro comisiones esta semana, escríbanme por privado.",arte_comisiones,0.84,es,ios,52,2
+I0002595,U000568,2026-10-21 15:10:16+00:00,facebook,reaccion,,arte_comisiones,0.82,es,android,0,0
+I0006685,U000984,2026-11-05 03:01:19+00:00,discord,mensaje,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.37,es,android,64,0
+I0007484,U000916,2026-11-06 03:02:05+00:00,instagram,comentario,"Qué ganas de que llegue la próxima reunión, ¿ya hay fecha?",eventos_convenciones,0.71,es,ios,58,6
+I0009032,U000924,2026-11-04 02:49:20+00:00,facebook,respuesta_encuesta,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.83,es,web,48,0
+I0003123,U000231,2026-10-26 07:24:41+00:00,facebook,reaccion,,arte_comisiones,0.44,es,ios,0,9
+I0009821,U000966,2026-10-16 10:17:40+00:00,telegram,reaccion,,arte_comisiones,-0.27,es,android,0,0
+I0002237,U000916,2026-10-27 23:28:46+00:00,facebook,reaccion,,memes_humor,0.46,es,ios,0,7
+I0008319,U000308,2026-11-01 09:35:47+00:00,telegram,respuesta_encuesta,¿Alguien va a la convención de este año? Busco con quién compartir hospedaje.,eventos_convenciones,0.48,es,ios,77,3
+I0004635,U000483,2026-10-26 08:43:09+00:00,telegram,mensaje,"Ese chiste ya está muy gastado, cambien de tema.",memes_humor,-0.62,es,ios,48,0
+I0008904,U000863,2026-11-08 18:03:58+00:00,facebook,reaccion,,reglas_moderacion,0.94,es,web,0,9
+I0006181,U000849,2026-10-20 22:11:12+00:00,facebook,mensaje,¿Alguien conoce bandas locales de la región?,musica,0.92,es,android,44,3
+I0003913,U000537,2026-10-10 22:40:46+00:00,discord,respuesta_encuesta,"Me encantó el arte que compartieron hoy, el estilo es buenísimo.",arte_comisiones,0.2,es,android,64,1
+I0000716,U000495,2026-10-24 00:19:48+00:00,tiktok,mensaje,Recuerden no compartir su ubicación exacta en público.,seguridad_privacidad,0.88,es,android,54,10
+I0002530,U000002,2026-10-26 02:45:33+00:00,telegram,reaccion,,arte_comisiones,0.23,es,ios,0,0

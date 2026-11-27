@@ -1,0 +1,898 @@
+id_usuario,pais,estado,ciudad,latitud,longitud
+U000001,México,Yucatán,Mérida,20.936,-89.6843
+U000002,México,Jalisco,Guadalajara,20.6824,-103.426
+U000003,México,Nuevo León,Monterrey,25.7209,-100.236
+U000005,México,Nuevo León,Monterrey,,
+U000006,México,Yucatán,Mérida,20.8922,-89.7
+U000007,México,Campeche,Campeche,19.791,-90.5143
+U000008,México,CDMX,Ciudad de México,,
+U000009,México,Jalisco,Guadalajara,20.7242,-103.3577
+U000010,Argentina,Buenos Aires,Buenos Aires,-34.6004,-58.3352
+U000012,México,Quintana Roo,Cancún,21.1834,-86.913
+U000013,Perú,Lima,Lima,-12.0328,-77.0152
+U000014,México,CDMX,Ciudad de México,,
+U000015,México,Tabasco,Villahermosa,17.9715,-92.9717
+U000016,México,Quintana Roo,Cancún,21.0861,-86.7914
+U000019,Argentina,Buenos Aires,Buenos Aires,-34.5852,-58.334
+U000020,México,Jalisco,Guadalajara,20.6132,-103.4255
+U000021,México,Tabasco,Villahermosa,17.9989,-92.9705
+U000022,México,Jalisco,Guadalajara,20.719,-103.3948
+U000024,México,Nuevo León,Monterrey,25.5996,-100.326
+U000025,México,Yucatán,Mérida,,
+U000026,México,CDMX,Ciudad de México,19.5081,-99.0643
+U000027,México,Querétaro,Querétaro,20.6481,-100.3539
+U000028,Colombia,Cundinamarca,Bogotá,4.7689,-74.0491
+U000029,México,CDMX,Ciudad de México,19.5068,-99.0934
+U000030,México,Yucatán,Mérida,20.9774,-89.6954
+U000031,México,Nuevo León,Monterrey,25.7233,-100.3627
+U000033,México,CDMX,Ciudad de México,,
+U000034,México,Yucatán,Mérida,,
+U000035,México,Yucatán,Mérida,21.0098,-89.6886
+U000037,México,Yucatán,Mérida,20.9247,-89.6878
+U000038,México,Yucatán,Mérida,,
+U000039,España,Comunidad de Madrid,Madrid,40.4521,-3.6926
+U000040,México,Puebla,Puebla,19.1174,-98.1751
+U000041,México,Tabasco,Villahermosa,17.967,-92.8912
+U000043,México,Puebla,Puebla,19.031,-98.2691
+U000044,México,Veracruz,Veracruz,19.2288,-96.1036
+U000045,México,Querétaro,Querétaro,20.6172,-100.45
+U000047,México,Tabasco,Villahermosa,18.0402,-92.9403
+U000048,México,Yucatán,Mérida,20.9904,-89.6841
+U000050,México,Yucatán,Mérida,20.9313,-89.5718
+U000051,México,Tabasco,Villahermosa,18.0282,-92.8709
+U000052,México,Nuevo León,Monterrey,25.6935,-100.292
+U000053,Colombia,Cundinamarca,Bogotá,4.7531,-74.0809
+U000054,México,CDMX,Ciudad de México,19.4612,-99.1993
+U000055,Colombia,Cundinamarca,Bogotá,,
+U000056,México,Yucatán,Mérida,21.0004,-89.695
+U000057,México,Jalisco,Guadalajara,20.6303,-103.4108
+U000058,México,CDMX,Ciudad de México,19.3989,-99.1671
+U000060,México,CDMX,Ciudad de México,19.36,-99.1058
+U000061,México,Quintana Roo,Cancún,,
+U000062,México,CDMX,Ciudad de México,19.3982,-99.1608
+U000063,México,Nuevo León,Monterrey,25.7269,-100.2717
+U000064,México,Campeche,Campeche,19.8917,-90.4678
+U000066,Estados Unidos,Texas,Houston,29.8368,-95.4431
+U000067,México,Yucatán,Mérida,20.9573,-89.5863
+U000068,México,CDMX,Ciudad de México,19.4901,-99.1312
+U000069,México,CDMX,Ciudad de México,19.4313,-99.0924
+U000072,México,Guanajuato,León,21.1569,-101.6456
+U000074,México,CDMX,Ciudad de México,19.4253,-99.0594
+U000076,México,Puebla,Puebla,18.9716,-98.1769
+U000077,México,CDMX,Ciudad de México,19.375,-99.1533
+U000078,México,Yucatán,Mérida,20.9263,-89.5721
+U000079,México,CDMX,Ciudad de México,19.391,-99.089
+U000081,España,Comunidad de Madrid,Madrid,40.385,-3.7342
+U000082,Argentina,Buenos Aires,Buenos Aires,-34.6146,-58.4117
+U000083,México,Baja California,Tijuana,32.5371,-117.1153
+U000084,México,Yucatán,Mérida,20.9342,-89.6574
+U000085,México,Nuevo León,Monterrey,25.6867,-100.2848
+U000086,México,Yucatán,Mérida,20.9175,-89.6095
+U000087,México,Yucatán,Mérida,21.0175,-89.5867
+U000089,México,Yucatán,Mérida,21.0145,-89.5513
+U000091,México,Jalisco,Guadalajara,20.6902,-103.3955
+U000092,México,Jalisco,Guadalajara,20.6735,-103.3734
+U000093,México,Jalisco,Guadalajara,20.6563,-103.3683
+U000094,México,Baja California,Tijuana,32.5207,-117.034
+U000095,México,Yucatán,Mérida,20.9545,-89.5784
+U000096,México,Jalisco,Guadalajara,20.6777,-103.4095
+U000097,México,CDMX,Ciudad de México,19.4536,-99.1594
+U000098,México,Jalisco,Guadalajara,20.7328,-103.3882
+U000099,México,Nuevo León,Monterrey,25.6687,-100.3089
+U000100,México,Nuevo León,Monterrey,25.6403,-100.3702
+U000101,México,Yucatán,Mérida,21.0407,-89.5565
+U000102,México,CDMX,Ciudad de México,19.398,-99.1761
+U000103,Argentina,Buenos Aires,Buenos Aires,-34.6218,-58.3078
+U000104,México,Yucatán,Mérida,,
+U000105,México,Veracruz,Veracruz,19.2441,-96.1381
+U000106,México,Puebla,Puebla,19.0952,-98.1852
+U000107,México,Querétaro,Querétaro,20.6093,-100.4396
+U000108,Perú,Lima,Lima,-12.0795,-77.0365
+U000109,Estados Unidos,California,Los Ángeles,34.0008,-118.2399
+U000110,México,Nuevo León,Monterrey,25.6151,-100.3757
+U000111,Estados Unidos,California,Los Ángeles,34.0563,-118.2278
+U000113,México,Nuevo León,Monterrey,25.6506,-100.3611
+U000114,México,CDMX,Ciudad de México,19.3522,-99.0794
+U000115,México,Yucatán,Mérida,21.011,-89.6581
+U000116,México,Veracruz,Veracruz,19.1396,-96.1303
+U000117,México,Yucatán,Mérida,,
+U000118,México,CDMX,Ciudad de México,,
+U000119,Perú,Lima,Lima,-12.0622,-77.0435
+U000120,México,CDMX,Ciudad de México,19.4446,-99.1465
+U000121,México,CDMX,Ciudad de México,19.4612,-99.1896
+U000122,México,Querétaro,Querétaro,20.6358,-100.4084
+U000123,México,Nuevo León,Monterrey,25.7209,-100.3174
+U000124,México,Puebla,Puebla,19.0399,-98.2598
+U000125,México,Oaxaca,Oaxaca,,
+U000127,México,Oaxaca,Oaxaca,17.1115,-96.7929
+U000128,Estados Unidos,California,Los Ángeles,34.1297,-118.2718
+U000129,México,Campeche,Campeche,19.8219,-90.6016
+U000130,Argentina,Buenos Aires,Buenos Aires,-34.5438,-58.3515
+U000131,Argentina,Buenos Aires,Buenos Aires,-34.5238,-58.4247
+U000132,Colombia,Cundinamarca,Bogotá,4.64,-74.0662
+U000133,México,Tabasco,Villahermosa,17.9858,-92.9374
+U000134,México,CDMX,Ciudad de México,,
+U000135,Argentina,Buenos Aires,Buenos Aires,-34.6653,-58.3681
+U000136,México,Nuevo León,Monterrey,25.7059,-100.2646
+U000138,México,Querétaro,Querétaro,,
+U000141,México,Nuevo León,Monterrey,25.6206,-100.2384
+U000142,México,CDMX,Ciudad de México,19.4619,-99.1486
+U000143,México,Jalisco,Guadalajara,20.6201,-103.3768
+U000144,México,Veracruz,Veracruz,,
+U000145,México,CDMX,Ciudad de México,19.4171,-99.0623
+U000146,México,Quintana Roo,Cancún,21.2029,-86.7812
+U000147,México,CDMX,Ciudad de México,19.4125,-99.0966
+U000148,México,Yucatán,Mérida,20.9861,-89.6954
+U000149,México,Quintana Roo,Cancún,,
+U000150,México,Veracruz,Veracruz,19.2188,-96.1649
+U000152,México,Tabasco,Villahermosa,18.006,-92.9163
+U000153,México,Nuevo León,Monterrey,25.6167,-100.3251
+U000155,México,Chihuahua,Chihuahua,28.5918,-106.1326
+U000156,México,Oaxaca,Oaxaca,17.1007,-96.7459
+U000157,México,Quintana Roo,Cancún,21.1679,-86.9111
+U000158,México,Querétaro,Querétaro,20.5435,-100.4429
+U000159,México,Quintana Roo,Cancún,21.1161,-86.8681
+U000161,México,Jalisco,Guadalajara,20.7001,-103.3071
+U000162,México,Oaxaca,Oaxaca,17.1283,-96.7542
+U000163,México,Yucatán,Mérida,20.9862,-89.5746
+U000164,México,CDMX,Ciudad de México,19.4843,-99.1678
+U000165,Estados Unidos,Texas,Houston,29.6884,-95.3278
+U000166,México,Yucatán,Mérida,20.9535,-89.5595
+U000167,México,CDMX,Ciudad de México,,
+U000168,México,Nuevo León,Monterrey,25.6766,-100.2474
+U000169,México,Veracruz,Veracruz,19.1695,-96.1492
+U000170,México,Quintana Roo,Cancún,,
+U000171,México,CDMX,Ciudad de México,,
+U000172,Colombia,Cundinamarca,Bogotá,4.752,-74.0229
+U000173,México,CDMX,Ciudad de México,,
+U000174,México,Yucatán,Mérida,21.028,-89.5914
+U000175,México,Tabasco,Villahermosa,17.996,-92.9836
+U000176,Perú,Lima,Lima,,
+U000177,México,Querétaro,Querétaro,20.6502,-100.3373
+U000178,México,Jalisco,Guadalajara,20.7348,-103.3201
+U000179,México,Nuevo León,Monterrey,25.6643,-100.3319
+U000180,México,Tabasco,Villahermosa,,
+U000181,México,Yucatán,Mérida,21.0148,-89.669
+U000182,México,CDMX,Ciudad de México,19.3811,-99.135
+U000184,México,Jalisco,Guadalajara,20.7253,-103.2834
+U000185,México,Yucatán,Mérida,21.0026,-89.6092
+U000186,México,Quintana Roo,Cancún,,
+U000187,México,Tabasco,Villahermosa,,
+U000189,México,Nuevo León,Monterrey,,
+U000190,México,Veracruz,Veracruz,19.1969,-96.1389
+U000191,México,Jalisco,Guadalajara,20.6843,-103.3012
+U000192,México,Nuevo León,Monterrey,25.707,-100.2991
+U000193,México,Querétaro,Querétaro,20.5497,-100.4248
+U000195,México,Jalisco,Guadalajara,20.6329,-103.3504
+U000198,México,Nuevo León,Monterrey,25.7304,-100.3555
+U000199,México,Yucatán,Mérida,21.0217,-89.589
+U000200,Colombia,Cundinamarca,Bogotá,4.7622,-74.0321
+U000201,México,Quintana Roo,Cancún,21.2047,-86.854
+U000202,México,Yucatán,Mérida,20.911,-89.6084
+U000204,Estados Unidos,Texas,Houston,29.8383,-95.3635
+U000206,México,Tabasco,Villahermosa,18.0401,-92.9615
+U000208,México,Nuevo León,Monterrey,,
+U000210,México,Guanajuato,León,21.068,-101.7362
+U000212,México,Veracruz,Veracruz,19.1861,-96.1921
+U000213,México,Puebla,Puebla,,
+U000214,Colombia,Cundinamarca,Bogotá,4.6693,-74.0379
+U000215,México,Guanajuato,León,21.0661,-101.6443
+U000216,México,CDMX,Ciudad de México,19.4645,-99.1801
+U000219,México,Jalisco,Guadalajara,20.6309,-103.3502
+U000220,México,CDMX,Ciudad de México,19.4767,-99.1936
+U000222,México,Yucatán,Mérida,21.0301,-89.5974
+U000223,México,CDMX,Ciudad de México,19.4343,-99.1937
+U000224,Estados Unidos,California,Los Ángeles,34.0048,-118.3005
+U000225,México,CDMX,Ciudad de México,19.3611,-99.0939
+U000226,Colombia,Cundinamarca,Bogotá,,
+U000227,México,Yucatán,Mérida,20.933,-89.6961
+U000229,México,Yucatán,Mérida,21.0371,-89.6394
+U000230,México,CDMX,Ciudad de México,19.4294,-99.0535
+U000231,México,Guanajuato,León,21.1483,-101.6022
+U000233,Estados Unidos,Texas,Houston,29.7828,-95.386
+U000234,México,Yucatán,Mérida,20.8924,-89.5716
+U000235,México,Veracruz,Veracruz,,
+U000236,México,Tabasco,Villahermosa,18.0553,-92.9714
+U000237,México,Nuevo León,Monterrey,25.7378,-100.2588
+U000238,México,Quintana Roo,Cancún,21.1799,-86.9084
+U000239,Perú,Lima,Lima,-12.1236,-76.982
+U000240,Argentina,Buenos Aires,Buenos Aires,-34.6497,-58.4476
+U000241,México,Tabasco,Villahermosa,18.0138,-92.8881
+U000243,México,Oaxaca,Oaxaca,17.0305,-96.6493
+U000246,México,Guanajuato,León,21.0577,-101.6823
+U000247,México,CDMX,Ciudad de México,19.4089,-99.1643
+U000248,México,Jalisco,Guadalajara,20.6515,-103.2707
+U000249,México,Quintana Roo,Cancún,21.2052,-86.7723
+U000250,México,Nuevo León,Monterrey,25.7184,-100.3279
+U000251,México,Oaxaca,Oaxaca,17.0563,-96.6986
+U000252,Perú,Lima,Lima,-12.0979,-77.0356
+U000253,México,Campeche,Campeche,19.7971,-90.4688
+U000255,México,CDMX,Ciudad de México,19.4415,-99.1941
+U000256,México,CDMX,Ciudad de México,19.3787,-99.0831
+U000257,México,Baja California,Tijuana,32.4889,-117.0967
+U000258,México,Nuevo León,Monterrey,25.7434,-100.3196
+U000259,México,Jalisco,Guadalajara,20.7164,-103.321
+U000261,España,Comunidad de Madrid,Madrid,40.4615,-3.7183
+U000262,México,Yucatán,Mérida,20.9092,-89.689
+U000263,México,Quintana Roo,Cancún,,
+U000264,México,Jalisco,Guadalajara,20.7055,-103.4028
+U000265,México,Yucatán,Mérida,20.9104,-89.6563
+U000266,México,Quintana Roo,Cancún,21.1329,-86.8321
+U000267,Colombia,Cundinamarca,Bogotá,4.7264,-74.144
+U000268,México,Nuevo León,Monterrey,25.6954,-100.3574
+U000269,México,Jalisco,Guadalajara,20.7247,-103.3816
+U000270,Chile,Región Metropolitana,Santiago,-33.3879,-70.6274
+U000271,México,Campeche,Campeche,19.848,-90.542
+U000272,Estados Unidos,California,Los Ángeles,33.9849,-118.1922
+U000273,México,Quintana Roo,Cancún,21.2113,-86.8485
+U000274,México,Campeche,Campeche,19.8364,-90.5873
+U000275,México,CDMX,Ciudad de México,19.4934,-99.1942
+U000276,Chile,Región Metropolitana,Santiago,-33.4304,-70.6858
+U000277,México,Jalisco,Guadalajara,,
+U000278,México,Jalisco,Guadalajara,20.6325,-103.3802
+U000279,México,CDMX,Ciudad de México,19.4814,-99.0842
+U000280,México,CDMX,Ciudad de México,19.4026,-99.0562
+U000281,México,Jalisco,Guadalajara,20.7412,-103.3751
+U000282,México,Nuevo León,Monterrey,25.6243,-100.3386
+U000284,México,Puebla,Puebla,18.9892,-98.1203
+U000285,México,CDMX,Ciudad de México,19.4723,-99.1334
+U000286,Colombia,Cundinamarca,Bogotá,4.7619,-74.0089
+U000288,México,Puebla,Puebla,19.0908,-98.172
+U000290,México,CDMX,Ciudad de México,19.4132,-99.1847
+U000291,México,Baja California,Tijuana,,
+U000293,México,CDMX,Ciudad de México,19.5036,-99.1856
+U000294,México,CDMX,Ciudad de México,19.4896,-99.1628
+U000295,México,Jalisco,Guadalajara,20.6763,-103.3835
+U000296,México,Querétaro,Querétaro,20.5898,-100.3495
+U000297,México,Nuevo León,Monterrey,25.7298,-100.3127
+U000298,México,Yucatán,Mérida,21.0168,-89.634
+U000299,México,Tabasco,Villahermosa,17.9867,-92.8772
+U000300,México,CDMX,Ciudad de México,,
+U000301,México,CDMX,Ciudad de México,19.4738,-99.1077
+U000302,México,Nuevo León,Monterrey,25.641,-100.3373
+U000303,México,Querétaro,Querétaro,20.6614,-100.4602
+U000304,México,CDMX,Ciudad de México,19.3903,-99.1974
+U000305,México,Querétaro,Querétaro,20.6446,-100.3987
+U000306,México,Jalisco,Guadalajara,20.6015,-103.2842
+U000307,Perú,Lima,Lima,-12.0184,-77.0424
+U000308,México,CDMX,Ciudad de México,19.4457,-99.0987
+U000309,México,CDMX,Ciudad de México,19.4067,-99.0794
+U000311,México,Jalisco,Guadalajara,20.721,-103.3696
+U000312,México,Jalisco,Guadalajara,20.6357,-103.2802
+U000313,México,CDMX,Ciudad de México,19.4393,-99.1043
+U000314,México,Baja California,Tijuana,32.5754,-117.0511
+U000315,México,Tabasco,Villahermosa,18.0252,-92.9698
+U000316,México,Puebla,Puebla,18.9616,-98.2461
+U000317,México,Baja California,Tijuana,32.4707,-116.9888
+U000318,México,CDMX,Ciudad de México,19.4079,-99.0817
+U000319,España,Comunidad de Madrid,Madrid,40.3429,-3.6657
+U000321,México,Yucatán,Mérida,20.9701,-89.6265
+U000322,México,Yucatán,Mérida,20.9947,-89.6612
+U000323,México,Yucatán,Mérida,20.9748,-89.6338
+U000324,México,Veracruz,Veracruz,19.14,-96.1039
+U000326,México,Nuevo León,Monterrey,25.6936,-100.3424
+U000327,España,Comunidad de Madrid,Madrid,40.4919,-3.728
+U000328,Argentina,Buenos Aires,Buenos Aires,-34.5532,-58.321
+U000329,México,Yucatán,Mérida,20.9503,-89.6153
+U000330,México,Querétaro,Querétaro,20.5967,-100.372
+U000331,México,Nuevo León,Monterrey,25.6329,-100.3146
+U000333,México,Baja California,Tijuana,32.494,-116.9727
+U000334,México,Campeche,Campeche,19.7981,-90.5094
+U000335,México,Puebla,Puebla,,
+U000336,México,Jalisco,Guadalajara,20.5968,-103.3924
+U000337,México,Yucatán,Mérida,20.9228,-89.5418
+U000338,México,Quintana Roo,Cancún,21.0949,-86.9184
+U000339,México,Nuevo León,Monterrey,25.6527,-100.2756
+U000340,México,Nuevo León,Monterrey,25.6903,-100.2563
+U000341,México,Jalisco,Guadalajara,20.645,-103.2954
+U000342,México,CDMX,Ciudad de México,19.492,-99.1525
+U000343,México,Nuevo León,Monterrey,25.6379,-100.2552
+U000344,Perú,Lima,Lima,-12.004,-77.0414
+U000345,México,Baja California,Tijuana,32.497,-116.9776
+U000346,México,Puebla,Puebla,19.0943,-98.2656
+U000347,México,Oaxaca,Oaxaca,17.0001,-96.7573
+U000348,México,Baja California,Tijuana,,
+U000349,México,Jalisco,Guadalajara,20.6313,-103.3222
+U000350,México,Yucatán,Mérida,21.0282,-89.5406
+U000351,España,Comunidad de Madrid,Madrid,40.3735,-3.6508
+U000352,Estados Unidos,California,Los Ángeles,33.9998,-118.2464
+U000353,México,Yucatán,Mérida,20.9094,-89.5608
+U000354,México,Querétaro,Querétaro,20.5283,-100.4349
+U000357,México,Campeche,Campeche,,
+U000358,México,Chihuahua,Chihuahua,28.5953,-106.1432
+U000359,México,Yucatán,Mérida,20.9839,-89.68
+U000361,México,Nuevo León,Monterrey,25.6092,-100.2911
+U000362,México,Campeche,Campeche,19.8565,-90.4503
+U000363,México,CDMX,Ciudad de México,19.4422,-99.1757
+U000364,México,Baja California,Tijuana,32.4805,-117.075
+U000365,México,Guanajuato,León,21.0814,-101.617
+U000366,México,CDMX,Ciudad de México,19.3861,-99.085
+U000367,México,Guanajuato,León,21.1057,-101.6311
+U000368,Estados Unidos,California,Los Ángeles,34.0481,-118.2935
+U000370,México,Campeche,Campeche,19.8381,-90.5616
+U000373,México,Campeche,Campeche,19.8494,-90.4627
+U000375,México,CDMX,Ciudad de México,19.4848,-99.1213
+U000376,México,Nuevo León,Monterrey,25.6882,-100.2371
+U000378,Estados Unidos,California,Los Ángeles,34.0051,-118.2038
+U000380,México,Nuevo León,Monterrey,25.6283,-100.3662
+U000382,México,Jalisco,Guadalajara,20.7333,-103.3501
+U000383,México,Puebla,Puebla,19.0154,-98.2517
+U000384,México,Nuevo León,Monterrey,25.6725,-100.3573
+U000385,México,Quintana Roo,Cancún,,
+U000386,México,Nuevo León,Monterrey,25.6645,-100.2611
+U000387,México,Baja California,Tijuana,32.5859,-116.9815
+U000388,México,Baja California,Tijuana,32.4627,-117.0579
+U000389,Colombia,Cundinamarca,Bogotá,4.7496,-74.0123
+U000390,México,Guanajuato,León,21.1971,-101.6425
+U000391,México,CDMX,Ciudad de México,19.4886,-99.0705
+U000395,México,Nuevo León,Monterrey,25.6034,-100.2593
+U000397,México,Quintana Roo,Cancún,21.2069,-86.8035
+U000399,México,Baja California,Tijuana,,
+U000400,México,CDMX,Ciudad de México,19.3794,-99.1565
+U000401,México,Yucatán,Mérida,20.9427,-89.6713
+U000402,Chile,Región Metropolitana,Santiago,,
+U000403,México,Jalisco,Guadalajara,20.6957,-103.3022
+U000405,México,CDMX,Ciudad de México,19.441,-99.0994
+U000406,México,Yucatán,Mérida,21.0251,-89.5946
+U000407,México,Puebla,Puebla,19.0605,-98.1608
+U000408,México,Yucatán,Mérida,20.9081,-89.6674
+U000409,México,Chihuahua,Chihuahua,28.7049,-106.0957
+U000411,México,Jalisco,Guadalajara,20.7332,-103.334
+U000412,México,CDMX,Ciudad de México,19.4536,-99.1041
+U000415,México,Yucatán,Mérida,,
+U000416,México,Puebla,Puebla,19.107,-98.1815
+U000418,México,Yucatán,Mérida,21.05,-89.6401
+U000419,México,CDMX,Ciudad de México,19.4127,-99.0913
+U000420,México,Querétaro,Querétaro,20.6624,-100.3753
+U000421,Colombia,Cundinamarca,Bogotá,4.7824,-73.997
+U000422,México,Jalisco,Guadalajara,20.6594,-103.3954
+U000423,México,Quintana Roo,Cancún,21.1168,-86.8708
+U000424,México,CDMX,Ciudad de México,19.4885,-99.1752
+U000425,México,Veracruz,Veracruz,19.2335,-96.1169
+U000426,México,CDMX,Ciudad de México,19.4643,-99.0678
+U000428,México,CDMX,Ciudad de México,19.5064,-99.1478
+U000429,México,Puebla,Puebla,,
+U000430,Colombia,Cundinamarca,Bogotá,,
+U000431,México,CDMX,Ciudad de México,19.3955,-99.1824
+U000432,México,CDMX,Ciudad de México,,
+U000433,Colombia,Cundinamarca,Bogotá,4.6398,-74.1332
+U000435,España,Comunidad de Madrid,Madrid,40.4618,-3.7419
+U000436,México,Yucatán,Mérida,20.962,-89.6017
+U000437,México,Jalisco,Guadalajara,20.5976,-103.3248
+U000438,Estados Unidos,California,Los Ángeles,34.0655,-118.1718
+U000439,México,Oaxaca,Oaxaca,,
+U000440,México,CDMX,Ciudad de México,19.5039,-99.0624
+U000441,México,CDMX,Ciudad de México,19.3624,-99.188
+U000442,México,CDMX,Ciudad de México,19.3615,-99.0545
+U000443,México,Yucatán,Mérida,20.9933,-89.5819
+U000444,Chile,Región Metropolitana,Santiago,-33.4471,-70.6212
+U000445,México,Puebla,Puebla,18.9654,-98.1341
+U000447,México,Jalisco,Guadalajara,20.662,-103.277
+U000448,México,CDMX,Ciudad de México,19.4716,-99.0934
+U000449,Chile,Región Metropolitana,Santiago,-33.4109,-70.6857
+U000450,México,Oaxaca,Oaxaca,17.0677,-96.7311
+U000451,México,Querétaro,Querétaro,20.5334,-100.4626
+U000452,Perú,Lima,Lima,-12.1014,-77.025
+U000453,México,Oaxaca,Oaxaca,,
+U000454,México,Tabasco,Villahermosa,17.9774,-92.9927
+U000455,México,Nuevo León,Monterrey,25.6399,-100.2581
+U000456,México,Quintana Roo,Cancún,,
+U000457,México,Jalisco,Guadalajara,,
+U000458,México,Yucatán,Mérida,20.9826,-89.5557
+U000459,México,Guanajuato,León,21.1717,-101.6315
+U000460,México,Puebla,Puebla,19.0645,-98.2598
+U000461,México,CDMX,Ciudad de México,19.4534,-99.2087
+U000462,México,CDMX,Ciudad de México,19.4005,-99.1877
+U000464,México,Jalisco,Guadalajara,20.6231,-103.2999
+U000466,México,Quintana Roo,Cancún,21.1087,-86.9066
+U000467,México,Jalisco,Guadalajara,20.7317,-103.317
+U000468,Argentina,Buenos Aires,Buenos Aires,-34.5892,-58.4098
+U000469,México,CDMX,Ciudad de México,19.4367,-99.0733
+U000470,Argentina,Buenos Aires,Buenos Aires,-34.6082,-58.3935
+U000471,México,CDMX,Ciudad de México,19.5087,-99.1652
+U000472,México,Jalisco,Guadalajara,20.7057,-103.4182
+U000473,México,Tabasco,Villahermosa,18.0264,-92.943
+U000474,México,Tabasco,Villahermosa,17.9342,-92.9919
+U000475,México,Nuevo León,Monterrey,25.7172,-100.3647
+U000476,México,Baja California,Tijuana,32.5133,-117.024
+U000477,México,Guanajuato,León,21.1082,-101.7198
+U000478,Colombia,Cundinamarca,Bogotá,4.6487,-74.0437
+U000479,México,Oaxaca,Oaxaca,17.1167,-96.7505
+U000480,México,CDMX,Ciudad de México,19.3589,-99.1174
+U000481,México,Campeche,Campeche,19.8213,-90.4704
+U000483,México,Nuevo León,Monterrey,25.7485,-100.2829
+U000484,México,CDMX,Ciudad de México,19.4545,-99.0632
+U000485,México,CDMX,Ciudad de México,19.477,-99.116
+U000486,México,Yucatán,Mérida,20.9367,-89.5726
+U000487,México,Baja California,Tijuana,32.4625,-117.0514
+U000488,México,Nuevo León,Monterrey,25.6048,-100.3438
+U000489,México,Guanajuato,León,21.0834,-101.7056
+U000490,México,CDMX,Ciudad de México,,
+U000491,México,Guanajuato,León,21.1315,-101.6286
+U000493,México,Puebla,Puebla,19.0344,-98.1941
+U000494,Argentina,Buenos Aires,Buenos Aires,-34.6507,-58.4555
+U000495,México,Jalisco,Guadalajara,20.7457,-103.3103
+U000496,México,Tabasco,Villahermosa,18.054,-92.988
+U000497,México,Jalisco,Guadalajara,20.638,-103.3989
+U000498,México,Yucatán,Mérida,21.0041,-89.6381
+U000499,México,Querétaro,Querétaro,20.612,-100.4447
+U000500,México,Jalisco,Guadalajara,20.6871,-103.4227
+U000501,México,CDMX,Ciudad de México,19.4866,-99.0985
+U000502,México,Tabasco,Villahermosa,17.9298,-92.9381
+U000503,México,Yucatán,Mérida,21.0372,-89.5468
+U000505,Argentina,Buenos Aires,Buenos Aires,-34.6185,-58.3958
+U000506,México,CDMX,Ciudad de México,19.3725,-99.2025
+U000507,México,Quintana Roo,Cancún,21.2146,-86.8645
+U000508,Estados Unidos,California,Los Ángeles,34.0283,-118.31
+U000509,México,CDMX,Ciudad de México,19.439,-99.0502
+U000510,México,Tabasco,Villahermosa,18.008,-92.9671
+U000511,Perú,Lima,Lima,-11.99,-77.0517
+U000513,México,Nuevo León,Monterrey,25.7387,-100.2321
+U000514,México,Querétaro,Querétaro,20.5978,-100.44
+U000516,España,Comunidad de Madrid,Madrid,40.3628,-3.6855
+U000517,México,Puebla,Puebla,19.1179,-98.1933
+U000518,México,Yucatán,Mérida,21.0424,-89.6
+U000519,México,Nuevo León,Monterrey,25.7003,-100.3516
+U000520,México,Nuevo León,Monterrey,25.6588,-100.2312
+U000521,México,Baja California,Tijuana,,
+U000522,México,Guanajuato,León,21.1742,-101.7205
+U000523,Perú,Lima,Lima,-12.034,-76.9891
+U000524,México,Yucatán,Mérida,20.9559,-89.6934
+U000525,México,Jalisco,Guadalajara,20.5952,-103.4192
+U000526,México,CDMX,Ciudad de México,,
+U000527,México,CDMX,Ciudad de México,,
+U000528,México,Guanajuato,León,21.0602,-101.6282
+U000529,México,CDMX,Ciudad de México,19.3761,-99.0981
+U000531,Chile,Región Metropolitana,Santiago,-33.5062,-70.7417
+U000532,México,Baja California,Tijuana,32.502,-117.0319
+U000533,Estados Unidos,California,Los Ángeles,33.9915,-118.3071
+U000534,México,CDMX,Ciudad de México,19.3923,-99.1385
+U000536,México,Yucatán,Mérida,20.995,-89.6782
+U000537,México,Querétaro,Querétaro,20.58,-100.3569
+U000538,Argentina,Buenos Aires,Buenos Aires,-34.5279,-58.3247
+U000539,Estados Unidos,California,Los Ángeles,34.0824,-118.2867
+U000541,México,Nuevo León,Monterrey,25.7472,-100.3664
+U000543,México,Veracruz,Veracruz,,
+U000544,México,Tabasco,Villahermosa,,
+U000545,México,Querétaro,Querétaro,20.6588,-100.4488
+U000546,México,Nuevo León,Monterrey,25.6682,-100.298
+U000547,México,CDMX,Ciudad de México,19.5096,-99.1969
+U000549,México,Yucatán,Mérida,20.9148,-89.6705
+U000550,México,CDMX,Ciudad de México,19.4801,-99.0906
+U000551,México,CDMX,Ciudad de México,19.4019,-99.1325
+U000552,México,Yucatán,Mérida,20.9996,-89.5569
+U000553,Estados Unidos,Texas,Houston,29.7294,-95.445
+U000554,México,CDMX,Ciudad de México,19.3922,-99.177
+U000555,México,Yucatán,Mérida,,
+U000556,México,Puebla,Puebla,19.1072,-98.1318
+U000557,México,CDMX,Ciudad de México,19.4689,-99.1551
+U000558,México,Quintana Roo,Cancún,21.227,-86.83
+U000559,México,Nuevo León,Monterrey,25.671,-100.3307
+U000560,Estados Unidos,Texas,Houston,29.7861,-95.314
+U000561,México,Yucatán,Mérida,20.9801,-89.675
+U000562,México,Tabasco,Villahermosa,17.9732,-92.8848
+U000563,México,Yucatán,Mérida,20.9146,-89.5829
+U000564,México,CDMX,Ciudad de México,19.4592,-99.1374
+U000565,México,Guanajuato,León,21.0723,-101.6166
+U000566,México,Guanajuato,León,21.0926,-101.6831
+U000567,México,Quintana Roo,Cancún,21.1605,-86.7974
+U000568,México,CDMX,Ciudad de México,19.3503,-99.1643
+U000569,México,Jalisco,Guadalajara,,
+U000570,México,CDMX,Ciudad de México,19.3839,-99.1656
+U000571,México,Tabasco,Villahermosa,,
+U000572,México,CDMX,Ciudad de México,19.3653,-99.1951
+U000573,México,CDMX,Ciudad de México,19.3731,-99.1738
+U000574,México,Querétaro,Querétaro,20.5143,-100.3871
+U000576,México,CDMX,Ciudad de México,19.43,-99.196
+U000579,México,Jalisco,Guadalajara,,
+U000580,México,CDMX,Ciudad de México,19.4178,-99.0758
+U000581,México,CDMX,Ciudad de México,19.3715,-99.0674
+U000582,México,Quintana Roo,Cancún,21.2092,-86.8639
+U000583,México,Yucatán,Mérida,20.9935,-89.5998
+U000584,México,CDMX,Ciudad de México,19.4962,-99.1901
+U000585,México,Jalisco,Guadalajara,20.6352,-103.3025
+U000588,México,CDMX,Ciudad de México,,
+U000589,Colombia,Cundinamarca,Bogotá,4.6975,-74.1091
+U000591,México,CDMX,Ciudad de México,19.3718,-99.089
+U000593,Colombia,Cundinamarca,Bogotá,4.7261,-74.0844
+U000594,México,Campeche,Campeche,19.7942,-90.5139
+U000595,México,CDMX,Ciudad de México,,
+U000596,México,Querétaro,Querétaro,20.516,-100.438
+U000597,México,Nuevo León,Monterrey,25.658,-100.2797
+U000598,México,Baja California,Tijuana,32.5553,-117.0594
+U000599,Argentina,Buenos Aires,Buenos Aires,-34.6781,-58.4369
+U000600,Chile,Región Metropolitana,Santiago,-33.378,-70.6651
+U000601,México,Yucatán,Mérida,20.896,-89.5968
+U000602,México,Jalisco,Guadalajara,20.7462,-103.2805
+U000603,México,Baja California,Tijuana,32.4317,-117.0667
+U000604,México,Nuevo León,Monterrey,25.7262,-100.2808
+U000605,España,Comunidad de Madrid,Madrid,40.3816,-3.7265
+U000606,México,Campeche,Campeche,19.8764,-90.578
+U000607,México,Quintana Roo,Cancún,21.1346,-86.875
+U000609,México,Nuevo León,Monterrey,25.602,-100.2587
+U000611,Estados Unidos,California,Los Ángeles,34.0711,-118.2351
+U000614,México,Jalisco,Guadalajara,,
+U000615,México,CDMX,Ciudad de México,19.5087,-99.1186
+U000616,México,Baja California,Tijuana,32.4399,-117.0939
+U000617,España,Comunidad de Madrid,Madrid,40.4837,-3.7485
+U000618,México,Baja California,Tijuana,32.5589,-117.0542
+U000619,México,CDMX,Ciudad de México,19.4684,-99.2005
+U000621,México,Jalisco,Guadalajara,20.592,-103.3205
+U000622,México,CDMX,Ciudad de México,19.3814,-99.2005
+U000624,México,Yucatán,Mérida,21.0048,-89.6001
+U000625,México,Puebla,Puebla,18.9904,-98.2417
+U000626,México,CDMX,Ciudad de México,19.3525,-99.2084
+U000627,Colombia,Cundinamarca,Bogotá,4.7643,-74.0279
+U000628,México,Guanajuato,León,21.1643,-101.6236
+U000629,México,CDMX,Ciudad de México,19.4003,-99.0677
+U000630,México,Campeche,Campeche,19.8971,-90.5794
+U000631,Colombia,Cundinamarca,Bogotá,4.6703,-74.1414
+U000632,México,Chihuahua,Chihuahua,28.7017,-106.0331
+U000633,México,Nuevo León,Monterrey,25.5991,-100.2956
+U000634,México,Querétaro,Querétaro,20.643,-100.3697
+U000635,Colombia,Cundinamarca,Bogotá,4.7454,-74.1428
+U000637,Estados Unidos,California,Los Ángeles,34.0639,-118.2887
+U000638,México,Chihuahua,Chihuahua,28.6757,-106.0212
+U000639,México,CDMX,Ciudad de México,19.4306,-99.0912
+U000640,México,CDMX,Ciudad de México,19.3776,-99.0922
+U000641,México,Yucatán,Mérida,20.9223,-89.5804
+U000642,México,Yucatán,Mérida,21.0394,-89.6091
+U000643,México,Jalisco,Guadalajara,20.6605,-103.3785
+U000644,México,Jalisco,Guadalajara,20.6237,-103.2885
+U000645,México,Jalisco,Guadalajara,20.6238,-103.3372
+U000646,México,Puebla,Puebla,18.9818,-98.249
+U000647,México,Yucatán,Mérida,20.9321,-89.6156
+U000649,México,Tabasco,Villahermosa,18.067,-93.0077
+U000650,México,Guanajuato,León,21.0933,-101.6948
+U000651,México,Oaxaca,Oaxaca,,
+U000652,México,Yucatán,Mérida,20.9028,-89.5411
+U000653,México,Yucatán,Mérida,20.9772,-89.5495
+U000654,México,Jalisco,Guadalajara,20.6921,-103.3037
+U000655,México,CDMX,Ciudad de México,19.4409,-99.0613
+U000656,México,Yucatán,Mérida,,
+U000658,Colombia,Cundinamarca,Bogotá,4.7565,-74.024
+U000659,México,Chihuahua,Chihuahua,,
+U000660,México,Querétaro,Querétaro,20.6174,-100.4518
+U000661,México,Puebla,Puebla,19.0244,-98.1975
+U000663,México,CDMX,Ciudad de México,,
+U000664,México,CDMX,Ciudad de México,19.4544,-99.191
+U000665,México,CDMX,Ciudad de México,19.4917,-99.0844
+U000666,México,Nuevo León,Monterrey,25.6152,-100.314
+U000667,México,Guanajuato,León,21.0647,-101.6254
+U000669,México,Yucatán,Mérida,21.029,-89.5558
+U000670,México,Quintana Roo,Cancún,21.0964,-86.8192
+U000671,México,Campeche,Campeche,19.8383,-90.5479
+U000673,México,Jalisco,Guadalajara,20.6683,-103.3105
+U000674,México,Tabasco,Villahermosa,17.919,-92.9596
+U000676,México,Nuevo León,Monterrey,25.6198,-100.2371
+U000677,México,CDMX,Ciudad de México,19.3601,-99.2023
+U000678,México,Nuevo León,Monterrey,25.6843,-100.3717
+U000679,México,Campeche,Campeche,19.8458,-90.553
+U000680,Chile,Región Metropolitana,Santiago,-33.4278,-70.6081
+U000684,México,Campeche,Campeche,19.8427,-90.5385
+U000685,México,Nuevo León,Monterrey,25.7468,-100.2611
+U000686,México,Puebla,Puebla,19.0472,-98.2681
+U000687,México,Nuevo León,Monterrey,25.6394,-100.2618
+U000688,México,Yucatán,Mérida,20.9841,-89.6178
+U000689,México,Nuevo León,Monterrey,25.6743,-100.2906
+U000690,México,Campeche,Campeche,19.8881,-90.451
+U000692,México,Jalisco,Guadalajara,20.6537,-103.319
+U000694,México,CDMX,Ciudad de México,19.4146,-99.0798
+U000695,México,Quintana Roo,Cancún,21.1878,-86.8059
+U000697,México,Yucatán,Mérida,20.9887,-89.6568
+U000698,México,Puebla,Puebla,19.0938,-98.2339
+U000699,México,Yucatán,Mérida,21.0369,-89.5541
+U000700,México,Yucatán,Mérida,,
+U000701,Chile,Región Metropolitana,Santiago,,
+U000702,México,CDMX,Ciudad de México,19.3995,-99.107
+U000703,México,Guanajuato,León,21.1472,-101.6238
+U000704,México,CDMX,Ciudad de México,19.3866,-99.0747
+U000705,México,Quintana Roo,Cancún,21.1226,-86.8708
+U000706,México,Jalisco,Guadalajara,20.7395,-103.389
+U000708,México,Chihuahua,Chihuahua,28.5532,-106.0877
+U000709,México,CDMX,Ciudad de México,19.3806,-99.1289
+U000710,México,Jalisco,Guadalajara,20.7273,-103.4126
+U000711,México,Yucatán,Mérida,20.9145,-89.5441
+U000713,México,Tabasco,Villahermosa,17.9471,-92.8676
+U000714,Estados Unidos,Texas,Houston,29.7483,-95.439
+U000715,México,Baja California,Tijuana,32.4771,-116.9962
+U000717,México,Yucatán,Mérida,20.9765,-89.6459
+U000719,México,Yucatán,Mérida,,
+U000721,México,Jalisco,Guadalajara,20.6587,-103.4043
+U000722,Perú,Lima,Lima,-12.1049,-77.1057
+U000723,Perú,Lima,Lima,-12.0816,-77.0747
+U000724,México,Querétaro,Querétaro,20.5115,-100.3934
+U000725,México,CDMX,Ciudad de México,19.4323,-99.1594
+U000726,México,Quintana Roo,Cancún,21.1716,-86.8078
+U000727,México,Yucatán,Mérida,,
+U000728,México,Querétaro,Querétaro,20.6111,-100.4403
+U000732,México,Campeche,Campeche,19.8508,-90.6019
+U000733,México,Campeche,Campeche,19.863,-90.5894
+U000735,México,Campeche,Campeche,19.9096,-90.5579
+U000736,México,Puebla,Puebla,18.9876,-98.1745
+U000737,México,Yucatán,Mérida,20.9271,-89.5461
+U000738,México,Campeche,Campeche,19.85,-90.4958
+U000739,México,Guanajuato,León,21.0508,-101.6412
+U000741,México,Yucatán,Mérida,20.9641,-89.6142
+U000742,Chile,Región Metropolitana,Santiago,-33.5119,-70.7054
+U000743,México,Campeche,Campeche,19.8767,-90.4628
+U000744,México,Yucatán,Mérida,20.9876,-89.5421
+U000745,México,CDMX,Ciudad de México,19.3757,-99.1721
+U000746,México,Jalisco,Guadalajara,20.7219,-103.3615
+U000747,México,Nuevo León,Monterrey,25.6366,-100.3212
+U000748,México,Querétaro,Querétaro,20.5675,-100.3526
+U000750,México,Yucatán,Mérida,,
+U000752,México,Puebla,Puebla,18.9964,-98.2614
+U000753,México,CDMX,Ciudad de México,19.3527,-99.0528
+U000754,México,Yucatán,Mérida,20.9833,-89.564
+U000755,México,CDMX,Ciudad de México,19.4485,-99.1242
+U000756,México,Campeche,Campeche,19.8145,-90.4738
+U000757,México,Oaxaca,Oaxaca,17.141,-96.7268
+U000758,México,CDMX,Ciudad de México,19.4483,-99.0604
+U000759,México,Yucatán,Mérida,20.9921,-89.6563
+U000760,México,Yucatán,Mérida,21.0193,-89.6988
+U000761,México,Jalisco,Guadalajara,,
+U000762,México,Yucatán,Mérida,20.9974,-89.6485
+U000763,México,CDMX,Ciudad de México,,
+U000764,México,CDMX,Ciudad de México,19.3758,-99.0757
+U000766,México,CDMX,Ciudad de México,19.3815,-99.1079
+U000767,Estados Unidos,California,Los Ángeles,34.041,-118.3149
+U000768,México,Yucatán,Mérida,20.9874,-89.5853
+U000769,España,Comunidad de Madrid,Madrid,40.3573,-3.7234
+U000770,México,Baja California,Tijuana,32.5202,-117.0094
+U000771,México,Quintana Roo,Cancún,21.2146,-86.8661
+U000772,México,Yucatán,Mérida,20.9618,-89.6935
+U000773,México,Puebla,Puebla,19.0773,-98.1775
+U000774,México,CDMX,Ciudad de México,19.4073,-99.1257
+U000775,México,Yucatán,Mérida,20.9074,-89.5709
+U000776,México,CDMX,Ciudad de México,,
+U000777,México,Yucatán,Mérida,20.9897,-89.573
+U000778,México,Oaxaca,Oaxaca,17.1215,-96.7436
+U000779,Argentina,Buenos Aires,Buenos Aires,-34.6267,-58.333
+U000780,México,Baja California,Tijuana,32.5258,-117.1086
+U000781,México,Jalisco,Guadalajara,20.6151,-103.3258
+U000782,México,Tabasco,Villahermosa,17.9366,-92.8584
+U000783,Estados Unidos,California,Los Ángeles,34.0295,-118.1746
+U000785,México,Campeche,Campeche,19.8629,-90.4735
+U000787,México,CDMX,Ciudad de México,,
+U000788,Argentina,Buenos Aires,Buenos Aires,-34.6573,-58.3041
+U000789,México,CDMX,Ciudad de México,19.431,-99.098
+U000790,México,Tabasco,Villahermosa,17.9738,-92.9456
+U000791,México,Quintana Roo,Cancún,,
+U000792,México,Querétaro,Querétaro,,
+U000794,México,Yucatán,Mérida,,
+U000795,Chile,Región Metropolitana,Santiago,,
+U000798,México,CDMX,Ciudad de México,19.381,-99.1255
+U000800,España,Comunidad de Madrid,Madrid,40.4902,-3.6696
+U000801,México,Yucatán,Mérida,20.971,-89.5777
+U000802,Estados Unidos,Texas,Houston,29.6973,-95.3996
+U000803,México,Quintana Roo,Cancún,21.1991,-86.9262
+U000804,México,Yucatán,Mérida,20.9488,-89.5948
+U000805,México,Puebla,Puebla,19.0137,-98.2394
+U000806,México,Guanajuato,León,21.1467,-101.6501
+U000807,Estados Unidos,Texas,Houston,29.7097,-95.3858
+U000808,México,Yucatán,Mérida,20.9724,-89.6809
+U000809,México,CDMX,Ciudad de México,19.492,-99.1844
+U000810,México,Nuevo León,Monterrey,25.5992,-100.3481
+U000813,México,CDMX,Ciudad de México,,
+U000814,México,Yucatán,Mérida,20.8973,-89.5894
+U000816,México,Campeche,Campeche,19.899,-90.5251
+U000818,Perú,Lima,Lima,-12.065,-76.998
+U000819,México,Campeche,Campeche,,
+U000820,Colombia,Cundinamarca,Bogotá,4.6346,-74.0371
+U000821,México,Tabasco,Villahermosa,17.9259,-92.976
+U000822,México,Nuevo León,Monterrey,25.724,-100.267
+U000823,México,Jalisco,Guadalajara,,
+U000824,Colombia,Cundinamarca,Bogotá,,
+U000825,México,CDMX,Ciudad de México,19.4214,-99.2056
+U000826,Argentina,Buenos Aires,Buenos Aires,-34.6526,-58.4294
+U000827,México,Quintana Roo,Cancún,,
+U000829,México,Yucatán,Mérida,21.0145,-89.6955
+U000830,México,CDMX,Ciudad de México,19.378,-99.1572
+U000831,México,Yucatán,Mérida,21.0487,-89.6048
+U000833,México,Chihuahua,Chihuahua,28.6675,-106.0739
+U000834,México,Jalisco,Guadalajara,20.6082,-103.4119
+U000835,México,Yucatán,Mérida,21.029,-89.6968
+U000836,México,CDMX,Ciudad de México,19.3838,-99.1219
+U000837,México,Jalisco,Guadalajara,,
+U000838,México,CDMX,Ciudad de México,19.4101,-99.1289
+U000839,México,Jalisco,Guadalajara,20.6132,-103.3158
+U000840,México,Nuevo León,Monterrey,25.6596,-100.3327
+U000841,México,CDMX,Ciudad de México,19.3755,-99.1255
+U000842,México,Baja California,Tijuana,32.4933,-116.9972
+U000843,Argentina,Buenos Aires,Buenos Aires,-34.6472,-58.3216
+U000844,México,Campeche,Campeche,19.9181,-90.6056
+U000845,México,Veracruz,Veracruz,19.1479,-96.0522
+U000846,México,CDMX,Ciudad de México,19.3826,-99.188
+U000847,México,Jalisco,Guadalajara,20.7039,-103.4009
+U000848,Argentina,Buenos Aires,Buenos Aires,,
+U000849,México,Nuevo León,Monterrey,25.6358,-100.2885
+U000850,México,Nuevo León,Monterrey,25.7205,-100.361
+U000851,México,Yucatán,Mérida,20.9859,-89.5759
+U000852,México,Yucatán,Mérida,20.9066,-89.6843
+U000853,México,Jalisco,Guadalajara,20.6204,-103.3164
+U000854,México,Guanajuato,León,21.0539,-101.6315
+U000855,México,CDMX,Ciudad de México,19.4949,-99.1554
+U000857,México,Quintana Roo,Cancún,21.135,-86.7941
+U000859,Perú,Lima,Lima,,
+U000860,México,Querétaro,Querétaro,20.5669,-100.3687
+U000861,México,Puebla,Puebla,18.9784,-98.2379
+U000862,México,Puebla,Puebla,19.0031,-98.1507
+U000863,México,CDMX,Ciudad de México,19.5019,-99.1379
+U000864,México,CDMX,Ciudad de México,19.4045,-99.0593
+U000865,México,CDMX,Ciudad de México,19.4803,-99.1427
+U000866,México,Puebla,Puebla,19.0067,-98.1342
+U000867,México,Yucatán,Mérida,20.9246,-89.6018
+U000869,México,CDMX,Ciudad de México,19.3978,-99.1714
+U000870,México,Jalisco,Guadalajara,20.6361,-103.3139
+U000871,México,CDMX,Ciudad de México,19.4972,-99.1657
+U000872,México,CDMX,Ciudad de México,19.437,-99.159
+U000873,México,Yucatán,Mérida,20.8963,-89.5484
+U000874,México,Querétaro,Querétaro,,
+U000875,Chile,Región Metropolitana,Santiago,-33.5184,-70.6707
+U000876,México,Campeche,Campeche,19.7989,-90.4772
+U000877,México,Nuevo León,Monterrey,25.6106,-100.347
+U000878,México,Querétaro,Querétaro,20.5326,-100.459
+U000879,México,CDMX,Ciudad de México,19.4917,-99.1169
+U000880,México,CDMX,Ciudad de México,19.4593,-99.174
+U000881,México,Chihuahua,Chihuahua,28.7031,-106.128
+U000882,México,Yucatán,Mérida,20.947,-89.6553
+U000883,México,Baja California,Tijuana,32.5399,-117.0941
+U000885,Perú,Lima,Lima,-12.1266,-76.9704
+U000886,México,Jalisco,Guadalajara,20.7147,-103.2747
+U000887,México,Quintana Roo,Cancún,21.1926,-86.8758
+U000888,México,Yucatán,Mérida,20.9853,-89.6886
+U000890,México,Oaxaca,Oaxaca,17.0264,-96.7882
+U000891,México,Quintana Roo,Cancún,21.0801,-86.7895
+U000892,México,CDMX,Ciudad de México,19.4584,-99.1536
+U000893,Colombia,Cundinamarca,Bogotá,4.7017,-74.0254
+U000894,México,Nuevo León,Monterrey,25.6604,-100.2696
+U000895,México,CDMX,Ciudad de México,19.3794,-99.1022
+U000896,Estados Unidos,California,Los Ángeles,33.9972,-118.205
+U000897,México,CDMX,Ciudad de México,,
+U000898,México,Puebla,Puebla,19.0106,-98.2455
+U000899,México,Yucatán,Mérida,20.9743,-89.563
+U000901,México,Jalisco,Guadalajara,20.6449,-103.331
+U000902,México,CDMX,Ciudad de México,,
+U000903,México,Quintana Roo,Cancún,,
+U000904,México,Jalisco,Guadalajara,20.7281,-103.4051
+U000905,México,CDMX,Ciudad de México,19.4921,-99.1479
+U000906,México,Yucatán,Mérida,21.0106,-89.6294
+U000907,Colombia,Cundinamarca,Bogotá,4.7059,-74.0556
+U000909,México,Quintana Roo,Cancún,21.1111,-86.9044
+U000910,México,Yucatán,Mérida,21.0028,-89.6832
+U000911,México,Yucatán,Mérida,,
+U000912,México,Puebla,Puebla,19.0858,-98.1837
+U000913,México,Yucatán,Mérida,,
+U000914,México,Guanajuato,León,21.0791,-101.727
+U000915,México,CDMX,Ciudad de México,19.5019,-99.1921
+U000917,México,Yucatán,Mérida,21.0169,-89.6175
+U000918,México,Baja California,Tijuana,,
+U000919,México,Querétaro,Querétaro,,
+U000920,México,CDMX,Ciudad de México,19.4927,-99.0933
+U000921,México,Jalisco,Guadalajara,20.6529,-103.35
+U000922,México,Yucatán,Mérida,21.0118,-89.5617
+U000923,México,Nuevo León,Monterrey,,
+U000924,México,Quintana Roo,Cancún,,
+U000925,Estados Unidos,California,Los Ángeles,34.0515,-118.1786
+U000926,México,Yucatán,Mérida,20.9623,-89.5468
+U000927,México,CDMX,Ciudad de México,19.4124,-99.1824
+U000929,México,Yucatán,Mérida,20.9469,-89.5828
+U000930,México,Yucatán,Mérida,20.9641,-89.5455
+U000931,México,Yucatán,Mérida,21.0454,-89.6124
+U000932,México,CDMX,Ciudad de México,19.4391,-99.1722
+U000933,Argentina,Buenos Aires,Buenos Aires,-34.6485,-58.4398
+U000934,México,Querétaro,Querétaro,20.5351,-100.4545
+U000935,México,CDMX,Ciudad de México,19.3869,-99.1814
+U000936,Estados Unidos,California,Los Ángeles,34.0865,-118.2205
+U000937,México,Chihuahua,Chihuahua,28.6065,-106.1229
+U000938,México,Jalisco,Guadalajara,20.7262,-103.4034
+U000939,México,Quintana Roo,Cancún,21.1546,-86.8977
+U000940,México,Veracruz,Veracruz,19.1101,-96.1561
+U000941,México,Yucatán,Mérida,20.92,-89.6284
+U000942,México,Jalisco,Guadalajara,20.6832,-103.2999
+U000943,México,CDMX,Ciudad de México,19.4599,-99.1426
+U000944,México,Nuevo León,Monterrey,25.6849,-100.2796
+U000945,México,Oaxaca,Oaxaca,17.0965,-96.7843
+U000946,México,Tabasco,Villahermosa,18.02,-92.8518
+U000947,México,CDMX,Ciudad de México,19.3613,-99.1763
+U000948,México,Yucatán,Mérida,21.0332,-89.6583
+U000949,México,Quintana Roo,Cancún,21.1221,-86.7784
+U000950,México,Quintana Roo,Cancún,21.1473,-86.9129
+U000951,México,Yucatán,Mérida,20.9408,-89.6787
+U000952,México,Yucatán,Mérida,,
+U000953,México,Quintana Roo,Cancún,21.1753,-86.805
+U000954,México,Quintana Roo,Cancún,21.2077,-86.8502
+U000955,México,Yucatán,Mérida,,
+U000956,México,Jalisco,Guadalajara,20.7381,-103.4201
+U000958,México,Guanajuato,León,21.0488,-101.6675
+U000959,Colombia,Cundinamarca,Bogotá,4.6871,-74.1179
+U000960,México,Baja California,Tijuana,32.5575,-116.9983
+U000961,México,Quintana Roo,Cancún,21.1673,-86.8105
+U000962,México,CDMX,Ciudad de México,19.4342,-99.1524
+U000963,México,Nuevo León,Monterrey,25.7295,-100.3801
+U000964,México,Jalisco,Guadalajara,20.5992,-103.4021
+U000967,México,CDMX,Ciudad de México,19.3801,-99.1966
+U000968,Argentina,Buenos Aires,Buenos Aires,-34.563,-58.3716
+U000970,México,Querétaro,Querétaro,20.5264,-100.4689
+U000971,México,CDMX,Ciudad de México,19.4985,-99.1391
+U000973,México,CDMX,Ciudad de México,19.4468,-99.1478
+U000974,México,CDMX,Ciudad de México,19.4491,-99.1854
+U000975,México,Yucatán,Mérida,20.9406,-89.6285
+U000976,Perú,Lima,Lima,-12.0921,-77.0193
+U000977,México,Yucatán,Mérida,20.9396,-89.5479
+U000979,México,CDMX,Ciudad de México,19.4065,-99.1247
+U000980,México,Querétaro,Querétaro,20.5361,-100.3668
+U000981,México,Puebla,Puebla,,
+U000982,México,Veracruz,Veracruz,,
+U000984,México,Puebla,Puebla,19.0517,-98.2154
+U000985,México,CDMX,Ciudad de México,19.3925,-99.1272
+U000986,Argentina,Buenos Aires,Buenos Aires,-34.5253,-58.3636
+U000987,México,Quintana Roo,Cancún,21.2016,-86.7929
+U000988,México,CDMX,Ciudad de México,19.4976,-99.1957
+U000989,España,Comunidad de Madrid,Madrid,40.3738,-3.7011
+U000990,Colombia,Cundinamarca,Bogotá,4.7577,-74.02
+U000991,México,Yucatán,Mérida,21.0412,-89.6566
+U000992,México,Yucatán,Mérida,20.9888,-89.621
+U000993,México,Querétaro,Querétaro,20.6415,-100.4321
+U000995,México,Chihuahua,Chihuahua,28.6241,-106.1227
+U000996,México,Nuevo León,Monterrey,25.7088,-100.3498
+U000997,México,Veracruz,Veracruz,19.1258,-96.1611
+U000999,México,Jalisco,Guadalajara,20.7306,-103.2816
+U001000,México,CDMX,Ciudad de México,19.4596,-99.1883
+U001001,México,Oaxaca,Oaxaca,17.1277,-96.7836
+U001002,México,Guanajuato,León,21.1681,-101.7022
+U001003,Argentina,Buenos Aires,Buenos Aires,-34.6462,-58.4329
+U001004,Colombia,Cundinamarca,Bogotá,4.7345,-74.0966
+U001005,México,Yucatán,Mérida,20.937,-89.6185
+U001007,México,Yucatán,Mérida,21.0443,-89.6388
+U001008,México,Puebla,Puebla,18.9605,-98.2242
+U001009,México,Yucatán,Mérida,20.9129,-89.625
+U001010,México,Nuevo León,Monterrey,25.6332,-100.3027
+U001011,México,Jalisco,Guadalajara,20.6127,-103.4116
+U001012,México,Querétaro,Querétaro,20.6287,-100.3675
+U001013,México,Quintana Roo,Cancún,21.1867,-86.8633
+U001015,México,Campeche,Campeche,19.7832,-90.4769
+U001016,México,Quintana Roo,Cancún,21.1157,-86.8836
+U001017,México,CDMX,Ciudad de México,19.4156,-99.1032
+U001018,México,Guanajuato,León,21.139,-101.6364
+U001019,México,Oaxaca,Oaxaca,17.1241,-96.6629
+U001020,Chile,Región Metropolitana,Santiago,-33.4025,-70.6805
+U001022,México,Yucatán,Mérida,20.966,-89.668
+U001023,México,Quintana Roo,Cancún,21.231,-86.8934
+U001024,Argentina,Buenos Aires,Buenos Aires,-34.5974,-58.399
+U001025,Chile,Región Metropolitana,Santiago,-33.5093,-70.7172
+U001027,México,Baja California,Tijuana,32.5758,-117.0073
+U001028,México,Nuevo León,Monterrey,25.6804,-100.2964
+U001029,México,Jalisco,Guadalajara,,
+U001031,Perú,Lima,Lima,-11.9792,-77.0218
+U001033,México,Puebla,Puebla,19.0788,-98.2039
+U001034,México,Nuevo León,Monterrey,25.7391,-100.3107
+U001035,México,Guanajuato,León,,
+U001037,Perú,Lima,Lima,-12.0759,-77.0555
+U001038,México,Jalisco,Guadalajara,20.6425,-103.2729
+U001039,Chile,Región Metropolitana,Santiago,-33.3806,-70.6792
+U001040,México,CDMX,Ciudad de México,19.4313,-99.1918
+U001043,Estados Unidos,California,Los Ángeles,34.0602,-118.2746
+U001044,México,Yucatán,Mérida,20.9812,-89.5438
+U001045,México,Tabasco,Villahermosa,17.9111,-92.9143
+U001046,México,Nuevo León,Monterrey,25.6273,-100.2864
+U001049,México,Oaxaca,Oaxaca,17.0969,-96.6992
+U001050,México,Guanajuato,León,21.1623,-101.7479
+U001051,Chile,Región Metropolitana,Santiago,-33.4149,-70.6143
+U001052,México,Yucatán,Mérida,20.9246,-89.6089
+U001053,México,Nuevo León,Monterrey,25.6814,-100.3599
+U001054,México,CDMX,Ciudad de México,,
+U001055,México,Guanajuato,León,21.1381,-101.6694
+U001056,Colombia,Cundinamarca,Bogotá,4.642,-74.0846
+U001057,México,Jalisco,Guadalajara,,
+U001058,México,Yucatán,Mérida,20.9144,-89.6813
+U001059,México,Nuevo León,Monterrey,25.6737,-100.2831
+U001060,Chile,Región Metropolitana,Santiago,-33.3731,-70.6083
+U001061,México,CDMX,Ciudad de México,19.3715,-99.0591
+U001063,México,Nuevo León,Monterrey,25.7144,-100.2612
+U001064,México,Quintana Roo,Cancún,21.173,-86.8083
+U001065,México,Jalisco,Guadalajara,20.6636,-103.3943
+U001066,México,Chihuahua,Chihuahua,28.6082,-106.1217
+U001067,México,Jalisco,Guadalajara,20.7463,-103.4182
+U001068,México,Jalisco,Guadalajara,20.6297,-103.3213
