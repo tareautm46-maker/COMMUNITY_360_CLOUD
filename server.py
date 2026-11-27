@@ -266,6 +266,7 @@ def get_sentiment_stats():
 # Y NOTIFICACIÓN REACTIVA POR WEBSOCKETS (FASE 5)
 # =============================================================================
 @app.get("/api/interacciones")
+@app.get("/api/interacciones/")
 def list_interacciones(limit: int = 50):
     with engine.connect() as conn:
         query = text("""
@@ -325,6 +326,7 @@ def get_interaccion(id_interaccion: str):
         }
 
 @app.post("/api/interacciones", status_code=status.HTTP_201_CREATED)
+@app.post("/api/interacciones/", status_code=status.HTTP_201_CREATED)
 async def create_interaccion(data: InteractionCreate):
     with engine.begin() as conn:
         # Validar existencia de usuario (Integridad Referencial)
