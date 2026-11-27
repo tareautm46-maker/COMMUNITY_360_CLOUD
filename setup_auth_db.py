@@ -12,6 +12,16 @@ def hash_password(password: str) -> str:
     return bcrypt.hashpw(password.encode("utf-8"), salt).decode("utf-8")
 
 def get_engine():
+    try:
+        with open(".env", "r") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#") and "=" in line:
+                    k, v = line.split("=", 1)
+                    os.environ.setdefault(k.strip(), v.strip())
+    except Exception:
+        pass
+
     user = os.getenv("AIVEN_DB_USER", "avnadmin")
     password = os.getenv("AIVEN_DB_PASS", "")
     host = os.getenv("AIVEN_DB_HOST", "pg-17441907-tareautm46-43ae.k.aivencloud.com")
@@ -42,24 +52,31 @@ def init_auth_table():
         print("[OK] Tabla 'usuarios_admin' creada/verificada exitosamente.")
 
         # Verificar si existen usuarios admin
-        count = conn.execute(text("SELECT COUNT(*) FROM usuarios_admin;")).scalar()
-        if count == 0:
-            print("Sembrando usuarios administrativos por defecto...")
-            pwd_hash = hash_password("Admin360*")
-            
-            insert_stmt = text("""
-                INSERT INTO usuarios_admin (username, password_hash, nombre_completo, rol, activo)
-                VALUES 
-                    (:u1, :h1, :n1, :r1, TRUE),
-                    (:u2, :h2, :n2, :r2, TRUE);
-            """)
-            conn.execute(insert_stmt, {
-                "u1": "admin@community360.com", "h1": pwd_hash, "n1": "Diego Ortega (Admin)", "r1": "administrador",
-                "u2": "admin", "h2": pwd_hash, "n2": "Administrador General", "r2": "administrador"
-            })
-            print("[OK] Usuarios administradores sembrados: 'admin@community360.com' y 'admin' (Clave: Admin360*).")
-        else:
-            print(f"[INFO] Ya existen {count} administradores registrados en la base de datos.")
+        print("Sembrando usuarios administrativos por defecto...")
+        pwd_hash = hash_password("Admin360*")
+        pwd_docente_hash = hash_password("lizandr0_reye$")
+        
+        insert_stmt = text("""
+            INSERT INTO usuarios_admin (username, password_hash, nombre_completo, rol, activo)
+            VALUES 
+                (:u1, :h1, :n1, :r1, TRUE),
+                (:u2, :h1, :n2, :r1, TRUE),
+                (:u3, :h2, :n3, 'docente_evaluador', TRUE),
+                (:u4, :h2, :n3, 'docente_evaluador', TRUE)
+            ON CONFLICT (username) DO UPDATE 
+            SET password_hash = EXCLUDED.password_hash,
+                nombre_completo = EXCLUDED.nombre_completo,
+                activo = TRUE;
+        """)
+        conn.execute(insert_stmt, {
+            "u1": "admin@community360.com", "h1": pwd_hash, "n1": "Diego Ortega (Admin)", "r1": "administrador",
+            "u2": "admin", "n2": "Administrador General",
+            "u3": "lizandro.reyes", "h2": pwd_docente_hash, "n3": "Mtro. Lizandro Reyes (Docente Evaluador)",
+            "u4": "lizandro.reyes@utmetropolitana.edu.mx"
+        })
+        print("[OK] Usuarios sembrados exitosamente:")
+        print("  - Docente: 'lizandro.reyes' / 'lizandro.reyes@utmetropolitana.edu.mx' (Clave: lizandr0_reye$)")
+        print("  - Alumno: 'admin@community360.com' (Clave: Admin360*)")
 
 if __name__ == "__main__":
     init_auth_table()

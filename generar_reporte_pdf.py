@@ -185,9 +185,10 @@ def construir_pdf(nombre_archivo="PROY_U3_FaseFinal_Ortega_Diego.pdf"):
     <b>Unidad Temática:</b> Unidad III. Persistencia en la nube, arquitectura de datos y consumo reactivo<br/><br/>
     <b>Institución Educativa:</b> Universidad Tecnológica Metropolitana (UTM)<br/><br/>
     <b>División Académica:</b> Tecnologías de la Información y Comunicación<br/><br/>
+    <b>Docente Evaluador:</b> Mtro. Lizandro Reyes<br/><br/>
     <b>Alumno:</b> Diego Ortega<br/><br/>
     <b>Motor Cloud:</b> PostgreSQL 16 (Aiven Cloud Services)<br/><br/>
-    <b>Fecha de Presentación:</b> 25 de Noviembre de 2026
+    <b>Fecha de Presentación:</b> Noviembre de 2026
     """
     story.append(Paragraph(datos_portada, cover_meta))
     story.append(PageBreak())
@@ -309,6 +310,7 @@ def construir_pdf(nombre_archivo="PROY_U3_FaseFinal_Ortega_Diego.pdf"):
     story.append(Paragraph("3.1 Mecanismo de Seguridad y Hash Criptográfico", h2_style))
     story.append(Paragraph(
         "• <b>Hash con Salting:</b> Las contraseñas administrativas se almacenan procesadas mediante <code>bcrypt</code> con 12 rondas de salting aleatorio.<br/>"
+        "• <b>Cuenta Docente Evaluador:</b> Habilitada con permisos completos para auditoría (Usuario: <code>lizandro.reyes</code> / <code>lizandro.reyes@utmetropolitana.edu.mx</code>, Clave: <code>lizandr0_reye$</code>).<br/>"
         "• <b>JSON Web Tokens (JWT):</b> Al iniciar sesión exitosamente en <code>/api/auth/login</code>, el servidor firma un token criptográfico bajo el estándar <code>HS256</code> con caducidad de 24 horas.<br/>"
         "• <b>Protección de Rutas:</b> La dependencia <code>get_current_user</code> intercepta la cabecera <code>Authorization: Bearer &lt;token&gt;</code> para validar la identidad y permisos antes de otorgar acceso al dashboard.",
         bullet_style

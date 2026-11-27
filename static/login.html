@@ -81,16 +81,24 @@
             </button>
         </form>
 
-        <!-- Pestaña de Credenciales Rápidas para Demostración -->
-        <div class="pt-4 border-t border-slate-700/60 text-center">
-            <p class="text-xs text-slate-400 mb-2">Credenciales de prueba preconfiguradas:</p>
-            <div class="inline-flex items-center gap-2 px-3 py-1.5 bg-slate-900/70 rounded-lg border border-slate-700 text-xs text-slate-300 font-mono">
-                <span>admin@community360.com</span> | <span class="text-indigo-400">Admin360*</span>
+        <!-- Pestaña de Credenciales Rápidas para Demostración y Docente -->
+        <div class="pt-4 border-t border-slate-700/60 text-center space-y-2">
+            <p class="text-xs text-slate-400 font-medium">Credenciales de Acceso Docente Evaluador:</p>
+            <div onclick="llenarDocente()" class="cursor-pointer hover:bg-slate-800 transition-colors inline-flex items-center gap-2 px-3 py-1.5 bg-slate-900/90 rounded-lg border border-indigo-500/40 text-xs text-slate-200 font-mono">
+                <i class="fa-solid fa-chalkboard-user text-indigo-400"></i>
+                <span>lizandro.reyes</span> | <span class="text-indigo-400">lizandr0_reye$</span>
+            </div>
+            <div class="text-[11px] text-slate-500">
+                (Haz clic sobre las credenciales para autocompletar)
             </div>
         </div>
     </div>
 
     <script>
+        function llenarDocente() {
+            document.getElementById('username').value = 'lizandro.reyes';
+            document.getElementById('password').value = 'lizandr0_reye$';
+        }
         const form = document.getElementById('loginForm');
         const submitBtn = document.getElementById('submitBtn');
         const errorAlert = document.getElementById('errorAlert');
